@@ -7,7 +7,7 @@ Translations for each release are kept in their own sub-folder named for that re
 
 ### How do I use these translations?
 
-The language files are named using the language code and the **.i18n** extension. For example, a German translation would reside in a file named **de.i18n**, since **de* is the language code used for German.
+The language files are named using the language code and the **.i18n** extension. For example, a German translation would reside in a file named **de.i18n**, since **de** is the language code used for German.
 
 Copy the appropriate language file into the GCS **i18n** directory found in the GCS release package and re-launch GCS. GCS only reads the contents of these files once, at startup, so any changes made to them will not be noticed until you quit and re-launch.
 
