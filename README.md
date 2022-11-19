@@ -9,7 +9,7 @@ Translations for each release are kept in their own sub-folder named for that re
 
 The language files are named using the language code and the **.i18n** extension. For example, a German translation would reside in a file named **de.i18n**, since **de** is the language code used for German.
 
-Copy the appropriate language file into the GCS **i18n** directory found in the GCS release package and re-launch GCS. GCS only reads the contents of these files once, at startup, so any changes made to them will not be noticed until you quit and re-launch.
+Copy the appropriate language file into the GCS translations directory and relaunch GCS. For GCS v5+, the exact path can be found in the help on the command line: `gcs --help`. For versions of GCS prior to v5, this was typically a directory named **i18n** alongside the executable. GCS only reads the contents of these files once, at startup, so any changes made to them will not be noticed until you quit and re-launch.
 
 GCS determines which language to use by looking at environment variables. It first looks at `LC_ALL`. If that isn't set or is empty, it then looks at `LANG`. If that isn't set or is empty, it then falls back to using `en_US.UTF-8` as the language choice. In addition, if the language specified isn't available (i.e. no translation file is present, or a missing key in the translation file), then the languages listed in the `LANGUAGE` environment variable (separated by `:`) are used as fallbacks, in the order listed.
 
