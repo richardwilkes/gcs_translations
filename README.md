@@ -11,7 +11,9 @@ The language files are named using the language code and the `.i18n` extension. 
 
 Copy the appropriate language file into the GCS translations directory and relaunch GCS. For GCS v5+, the exact path can be found in the help on the command line: `gcs --help`. For versions of GCS prior to v5, this was typically a directory named `i18n` alongside the executable. GCS only reads the contents of these files once, at startup, so any changes made to them will not be noticed until you quit and re-launch.
 
-GCS determines which language to use by looking at environment variables. It first looks at `LC_ALL`. If that isn't set or is empty, it then looks at `LANG`. If that isn't set or is empty, it then falls back to using `en_US.UTF-8` as the language choice. In addition, if the language specified isn't available (i.e. no translation file is present, or a missing key in the translation file), then the languages listed in the `LANGUAGE` environment variable (separated by `:`) are used as fallbacks, in the order listed.
+GCS determines which language to use by looking at environment variables on macOS and Linux. It first looks at `LC_ALL`. If that isn't set or is empty, it then looks at `LANG`. If that isn't set or is empty, it then falls back to using `en_US.UTF-8` as the language choice. On Windows, GCS makes a system API call to determine the current user's default locale, so you should be setting your system to use whatever language is preferred.
+
+In addition, if the language specified isn't available (i.e. no translation file is present, or a missing key in the translation file), then the languages listed in the `LANGUAGE` environment variable (separated by `:`) are used as fallbacks, in the order listed.
 
 ### How do I create my own translations?
 
