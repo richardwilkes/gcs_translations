@@ -1,4 +1,4 @@
-# Generated on Sat, 13 May 2023 10:39:09 PDT
+# Generated on Sat, 25 May 2023 10:39:09 PDT
 #
 # Key-value pairs are defined as one or more lines prefixed with "k:" for the
 # key, followed by one or more lines prefixed with "v:" for the value. These
@@ -953,25 +953,25 @@ k:"Decimal (Display Only)"
 v:"Dezimal (nur Anzeige)"
 
 k:"Decrease Skill Level"
-v:"Fertigkeitslevel verringern"
+v:"Fertigkeitslevel senken"
 
 k:"Decrease Tech Level"
-v:"Tech Level verringern"
+v:"Tech Level senken"
 
 k:"Decrease Uses"
-v:"Anwendungen verringern"
+v:"Anwendungen senken"
 
 k:"Decrement"
-v:"Verringern"
+v:"Senken"
 
 k:"Decrement Level"
-v:"Level verringern"
+v:"Level senken"
 
 k:"Decrement Points"
-v:"Punkte verringern"
+v:"Punkte senken"
 
 k:"Decrement Quantity"
-v:"Menge verringern"
+v:"Menge senken"
 
 k:"Deep Snow"
 v:"Tiefer Schnee"
@@ -1596,7 +1596,7 @@ k:"Increase Uses"
 v:"Anwendungen erhöhen"
 
 k:"Increment"
-v:"Erhöhung"
+v:"Erhöhen"
 
 k:"Increment Level"
 v:"Level erhöhen"
