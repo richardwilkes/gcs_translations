@@ -2516,10 +2516,10 @@ k:"Physical"
 v:"Physisch"
 
 k:"Pick %s"
-v:"Wählen %s"
+v:"%s wählen"
 
 k:"Pick %s %s worth"
-v:"%s %s wählen im Wert von"
+v:"%s %s wählen"
 
 k:"Plains, Level"
 v:"Ebene, flach"

@@ -7,9 +7,9 @@ Translations for each release are kept in their own sub-folder named for that re
 
 ### How do I use these translations?
 
-The language files are named using the language code and the `.i18n` extension. For example, a German translation would reside in a file named `de-DE.i18n`, since `de-DE` is the language code used for German. 
+The language files are named using the language code and the `.i18n` extension. For example, a German translation would reside in a file named `de.i18n`, since `de` is the language code used for German.
 
-Copy the appropriate language file into the GCS translations directory and relaunch GCS. For GCS v5+, the exact path can be found in the help on the command line: `gcs --help`. You can also look up the language code used by your system in the "GCS General Options", the Locale will show up in grey if the appropriate line is left empty. For versions of GCS prior to v5, this was typically a directory named `i18n` alongside the executable. GCS only reads the contents of these files once, at startup, so any changes made to them will not be noticed until you quit and re-launch.
+Copy the appropriate language file into the GCS translations directory and relaunch GCS. For GCS v5+, the exact path can be found in the help on the command line: `gcs --help`. For versions of GCS prior to v5, this was typically a directory named `i18n` alongside the executable. GCS only reads the contents of these files once, at startup, so any changes made to them will not be noticed until you quit and re-launch.
 
 GCS determines which language to use by looking at environment variables on macOS and Linux. It first looks at `LC_ALL`. If that isn't set or is empty, it then looks at `LANG`. If that isn't set or is empty, it then falls back to using `en_US.UTF-8` as the language choice. On Windows, GCS makes a system API call to determine the current user's default locale, so you should be setting your system to use whatever language is preferred.
 
@@ -17,4 +17,4 @@ In addition, if the language specified isn't available (i.e. no translation file
 
 ### How do I create my own translations?
 
-If you'd like to provide a translation for a language you are fluent in, copy the `language.i18n` file found on the release page on github for the version you're interested in and name it for your language (e.g. `de-DE.i18n` for German), then edit its contents, updating the `v:` values to have the translation for the `k:` values. The file itself has more details about how to edit it. If you have questions, feel free to contact me about this.
+If you'd like to provide a translation for a language you are fluent in, copy the `language.i18n` file found on the release page on github for the version you're interested in and name it for your language (e.g. `de.i18n` for German), then edit its contents, updating the `v:` values to have the translation for the `k:` values. The file itself has more details about how to edit it. If you have questions, feel free to contact me about this.
