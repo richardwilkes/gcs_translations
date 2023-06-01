@@ -1,4 +1,4 @@
-# Generated on Thu, 04 May 2023 17:04:41 PDT
+# Generated on Sat, 25 May 2023 10:39:09 PDT
 #
 # Key-value pairs are defined as one or more lines prefixed with "k:" for the
 # key, followed by one or more lines prefixed with "v:" for the value. These
@@ -96,7 +96,7 @@ k:" <command> [command options]"
 v:" <Befehl> [Befehlsoptionen]"
 
 k:" a contained quantity which "
-v:" eine enthaltene Menge, die "
+v:" eine enthaltene Anzahl, die "
 
 k:" a contained weight which "
 v:" ein enthaltenes Gewicht, das "
@@ -228,7 +228,7 @@ k:"%s inches"
 v:"%s Zoll"
 
 k:"%s is copyrighted ©%s by %s"
-v:"%s ist urheberrechtlich geschützt ©%s  %s"
+v:"%s ist urheberrechtlich geschützt ©%s %s"
 
 k:"%s meters"
 v:"%s Meter"
@@ -500,7 +500,7 @@ k:"An ID for the hit location"
 v:"Eine ID für die Trefferzone"
 
 k:"Ancestry"
-v:"Vererbung"
+v:"Abstammung"
 
 k:"and"
 v:"und"
@@ -533,7 +533,7 @@ k:"Any Tag"
 v:"Jedes Tag"
 
 k:"anything"
-v:"jedes"
+v:"Alle"
 
 k:"Apply Changes"
 v:"Änderungen anwenden"
@@ -703,8 +703,9 @@ v:"Weitsprung:"
 k:"Broken Ground"
 v:"Unebener Boden"
 
+# Software build, not character's body!
 k:"Build "
-v:"Körperbau "
+v:"Build "
 
 k:"Built-in"
 v:"Eingebaut"
@@ -875,7 +876,7 @@ k:"Copy to Template"
 v:"In ein Template kopieren"
 
 k:"Copyright © %[1]s by %[2]s%[3]s All rights reserved."
-v:"Copyright © %[1]s by %[2]s%[3]s Alle Rechte vorbehalten."
+v:"Copyright © %[1]s %[2]s%[3]s Alle Rechte vorbehalten."
 
 k:"Cost"
 v:"Kosten"
@@ -896,19 +897,19 @@ k:"Count"
 v:"Anzahl"
 
 k:"CR Adjustment"
-v:"SCR-Anpassung"
+v:"CR-Anpassung"
 
 k:"CR: 6 (Resist rarely)"
-v:"SCR: 6 (selten widerstehen)"
+v:"CR: 6 (selten widerstehen)"
 
 k:"CR: 9 (Resist fairly often)"
-v:"SCR: 9 (oft widerstehen)"
+v:"CR: 9 (oft widerstehen)"
 
 k:"CR: 12 (Resist quite often)"
-v:"SCR: 12 (meist widerstehen)"
+v:"CR: 12 (meistens widerstehen)"
 
 k:"CR: 15 (Resist almost all the time)"
-v:"SCR: 15 (fast immer widerstehen)"
+v:"CR: 15 (fast immer widerstehen)"
 
 k:"Created"
 v:"Erstellt"
@@ -953,25 +954,25 @@ k:"Decimal (Display Only)"
 v:"Dezimal (nur Anzeige)"
 
 k:"Decrease Skill Level"
-v:"Fertigkeitslevel verringern"
+v:"Fertigkeitslevel senken"
 
 k:"Decrease Tech Level"
-v:"Tech Level verringern"
+v:"Tech Level senken"
 
 k:"Decrease Uses"
 v:"Anwendungen verringern"
 
 k:"Decrement"
-v:"Verringern"
+v:"Senken"
 
 k:"Decrement Level"
-v:"Level verringern"
+v:"Level senken"
 
 k:"Decrement Points"
-v:"Punkte verringern"
+v:"Punkte senken"
 
 k:"Decrement Quantity"
-v:"Menge verringern"
+v:"Menge senken"
 
 k:"Deep Snow"
 v:"Tiefer Schnee"
@@ -1522,7 +1523,7 @@ k:"Home"
 v:"Home"
 
 k:"Hours of Study"
-v:"Stunden Studium"
+v:"Stunden Lernen"
 
 k:"Hours Spent"
 v:"Aufgewandte Stunden"
@@ -1596,7 +1597,7 @@ k:"Increase Uses"
 v:"Anwendungen erhöhen"
 
 k:"Increment"
-v:"Erhöhung"
+v:"Erhöhen"
 
 k:"Increment Level"
 v:"Level erhöhen"
@@ -1677,7 +1678,7 @@ k:"is"
 v:"ist"
 
 k:"is anything"
-v:"ist alles von"
+v:"ist Alle"
 
 k:"is at least"
 v:"ist mindestens"
@@ -2510,10 +2511,11 @@ k:"Physical"
 v:"Physisch"
 
 k:"Pick %s"
-v:"Wählen %s"
+v:"%s wählen"
 
+# e.g. "Pick 3", "Pick at least 1 point worth" 
 k:"Pick %s %s worth"
-v:"%s %s wählen im Wert von"
+v:"%s %s wählen"
 
 k:"Plains, Level"
 v:"Ebene, flach"
@@ -2669,40 +2671,40 @@ k:"Quit"
 v:"Beenden"
 
 k:"Race"
-v:"Rennen"
+v:"Rasse"
 
 k:"Rain"
 v:"Regen"
 
 k:"Randomize the age using the current ancestry"
-v:"Zufallsgenerierung des Alters anhand der aktuellen Vererbung"
+v:"Zufallsgenerierung des Alters anhand der aktuellen Abstammung"
 
 k:"Randomize the birthday using the current calendar"
 v:"Zufallsgenerierung des Geburtstags anhand des aktuellen Kalenders"
 
 k:"Randomize the eyes using the current ancestry"
-v:"Zufallsgenerierung der Augen anhand der aktuellen Vererbung"
+v:"Zufallsgenerierung der Augen anhand der aktuellen Abstammung"
 
 k:"Randomize the gender using the current ancestry"
-v:"Zufallsgenerierung des Geschlechts anhand der aktuellen Vererbung"
+v:"Zufallsgenerierung des Geschlechts anhand der aktuellen Abstammung"
 
 k:"Randomize the hair using the current ancestry"
-v:"Zufallsgenerierung der Haare anhand der aktuellen Vererbung"
+v:"Zufallsgenerierung der Haare anhand der aktuellen Abstammung"
 
 k:"Randomize the handedness using the current ancestry"
 v:"Zufallsgenerierung der Händigkeit anhand der aktuellen Abstammung"
 
 k:"Randomize the height using the current ancestry"
-v:"Zufallsgenerierung des Größe anhand der aktuellen Vererbung"
+v:"Zufallsgenerierung des Größe anhand der aktuellen Abstammung"
 
 k:"Randomize the name using the current ancestry"
-v:"Zufallsgenerierung des Namens anhand der aktuellen Vererbung"
+v:"Zufallsgenerierung des Namens anhand der aktuellen Abstammung"
 
 k:"Randomize the skin using the current ancestry"
 v:"Zufallsgenerierung der Haut anhand der aktuellen Abstammung"
 
 k:"Randomize the weight using the current ancestry"
-v:"Zufallsgenerierung des Gewichts anhand der aktuellen Vererbung"
+v:"Zufallsgenerierung des Gewichts anhand der aktuellen Abstammung"
 
 k:"Range"
 v:"Bereich"
@@ -3169,10 +3171,10 @@ k:"State"
 v:"Zustand"
 
 k:"Studied %v/200 hours"
-v:"%v/200 Stunden trainiert"
+v:"%v/200 Stunden gelernt"
 
 k:"Study"
-v:"Training"
+v:"Lernen"
 
 k:"Sub-Editors"
 v:"Unter-Editoren"
@@ -3926,7 +3928,7 @@ k:"value"
 v:"Wert"
 
 k:"Value must be at least %s"
-v:"Mindest-Wert  %s"
+v:"Mindest-Wert %s"
 
 k:"Value must be no more than %s"
 v:"Maximal-Wert: %s"
