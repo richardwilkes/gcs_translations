@@ -1,4 +1,4 @@
-# Generated on Sat, 25 May 2023 10:39:09 PDT
+# Generated on Fri, 09 Jun 2023 15:47:52 PDT
 #
 # Key-value pairs are defined as one or more lines prefixed with "k:" for the
 # key, followed by one or more lines prefixed with "v:" for the value. These
@@ -703,7 +703,6 @@ v:"Weitsprung:"
 k:"Broken Ground"
 v:"Unebener Boden"
 
-# Software build, not character's body!
 k:"Build "
 v:"Build "
 
@@ -972,7 +971,7 @@ k:"Decrement Points"
 v:"Punkte senken"
 
 k:"Decrement Quantity"
-v:"Menge senken"
+v:"Menge verringern"
 
 k:"Deep Snow"
 v:"Tiefer Schnee"
@@ -1095,7 +1094,7 @@ k:"Document Workspace"
 v:"Arbeitsbereich"
 
 k:"Dodge"
-v:"Ausweichen"
+v:"Ausw."
 
 k:"does not contain"
 v:"enthält nicht"
@@ -1173,7 +1172,7 @@ k:"Encumbrance Penalty"
 v:"Traglast-Malus"
 
 k:"Encumbrance, Move & Dodge"
-v:"Traglast, Bewegung & Ausweichen"
+v:"Traglast, Bw. & Ausweichen"
 
 k:"End"
 v:"Ende"
@@ -1198,6 +1197,9 @@ v:"Ausrüstungsmodifikator"
 
 k:"Equipment Modifiers"
 v:"Ausrüstungsmodifikatoren"
+
+k:"Equipment with a rated ST use this value instead of the user's ST"
+v:"Ausrüstung mit fester ST verwendet diesen Wert anstelle der ST des Benutzers"
 
 k:"Equipped"
 v:"Ausgerüstet"
@@ -1272,6 +1274,12 @@ v:"Extra-Leicht"
 
 k:"Eyes"
 v:"Augen"
+
+k:"Favorite"
+v:"Favorit"
+
+k:"Favorites"
+v:"Favoriten"
 
 k:"Features"
 v:"Eigenschaften"
@@ -1454,10 +1462,10 @@ k:"Halve Dodge (round up)"
 v:"Ausweichen halbieren (aufrunden)"
 
 k:"Halve Move"
-v:"Bewegung halbieren"
+v:"½ Bewegung"
 
 k:"Halve Move (round up)"
-v:"Bewegung halbieren (aufrunden)"
+v:"½ Bewegung (aufrunden)"
 
 k:"Halve Strength"
 v:"Stärke halbieren"
@@ -1827,7 +1835,7 @@ k:"License: %s"
 v:"Lizenz: %s"
 
 k:"Lifting & Moving Things"
-v:"Dinge heben und bewegen"
+v:"Heben & Bewegen"
 
 k:"Light"
 v:"Licht"
@@ -1899,7 +1907,7 @@ k:"Max Auto Column Width"
 v:"Max. Auto-Spaltenbreite"
 
 k:"Max Load"
-v:"Max. Traglast"
+v:"Max."
 
 k:"Maximize"
 v:"Maximieren"
@@ -2004,7 +2012,7 @@ k:"Mountains"
 v:"Berge"
 
 k:"Move"
-v:"Bewegung"
+v:"Bw."
 
 k:"Mud"
 v:"Schlamm"
@@ -2035,6 +2043,9 @@ v:"Neuer Container für mitgeführte Ausrüstung"
 
 k:"New Character Sheet"
 v:"Neuer Charakterbogen"
+
+k:"New Character Sheet from Template"
+v:"Neuer Charakterbogen aus Template"
 
 k:"New Character Template"
 v:"Neues Charaktertemplate"
@@ -2511,11 +2522,10 @@ k:"Physical"
 v:"Physisch"
 
 k:"Pick %s"
-v:"%s wählen"
+v:"Wählen %s"
 
-# e.g. "Pick 3", "Pick at least 1 point worth" 
 k:"Pick %s %s worth"
-v:"%s %s wählen"
+v:"%s %s wählen im Wert von"
 
 k:"Plains, Level"
 v:"Ebene, flach"
@@ -2720,6 +2730,12 @@ v:"Fernkampfwaffen"
 
 k:"Rate of Fire"
 v:"Feuerrate"
+
+k:"Rated ST"
+v:"Feste ST"
+
+k:"Rated ST "
+v:"Feste ST "
 
 k:"Reach"
 v:"Reichweite"
@@ -3047,8 +3063,8 @@ v:"Charakterbogen-Einstellungen…"
 k:"Shift Slightly"
 v:"Geringfügig verschieben"
 
-k:"Shift-Click or %s-Click to select more than one"
-v:"Umschalt-Klick oder %s-Klick, um mehr als einen auszuwählen"
+k:"Shift-Click or %v-Click to select more than one"
+v:"Umschalt-Klick oder %v-Klick, um mehr als einen auszuwählen"
 
 k:"Short Name"
 v:"Kurzname"
@@ -3387,6 +3403,11 @@ v:"Die Lehrkraft muss die zu lehrende Fertigkeit/Zauberspruch/Eigenschaft mindes
 k:"The teacher must have the Teaching skill at 12+"
 v:"Die Lehrkraft muss die Fertigkeit \"Teaching\" auf 12+ haben"
 
+k:"The template contains an Ancestry (%s)."
+k:"Disable your character's existing Ancestry (%s)?"
+v:"Das Template enthält eine Abstammung (%s)."
+v:"Die bestehende Abstammung (%s) des Charakters deaktivieren?"
+
 k:"The time required to cast the spell"
 v:"Die Zeit zum Wirken des Zaubers"
 
@@ -3550,6 +3571,9 @@ v:"auf Kraftquellen, deren Namen"
 
 k:"to the spell whose name"
 v:"auf Zaubersprüche, deren Namen"
+
+k:"to this armor"
+v:"auf diese Rüstung"
 
 k:"to this weapon"
 v:"auf diese Waffe"
@@ -4015,6 +4039,9 @@ v:"World1"
 
 k:"World2"
 v:"World2"
+
+k:"Would you like to apply the initial randomization again?"
+v:"Möchten Sie die Charakter-Zufallsgenerierung erneut ausführen?"
 
 k:"x"
 v:"x"
