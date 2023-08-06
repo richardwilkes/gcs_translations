@@ -1,0 +1,4123 @@
+# Generated on Sun, 06 Aug 2023 07:25:41 PDT
+#
+# Key-value pairs are defined as one or more lines prefixed with "k:" for the
+# key, followed by one or more lines prefixed with "v:" for the value. These
+# prefixes are then followed by a quoted string, using escaping rules for Go
+# strings where needed. When two or more lines are present in a row, they will
+# be concatenated together with an intervening \n character.
+#
+# Do NOT modify the 'k' values. They are the values as seen in the code.
+#
+# Replace the 'v' values with the appropriate translation.
+
+k:"0 of 0"
+v:"0 of 0"
+
+k:"0-100%"
+v:"0-100%"
+
+k:"0-255 or 0-100%"
+v:"0-255 or 0-100%"
+
+k:"0-360 or 0-100%"
+v:"0-360 or 0-100%"
+
+k:"1 foot"
+v:"1 foot"
+
+k:"1 inch"
+v:"1 inch"
+
+k:"1 meter"
+v:"1 meter"
+
+k:"1 yard"
+v:"1 yard"
+
+k:"25% Scale"
+v:"25% Scale"
+
+k:"50% Scale"
+v:"50% Scale"
+
+k:"75% Scale"
+v:"75% Scale"
+
+k:"100% Scale"
+v:"100% Scale"
+
+k:"200% Scale"
+v:"200% Scale"
+
+k:"300% Scale"
+v:"300% Scale"
+
+k:"400% Scale"
+v:"400% Scale"
+
+k:"500% Scale"
+v:"500% Scale"
+
+k:"600% Scale"
+v:"600% Scale"
+
+k:""
+k:""
+k:"Requires these tags:"
+k:"● "
+v:""
+v:""
+v:"Requires these tags:"
+v:"● "
+
+k:""
+k:"Encumbrance [%s]"
+v:""
+v:"Encumbrance [%s]"
+
+k:""
+k:"Holding down the %s key while using"
+k:"the mouse wheel will change the scale."
+v:""
+v:"Holding down the %s key while using"
+v:"the mouse wheel will change the scale."
+
+k:""
+k:"This key is normally mapped to a PDF named:"
+k:"%s"
+v:""
+v:"This key is normally mapped to a PDF named:"
+v:"%s"
+
+k:" %[1]s [%[1]s options]"
+v:" %[1]s [%[1]s options]"
+
+k:" <command> [command options]"
+v:" <command> [command options]"
+
+k:" a contained quantity which "
+v:" a contained quantity which "
+
+k:" a contained weight which "
+v:" a contained weight which "
+
+k:" a skill whose name "
+v:" a skill whose name "
+
+k:" a trait whose name "
+v:" a trait whose name "
+
+k:" against "
+v:" against "
+
+k:" and level "
+v:" and level "
+
+k:" and tech level matches"
+v:" and tech level matches"
+
+k:" attacks]"
+v:" attacks]"
+
+k:" Block"
+v:" Block"
+
+k:" Default: "
+v:" Default: "
+
+k:" Dodge"
+v:" Dodge"
+
+k:" Files"
+v:" Files"
+
+k:" game, which is used by permission of Steve Jackson Games."
+v:" game, which is used by permission of Steve Jackson Games."
+
+k:" is a trademark of Steve Jackson Games, used by permission. All rights reserved."
+v:" is a trademark of Steve Jackson Games, used by permission. All rights reserved."
+
+k:" level "
+v:" level "
+
+k:" or "
+v:" or "
+
+k:" Parry"
+v:" Parry"
+
+k:" per die)"
+v:" per die)"
+
+k:" per full day"
+v:" per full day"
+
+k:" pts]"
+v:" pts]"
+
+k:" pt]"
+v:" pt]"
+
+k:" to damage"
+v:" to damage"
+
+k:" to DR divisor"
+v:" to DR divisor"
+
+k:" which "
+v:" which "
+
+k:"\"+5 lb\", \"-5 lb\", \"+10%\", \"-10%\""
+v:"\"+5 lb\", \"-5 lb\", \"+10%\", \"-10%\""
+
+k:"\"+5 lb\", \"-5 lb\", \"x10%\", \"x3\", \"x2/3\""
+v:"\"+5 lb\", \"-5 lb\", \"x10%\", \"x3\", \"x2/3\""
+
+k:"\"+5\", \"-5\", \"+10%\", \"-10%\", \"x3.2\""
+v:"\"+5\", \"-5\", \"+10%\", \"-10%\", \"x3.2\""
+
+k:"\"x2\", \"+2 CF\", \"-0.2 CF\""
+v:"\"x2\", \"+2 CF\", \"-0.2 CF\""
+
+k:"#"
+v:"#"
+
+k:"%"
+v:"%"
+
+k:"% per level"
+v:"% per level"
+
+k:"%d Action Penalty"
+v:"%d Action Penalty"
+
+k:"%d editors will be opened."
+v:"%d editors will be opened."
+
+k:"%d files will be opened."
+v:"%d files will be opened."
+
+k:"%d Fright Check Penalty"
+v:"%d Fright Check Penalty"
+
+k:"%d of %d"
+v:"%d of %d"
+
+k:"%d Reaction Penalty"
+v:"%d Reaction Penalty"
+
+k:"%s (%s per %s)"
+v:"%s (%s per %s)"
+
+k:"%s Changes"
+v:"%s Changes"
+
+k:"%s Container"
+v:"%s Container"
+
+k:"%s Editor for %s"
+v:"%s Editor for %s"
+
+k:"%s feet"
+v:"%s feet"
+
+k:"%s inches"
+v:"%s inches"
+
+k:"%s is copyrighted ©%s by %s"
+v:"%s is copyrighted ©%s by %s"
+
+k:"%s meters"
+v:"%s meters"
+
+k:"%s options:"
+k:""
+v:"%s options:"
+v:""
+
+k:"%s Points"
+v:"%s Points"
+
+k:"%s running start"
+v:"%s running start"
+
+k:"%s v%s is available!"
+v:"%s v%s is available!"
+
+k:"%s yards"
+v:"%s yards"
+
+k:"%s [options]"
+v:"%s [options]"
+
+k:"%s, Build %s"
+v:"%s, Build %s"
+
+k:"%sHas equipment which is equipped and whose name %s"
+v:"%sHas equipment which is equipped and whose name %s"
+
+k:"%v%v or %v%v"
+v:"%v%v or %v%v"
+
+k:"'%[1]s' is not a valid %[2]s command"
+v:"'%[1]s' is not a valid %[2]s command"
+
+k:"'%[1]s' is not a valid %[2]s command"
+k:""
+v:"'%[1]s' is not a valid %[2]s command"
+v:""
+
+k:"(base only)"
+v:"(base only)"
+
+k:"(levels only)"
+v:"(levels only)"
+
+k:") for 1 point"
+v:") for 1 point"
+
+k:"*From a [house rule](https://gamingballistic.com/2020/12/04/df-eastmarch-boss-fight-and-house-rules/) originating with Kevin Smyth*"
+v:"*From a [house rule](https://gamingballistic.com/2020/12/04/df-eastmarch-boss-fight-and-house-rules/) originating with Kevin Smyth*"
+
+k:"*From a [house rule](https://github.com/richardwilkes/gcs/pull/393) that uses d3s instead of d6s for damage*"
+v:"*From a [house rule](https://github.com/richardwilkes/gcs/pull/393) that uses d3s instead of d6s for damage*"
+
+k:"*From [Adjusting Swing Damage in Dungeon Fantasy](https://noschoolgrognard.blogspot.com/2013/04/adjusting-swing-damage-in-dungeon.html)*"
+v:"*From [Adjusting Swing Damage in Dungeon Fantasy](https://noschoolgrognard.blogspot.com/2013/04/adjusting-swing-damage-in-dungeon.html)*"
+
+k:"*From [Alternate Damage Scheme (Thr = Sw-2)](https://github.com/richardwilkes/gcs/issues/97)*"
+v:"*From [Alternate Damage Scheme (Thr = Sw-2)](https://github.com/richardwilkes/gcs/issues/97)*"
+
+k:"*From [Pyramid 3-83, pages 16-19](PY83:16)*"
+v:"*From [Pyramid 3-83, pages 16-19](PY83:16)*"
+
+k:"*From [T Bone's Games Diner](https://www.gamesdiner.com/rules-nugget-gurps-new-damage-for-st/)*"
+v:"*From [T Bone's Games Diner](https://www.gamesdiner.com/rules-nugget-gurps-new-damage-for-st/)*"
+
+k:"*The standard damage progression*"
+v:"*The standard damage progression*"
+
+k:"+"
+v:"+"
+
+k:"+%d Fright Check Bonus"
+v:"+%d Fright Check Bonus"
+
+k:"+%d%% Cost of Living Increase"
+v:"+%d%% Cost of Living Increase"
+
+k:", notes "
+v:", notes "
+
+k:", specialization "
+v:", specialization "
+
+k:"- hsl(), e.g. \"hsl(120, 100%, 50%)\""
+v:"- hsl(), e.g. \"hsl(120, 100%, 50%)\""
+
+k:"- hsla(), e.g. \"hsla(120, 100%, 50%, 0.3)\""
+v:"- hsla(), e.g. \"hsla(120, 100%, 50%, 0.3)\""
+
+k:"- long hexadecimal colors, e.g. \"#FFFF00\""
+v:"- long hexadecimal colors, e.g. \"#FFFF00\""
+
+k:"- predefined color name, e.g. \"Yellow\""
+v:"- predefined color name, e.g. \"Yellow\""
+
+k:"- rgb(), e.g. \"rgb(255, 255, 0)\""
+v:"- rgb(), e.g. \"rgb(255, 255, 0)\""
+
+k:"- rgba(), e.g. \"rgba(255, 255, 0, 0.3)\""
+v:"- rgba(), e.g. \"rgba(255, 255, 0, 0.3)\""
+
+k:"- short hexadecimal colors, e.g. \"#FF0\""
+v:"- short hexadecimal colors, e.g. \"#FF0\""
+
+k:"; Cost: -1"
+v:"; Cost: -1"
+
+k:"; Cost: -%d"
+v:"; Cost: -%d"
+
+k:"; Time: x1/%d, rounded up, min 1 sec"
+v:"; Time: x1/%d, rounded up, min 1 sec"
+
+k:"<unknown>"
+v:"<unknown>"
+
+k:"A0"
+v:"A0"
+
+k:"A1"
+v:"A1"
+
+k:"A2"
+v:"A2"
+
+k:"A3"
+v:"A3"
+
+k:"A4"
+v:"A4"
+
+k:"A5"
+v:"A5"
+
+k:"A6"
+v:"A6"
+
+k:"a contained quantity of"
+v:"a contained quantity of"
+
+k:"a contained weight"
+v:"a contained weight"
+
+k:"A description of any special effects for hits to this location"
+v:"A description of any special effects for hits to this location"
+
+k:"A explanation of the effects of the threshold state"
+v:"A explanation of the effects of the threshold state"
+
+k:"a list"
+v:"a list"
+
+k:"A page range in the form \"5\" or \"9-12\" or multiple"
+k:"separated by commas, such as \"1, 3-4 in ascending"
+k:"order with no overlapping ranges"
+v:"A page range in the form \"5\" or \"9-12\" or multiple"
+v:"separated by commas, such as \"1, 3-4 in ascending"
+v:"order with no overlapping ranges"
+
+k:"A reference to the book and page the item appears on e.g. B22 would refer to \"Basic Set\", page 22"
+v:"A reference to the book and page the item appears on e.g. B22 would refer to \"Basic Set\", page 22"
+
+k:"A short description of the threshold state"
+v:"A short description of the threshold state"
+
+k:"a skill"
+v:"a skill"
+
+k:"A snippet of text to highlight on the page when opening the page reference; only needed if the default behavior isn't highlighting the expected area"
+v:"A snippet of text to highlight on the page when opening the page reference; only needed if the default behavior isn't highlighting the expected area"
+
+k:"A title to use with the separator"
+v:"A title to use with the separator"
+
+k:"a trait"
+v:"a trait"
+
+k:"A unique ID for the attribute"
+v:"A unique ID for the attribute"
+
+k:"About %s"
+v:"About %s"
+
+k:"Acc"
+v:"Acc"
+
+k:"Accent"
+v:"Accent"
+
+k:"Accuracy"
+v:"Accuracy"
+
+k:"Accuracy Bonus"
+v:"Accuracy Bonus"
+
+k:"Add Attribute"
+v:"Add Attribute"
+
+k:"Add Entry"
+v:"Add Entry"
+
+k:"Add Hit Location"
+v:"Add Hit Location"
+
+k:"Add hit location"
+v:"Add hit location"
+
+k:"Add Library"
+v:"Add Library"
+
+k:"Add Natural Attacks"
+v:"Add Natural Attacks"
+
+k:"Add natural attacks to new sheets"
+v:"Add natural attacks to new sheets"
+
+k:"Add Pool Threshold"
+v:"Add Pool Threshold"
+
+k:"Add pool threshold"
+v:"Add pool threshold"
+
+k:"Add Sub-Table"
+v:"Add Sub-Table"
+
+k:"Add sub-table"
+v:"Add sub-table"
+
+k:"Additional notes for your own reference. These only exist in character sheets and will be removed if transferred to a data list or template"
+v:"Additional notes for your own reference. These only exist in character sheets and will be removed if transferred to a data list or template"
+
+k:"Advantages"
+v:"Advantages"
+
+k:"against"
+v:"against"
+
+k:"Age"
+v:"Age"
+
+k:"All Files"
+v:"All Files"
+
+k:"All Readable Files"
+v:"All Readable Files"
+
+k:"All rights reserved"
+v:"All rights reserved"
+
+k:"Alpha:"
+v:"Alpha:"
+
+k:"Alternate"
+v:"Alternate"
+
+k:"Alternative Abilities"
+v:"Alternative Abilities"
+
+k:"American Female"
+v:"American Female"
+
+k:"American Last"
+v:"American Last"
+
+k:"American Male"
+v:"American Male"
+
+k:"Amount"
+v:"Amount"
+
+k:"An expression to calculate the threshold value"
+v:"An expression to calculate the threshold value"
+
+k:"An ID for the hit location"
+v:"An ID for the hit location"
+
+k:"Ancestry"
+v:"Ancestry"
+
+k:"and"
+v:"and"
+
+k:"and all tags"
+v:"and all tags"
+
+k:"and at least one tag"
+v:"and at least one tag"
+
+k:"and whose level"
+v:"and whose level"
+
+k:"and whose notes"
+v:"and whose notes"
+
+k:"and whose relative skill level"
+v:"and whose relative skill level"
+
+k:"and whose specialization"
+v:"and whose specialization"
+
+k:"and whose usage"
+v:"and whose usage"
+
+k:"Any notes for VTT use; see the instructions for your VVT to determine if/how these can be used"
+v:"Any notes for VTT use; see the instructions for your VVT to determine if/how these can be used"
+
+k:"Any Tag"
+v:"Any Tag"
+
+k:"anything"
+v:"anything"
+
+k:"Apply Changes"
+v:"Apply Changes"
+
+k:"Apply changes made to"
+k:"%s?"
+v:"Apply changes made to"
+v:"%s?"
+
+k:"Apply Template"
+v:"Apply Template"
+
+k:"Apply Template to Character Sheet"
+v:"Apply Template to Character Sheet"
+
+k:"Arcane"
+v:"Arcane"
+
+k:"are not"
+v:"are not"
+
+k:"Are you sure you want to open all of these?"
+v:"Are you sure you want to open all of these?"
+
+k:"Are you sure you want to remove"
+k:"%s (%s)?"
+v:"Are you sure you want to remove"
+v:"%s (%s)?"
+
+k:"Are you sure you want to remove %s?"
+v:"Are you sure you want to remove %s?"
+
+k:"Are you sure you want to reset %s?"
+v:"Are you sure you want to reset %s?"
+
+k:"Are you sure you want to reset '%s'?"
+v:"Are you sure you want to reset '%s'?"
+
+k:"Are you sure you want to reset the"
+k:"%s?"
+v:"Are you sure you want to reset the"
+v:"%s?"
+
+k:"Armor Divisor"
+v:"Armor Divisor"
+
+k:"as a percentage"
+v:"as a percentage"
+
+k:"at least"
+v:"at least"
+
+k:"At least one path must be specified."
+v:"At least one path must be specified."
+
+k:"at most"
+v:"at most"
+
+k:"attacks"
+v:"attacks"
+
+k:"Attribute"
+v:"Attribute"
+
+k:"Attribute Definition Drag"
+v:"Attribute Definition Drag"
+
+k:"Attribute Qualifier"
+v:"Attribute Qualifier"
+
+k:"Attribute Type"
+v:"Attribute Type"
+
+k:"Attributes"
+v:"Attributes"
+
+k:"Attributes…"
+v:"Attributes…"
+
+k:"Automatic"
+v:"Automatic"
+
+k:"Available commands:"
+v:"Available commands:"
+
+k:"Back"
+v:"Back"
+
+k:"Background"
+v:"Background"
+
+k:"Backspace"
+v:"Backspace"
+
+k:"Banding"
+v:"Banding"
+
+k:"Base Cost"
+v:"Base Cost"
+
+k:"Base Damage"
+v:"Base Damage"
+
+k:"Base Markdown"
+v:"Base Markdown"
+
+k:"Base Skill"
+v:"Base Skill"
+
+k:"Base Value"
+v:"Base Value"
+
+k:"Basic Damage"
+v:"Basic Damage"
+
+k:"Basic Lift"
+v:"Basic Lift"
+
+k:"Basic Set"
+v:"Basic Set"
+
+k:"Basic Swing"
+v:"Basic Swing"
+
+k:"Basic Thrust"
+v:"Basic Thrust"
+
+k:"Birthday"
+v:"Birthday"
+
+k:"Bite"
+v:"Bite"
+
+k:"Black"
+v:"Black"
+
+k:"Block"
+v:"Block"
+
+k:"Block Layout"
+v:"Block Layout"
+
+k:"Block Modifier"
+v:"Block Modifier"
+
+k:"Blue:"
+v:"Blue:"
+
+k:"Body Type"
+v:"Body Type"
+
+k:"Body Type…"
+v:"Body Type…"
+
+k:"Bold"
+v:"Bold"
+
+k:"Bottom Margin"
+v:"Bottom Margin"
+
+k:"Brightness:"
+v:"Brightness:"
+
+k:"Bring All to Front"
+v:"Bring All to Front"
+
+k:"Broad Jump:"
+v:"Broad Jump:"
+
+k:"Broken Ground"
+v:"Broken Ground"
+
+k:"Build "
+v:"Build "
+
+k:"Built-in"
+v:"Built-in"
+
+k:"Bulk"
+v:"Bulk"
+
+k:"by %d%%"
+v:"by %d%%"
+
+k:"Calculator for %s"
+v:"Calculator for %s"
+
+k:"Calculators (jumping, throwing, hiking, etc.)"
+v:"Calculators (jumping, throwing, hiking, etc.)"
+
+k:"Calendar"
+v:"Calendar"
+
+k:"Cancel"
+v:"Cancel"
+
+k:"Cannot exceed default skill level by more than"
+v:"Cannot exceed default skill level by more than"
+
+k:"Cannot Redo"
+v:"Cannot Redo"
+
+k:"Cannot Undo"
+v:"Cannot Undo"
+
+k:"CapsLock"
+v:"CapsLock"
+
+k:"Carried Equipment (%s; $%s)"
+v:"Carried Equipment (%s; $%s)"
+
+k:"Carry On Back"
+v:"Carry On Back"
+
+k:"Cast"
+v:"Cast"
+
+k:"Casting Cost"
+v:"Casting Cost"
+
+k:"Casting Duration"
+v:"Casting Duration"
+
+k:"Casting Time"
+v:"Casting Time"
+
+k:"CF"
+v:"CF"
+
+k:"Character Sheets"
+v:"Character Sheets"
+
+k:"Character Templates"
+v:"Character Templates"
+
+k:"Check for %s updates"
+v:"Check for %s updates"
+
+k:"Checking for %s updates…"
+v:"Checking for %s updates…"
+
+k:"Choice Name"
+v:"Choice Name"
+
+k:"Choose an ink"
+v:"Choose an ink"
+
+k:"Choose one or more destinations:"
+v:"Choose one or more destinations:"
+
+k:"Class"
+v:"Class"
+
+k:"Clear"
+v:"Clear"
+
+k:"Clear Portrait"
+v:"Clear Portrait"
+
+k:"Click and drag this handle to rearrange"
+v:"Click and drag this handle to rearrange"
+
+k:"Close"
+v:"Close"
+
+k:"College"
+v:"College"
+
+k:"colleges"
+v:"colleges"
+
+k:"Color Mode"
+v:"Color Mode"
+
+k:"Colors"
+v:"Colors"
+
+k:"Colors…"
+v:"Colors…"
+
+k:"combined with"
+v:"combined with"
+
+k:"Compound"
+v:"Compound"
+
+k:"Condensed"
+v:"Condensed"
+
+k:"Condition"
+v:"Condition"
+
+k:"Conditional Modifier"
+v:"Conditional Modifier"
+
+k:"Conditional Modifiers"
+v:"Conditional Modifiers"
+
+k:"Configure"
+v:"Configure"
+
+k:"Contained Weight Reduction"
+v:"Contained Weight Reduction"
+
+k:"Container Type"
+v:"Container Type"
+
+k:"contains"
+v:"contains"
+
+k:"Content"
+v:"Content"
+
+k:"Content Filter"
+v:"Content Filter"
+
+k:"Control"
+v:"Control"
+
+k:"Control Edge"
+v:"Control Edge"
+
+k:"Convert to Container"
+v:"Convert to Container"
+
+k:"Convert to Non-Container"
+v:"Convert to Non-Container"
+
+k:"Converts all files specified on the command line to the current data format. If a directory is specified, it will be traversed recursively and all files found will be converted. This operation is intended to easily bring files up to the current version's data format. After all files have been processed, GCS will exit"
+v:"Converts all files specified on the command line to the current data format. If a directory is specified, it will be traversed recursively and all files found will be converted. This operation is intended to easily bring files up to the current version's data format. After all files have been processed, GCS will exit"
+
+k:"Copies"
+v:"Copies"
+
+k:"Copy"
+v:"Copy"
+
+k:"Copy to Character Sheet"
+v:"Copy to Character Sheet"
+
+k:"Copy to clipboard"
+v:"Copy to clipboard"
+
+k:"Copy to Other Character Sheet"
+v:"Copy to Other Character Sheet"
+
+k:"Copy to Template"
+v:"Copy to Template"
+
+k:"Copyright © %[1]s by %[2]s%[3]s All rights reserved."
+v:"Copyright © %[1]s by %[2]s%[3]s All rights reserved."
+
+k:"Cost"
+v:"Cost"
+
+k:"Cost Adjustment"
+v:"Cost Adjustment"
+
+k:"Cost Modifier"
+v:"Cost Modifier"
+
+k:"Cost Per Level"
+v:"Cost Per Level"
+
+k:"Cost per Point"
+v:"Cost per Point"
+
+k:"Count"
+v:"Count"
+
+k:"CR Adjustment"
+v:"CR Adjustment"
+
+k:"CR: 6 (Resist rarely)"
+v:"CR: 6 (Resist rarely)"
+
+k:"CR: 9 (Resist fairly often)"
+v:"CR: 9 (Resist fairly often)"
+
+k:"CR: 12 (Resist quite often)"
+v:"CR: 12 (Resist quite often)"
+
+k:"CR: 15 (Resist almost all the time)"
+v:"CR: 15 (Resist almost all the time)"
+
+k:"Created"
+v:"Created"
+
+k:"CSS:"
+v:"CSS:"
+
+k:"Current Name"
+v:"Current Name"
+
+k:"Current Tab"
+v:"Current Tab"
+
+k:"Cut"
+v:"Cut"
+
+k:"Damage"
+v:"Damage"
+
+k:"Damage Modifier"
+v:"Damage Modifier"
+
+k:"Damage Modifier Per Die"
+v:"Damage Modifier Per Die"
+
+k:"Damage Progression"
+v:"Damage Progression"
+
+k:"Damage Type"
+v:"Damage Type"
+
+k:"Damage:"
+v:"Damage:"
+
+k:"Dark"
+v:"Dark"
+
+k:"Decimal"
+v:"Decimal"
+
+k:"Decimal (Display Only)"
+v:"Decimal (Display Only)"
+
+k:"Decrease Skill Level"
+v:"Decrease Skill Level"
+
+k:"Decrease Tech Level"
+v:"Decrease Tech Level"
+
+k:"Decrease Uses"
+v:"Decrease Uses"
+
+k:"Decrement"
+v:"Decrement"
+
+k:"Decrement Level"
+v:"Decrement Level"
+
+k:"Decrement Points"
+v:"Decrement Points"
+
+k:"Decrement Quantity"
+v:"Decrement Quantity"
+
+k:"Deep Snow"
+v:"Deep Snow"
+
+k:"Default Adjustment"
+v:"Default Adjustment"
+
+k:"Default Attributes"
+v:"Default Attributes"
+
+k:"Default Attributes…"
+v:"Default Attributes…"
+
+k:"Default Body Type"
+v:"Default Body Type"
+
+k:"Default Body Type…"
+v:"Default Body Type…"
+
+k:"Default Player Name"
+v:"Default Player Name"
+
+k:"Default Scale"
+v:"Default Scale"
+
+k:"Default Sheet Settings"
+v:"Default Sheet Settings"
+
+k:"Default Sheet Settings…"
+v:"Default Sheet Settings…"
+
+k:"Default Tech Level"
+v:"Default Tech Level"
+
+k:"Default: "
+v:"Default: "
+
+k:"Defaults"
+v:"Defaults"
+
+k:"Defaults To"
+v:"Defaults To"
+
+k:"Delete"
+v:"Delete"
+
+k:"Delete Attribute"
+v:"Delete Attribute"
+
+k:"Delete Pool Threshold"
+v:"Delete Pool Threshold"
+
+k:"Delete Selection"
+v:"Delete Selection"
+
+k:"Description"
+v:"Description"
+
+k:"Desert"
+v:"Desert"
+
+k:"Desert, Hard-packed"
+v:"Desert, Hard-packed"
+
+k:"Determines the method used to calculate thrust and swing damage"
+v:"Determines the method used to calculate thrust and swing damage"
+
+k:"Development"
+v:"Development"
+
+k:"Development versions don't look for %s updates"
+v:"Development versions don't look for %s updates"
+
+k:"die"
+v:"die"
+
+k:"Diff"
+v:"Diff"
+
+k:"Difficulty"
+v:"Difficulty"
+
+k:"Disadvantages"
+v:"Disadvantages"
+
+k:"Discard Changes"
+v:"Discard Changes"
+
+k:"Display help information for a command and exit."
+v:"Display help information for a command and exit."
+
+k:"Display short version information and exit"
+v:"Display short version information and exit"
+
+k:"Display the full version information and exit"
+v:"Display the full version information and exit"
+
+k:"Display this help information and exit."
+v:"Display this help information and exit."
+
+k:"Distance:"
+v:"Distance:"
+
+k:"Divider"
+v:"Divider"
+
+k:"do not contain"
+v:"do not contain"
+
+k:"do not end with"
+v:"do not end with"
+
+k:"do not start with"
+v:"do not start with"
+
+k:"Dock Into Workspace"
+v:"Dock Into Workspace"
+
+k:"Document Workspace"
+v:"Document Workspace"
+
+k:"Dodge"
+v:"Dodge"
+
+k:"Does it exist?"
+v:"Does it exist?"
+
+k:"does not contain"
+v:"does not contain"
+
+k:"does not end with"
+v:"does not end with"
+
+k:"does not exist in the Markdown directory in any library."
+v:"does not exist in the Markdown directory in any library."
+
+k:"Does not have"
+v:"Does not have"
+
+k:"does not start with"
+v:"does not start with"
+
+k:"doesn't have"
+v:"doesn't have"
+
+k:"Double-click to set a character portrait, or drag an image onto this block."
+v:"Double-click to set a character portrait, or drag an image onto this block."
+
+k:"Down"
+v:"Down"
+
+k:"Download"
+v:"Download"
+
+k:"DR"
+v:"DR"
+
+k:"DR Bonus"
+v:"DR Bonus"
+
+k:"Drag"
+v:"Drag"
+
+k:"Drop Area"
+v:"Drop Area"
+
+k:"Duplicate"
+v:"Duplicate"
+
+k:"Duplicate Selection"
+v:"Duplicate Selection"
+
+k:"Duration"
+v:"Duration"
+
+k:"Edit"
+v:"Edit"
+
+k:"Editable"
+v:"Editable"
+
+k:"Editors"
+v:"Editors"
+
+k:"Enabled"
+v:"Enabled"
+
+k:"Encumbrance"
+v:"Encumbrance"
+
+k:"Encumbrance Penalty"
+v:"Encumbrance Penalty"
+
+k:"Encumbrance, Move & Dodge"
+v:"Encumbrance, Move & Dodge"
+
+k:"End"
+v:"End"
+
+k:"ends with"
+v:"ends with"
+
+k:"Enter a weight or percentage, e.g. \"2 lb\" or \"5%\""
+v:"Enter a weight or percentage, e.g. \"2 lb\" or \"5%\""
+
+k:"Equipment"
+v:"Equipment"
+
+k:"Equipment Item"
+v:"Equipment Item"
+
+k:"Equipment Items"
+v:"Equipment Items"
+
+k:"Equipment Modifier"
+v:"Equipment Modifier"
+
+k:"Equipment Modifiers"
+v:"Equipment Modifiers"
+
+k:"Equipment with a rated ST use this value instead of the user's ST"
+v:"Equipment with a rated ST use this value instead of the user's ST"
+
+k:"Equipped"
+v:"Equipped"
+
+k:"Error"
+v:"Error"
+
+k:"Error code 0x%04x"
+v:"Error code 0x%04x"
+
+k:"Escape"
+v:"Escape"
+
+k:"exactly"
+v:"exactly"
+
+k:"Exclude unspent points from total"
+v:"Exclude unspent points from total"
+
+k:"Existing content for this library will be removed and replaced."
+k:"Content in other libraries will not be modified"
+v:"Existing content for this library will be removed and replaced."
+v:"Content in other libraries will not be modified"
+
+k:"Existing remote (%) does not match requested remote (%s)"
+v:"Existing remote (%) does not match requested remote (%s)"
+
+k:"Exit"
+v:"Exit"
+
+k:"Exotic"
+v:"Exotic"
+
+k:"Expanded"
+v:"Expanded"
+
+k:"Explanation"
+v:"Explanation"
+
+k:"Export failed"
+v:"Export failed"
+
+k:"Export sheets using the specified template file"
+v:"Export sheets using the specified template file"
+
+k:"Export To…"
+v:"Export To…"
+
+k:"Export…"
+v:"Export…"
+
+k:"Extended"
+v:"Extended"
+
+k:"External PDF Viewer"
+v:"External PDF Viewer"
+
+k:"Extra-Black"
+v:"Extra-Black"
+
+k:"Extra-Bold"
+v:"Extra-Bold"
+
+k:"Extra-Condensed"
+v:"Extra-Condensed"
+
+k:"Extra-Expanded"
+v:"Extra-Expanded"
+
+k:"Extra-Light"
+v:"Extra-Light"
+
+k:"Eyes"
+v:"Eyes"
+
+k:"Favorite"
+v:"Favorite"
+
+k:"Favorites"
+v:"Favorites"
+
+k:"Features"
+v:"Features"
+
+k:"Feet & Inches"
+v:"Feet & Inches"
+
+k:"Field"
+v:"Field"
+
+k:"File"
+v:"File"
+
+k:"File already exists! Do you want to overwrite it?"
+v:"File already exists! Do you want to overwrite it?"
+
+k:"Fill in initial description"
+v:"Fill in initial description"
+
+k:"First Page"
+v:"First Page"
+
+k:"Fit Page"
+v:"Fit Page"
+
+k:"Fit Width"
+v:"Fit Width"
+
+k:"Focused Tab"
+v:"Focused Tab"
+
+k:"Folder Name"
+v:"Folder Name"
+
+k:"Font Size"
+v:"Font Size"
+
+k:"Fonts"
+v:"Fonts"
+
+k:"Fonts…"
+v:"Fonts…"
+
+k:"for lifting only"
+v:"for lifting only"
+
+k:"for striking only"
+v:"for striking only"
+
+k:"for throwing only"
+v:"for throwing only"
+
+k:"Forest"
+v:"Forest"
+
+k:"Forest, Dense"
+v:"Forest, Dense"
+
+k:"Forest, Light"
+v:"Forest, Light"
+
+k:"Forward"
+v:"Forward"
+
+k:"Fragmentation Armor Divisor"
+v:"Fragmentation Armor Divisor"
+
+k:"Fragmentation Base Damage"
+v:"Fragmentation Base Damage"
+
+k:"Fragmentation Type"
+v:"Fragmentation Type"
+
+k:"from different colleges"
+v:"from different colleges"
+
+k:"from equipment "
+v:"from equipment "
+
+k:"from others"
+v:"from others"
+
+k:"from others when %s is triggered"
+v:"from others when %s is triggered"
+
+k:"from skill "
+v:"from skill "
+
+k:"from trait "
+v:"from trait "
+
+k:"from/to target group"
+v:"from/to target group"
+
+k:"Frozen Lake"
+v:"Frozen Lake"
+
+k:"Frozen River"
+v:"Frozen River"
+
+k:"Full Name"
+v:"Full Name"
+
+k:"Gender"
+v:"Gender"
+
+k:"General Settings"
+v:"General Settings"
+
+k:"General Settings…"
+v:"General Settings…"
+
+k:"Generates a template for a localization file from source code."
+v:"Generates a template for a localization file from source code."
+
+k:"git is not installed"
+v:"git is not installed"
+
+k:"GitHub Access Token"
+v:"GitHub Access Token"
+
+k:"GitHub Account"
+v:"GitHub Account"
+
+k:"Gives a conditional modifier of"
+v:"Gives a conditional modifier of"
+
+k:"Gives a DR bonus of"
+v:"Gives a DR bonus of"
+
+k:"Gives a reaction modifier of"
+v:"Gives a reaction modifier of"
+
+k:"Gives a skill level modifier of"
+v:"Gives a skill level modifier of"
+
+k:"Gives a skill point modifier of"
+v:"Gives a skill point modifier of"
+
+k:"Gives a spell level modifier of"
+v:"Gives a spell level modifier of"
+
+k:"Gives a spell point modifier of"
+v:"Gives a spell point modifier of"
+
+k:"Gives a weapon damage modifier of"
+v:"Gives a weapon damage modifier of"
+
+k:"Gives a weapon DR divisor modifier of"
+v:"Gives a weapon DR divisor modifier of"
+
+k:"Gives an attribute modifier of"
+v:"Gives an attribute modifier of"
+
+k:"Go to first page"
+v:"Go to first page"
+
+k:"Go to last page"
+v:"Go to last page"
+
+k:"Go to next page"
+v:"Go to next page"
+
+k:"Go to previous page"
+v:"Go to previous page"
+
+k:"Green:"
+v:"Green:"
+
+k:"Group"
+v:"Group"
+
+k:"Group containers when sorting"
+v:"Group containers when sorting"
+
+k:"GURPS Character Sheet is an interactive character sheet editor for the GURPS Fourth Edition roleplaying game."
+v:"GURPS Character Sheet is an interactive character sheet editor for the GURPS Fourth Edition roleplaying game."
+
+k:"Hair"
+v:"Hair"
+
+k:"Halve Dodge"
+v:"Halve Dodge"
+
+k:"Halve Dodge (round up)"
+v:"Halve Dodge (round up)"
+
+k:"Halve Move"
+v:"Halve Move"
+
+k:"Halve Move (round up)"
+v:"Halve Move (round up)"
+
+k:"Halve Strength"
+v:"Halve Strength"
+
+k:"Halve Strength (round up; does not affect HP and damage)"
+v:"Halve Strength (round up; does not affect HP and damage)"
+
+k:"Hand"
+v:"Hand"
+
+k:"Has"
+v:"Has"
+
+k:"has"
+v:"has"
+
+k:"has equipped equipment"
+v:"has equipped equipment"
+
+k:"Header"
+v:"Header"
+
+k:"Heavy"
+v:"Heavy"
+
+k:"Height"
+v:"Height"
+
+k:"Help"
+v:"Help"
+
+k:"Hide %s"
+v:"Hide %s"
+
+k:"Hide Others"
+v:"Hide Others"
+
+k:"High Jump:"
+v:"High Jump:"
+
+k:"Hiking"
+v:"Hiking"
+
+k:"Hiking Extra Effort Penalty"
+v:"Hiking Extra Effort Penalty"
+
+k:"Hills, Rolling"
+v:"Hills, Rolling"
+
+k:"Hills, Steep"
+v:"Hills, Steep"
+
+k:"Hint"
+v:"Hint"
+
+k:"Hit Location Drag"
+v:"Hit Location Drag"
+
+k:"Hit Penalty"
+v:"Hit Penalty"
+
+k:"Home"
+v:"Home"
+
+k:"Hours of Study"
+v:"Hours of Study"
+
+k:"Hours Spent"
+v:"Hours Spent"
+
+k:"Hue:"
+v:"Hue:"
+
+k:"Icon Button"
+v:"Icon Button"
+
+k:"Icon Button Rollover"
+v:"Icon Button Rollover"
+
+k:"ID"
+v:"ID"
+
+k:"Identity"
+v:"Identity"
+
+k:"If your PDF is opening up to the wrong page when opening page references, enter an offset here to compensate."
+v:"If your PDF is opening up to the wrong page when opening page references, enter an offset here to compensate."
+
+k:"Ignore weight for skills"
+v:"Ignore weight for skills"
+
+k:"Image Export Resolution"
+v:"Image Export Resolution"
+
+k:"Images"
+v:"Images"
+
+k:"Import…"
+v:"Import…"
+
+k:"Inactive Selection"
+v:"Inactive Selection"
+
+k:"Includes a Major Cost of Living Increase and Merchant Skill Penalty"
+v:"Includes a Major Cost of Living Increase and Merchant Skill Penalty"
+
+k:"Includes a Minor Cost of Living Increase"
+v:"Includes a Minor Cost of Living Increase"
+
+k:"Includes a Reaction Penalty for Failure"
+v:"Includes a Reaction Penalty for Failure"
+
+k:"Includes an Action Penalty for Failure"
+v:"Includes an Action Penalty for Failure"
+
+k:"Includes Fright Check Bonus"
+v:"Includes Fright Check Bonus"
+
+k:"Includes Fright Check Penalty"
+v:"Includes Fright Check Penalty"
+
+k:"Includes modifiers from"
+v:"Includes modifiers from"
+
+k:"Includes modifiers from:"
+v:"Includes modifiers from:"
+
+k:"Increase Skill Level"
+v:"Increase Skill Level"
+
+k:"Increase Tech Level"
+v:"Increase Tech Level"
+
+k:"Increase Uses"
+v:"Increase Uses"
+
+k:"Increment"
+v:"Increment"
+
+k:"Increment Level"
+v:"Increment Level"
+
+k:"Increment Points"
+v:"Increment Points"
+
+k:"Increment Quantity"
+v:"Increment Quantity"
+
+k:"Indirect Selection"
+v:"Indirect Selection"
+
+k:"Initial Editor Scale"
+v:"Initial Editor Scale"
+
+k:"Initial Image Scale"
+v:"Initial Image Scale"
+
+k:"Initial List Scale"
+v:"Initial List Scale"
+
+k:"Initial Markdown Scale"
+v:"Initial Markdown Scale"
+
+k:"Initial PDF Scale"
+v:"Initial PDF Scale"
+
+k:"Initial Points"
+v:"Initial Points"
+
+k:"Initial points"
+v:"Initial points"
+
+k:"Initial Sheet Scale"
+v:"Initial Sheet Scale"
+
+k:"Inline"
+v:"Inline"
+
+k:"Inline & Tooltip"
+v:"Inline & Tooltip"
+
+k:"Insert"
+v:"Insert"
+
+k:"Insert %s"
+v:"Insert %s"
+
+k:"Integer"
+v:"Integer"
+
+k:"Integer (Display Only)"
+v:"Integer (Display Only)"
+
+k:"Intensive Training"
+v:"Intensive Training"
+
+k:"Interface Locale"
+v:"Interface Locale"
+
+k:"Interior Divider"
+v:"Interior Divider"
+
+k:"Invalid file data."
+v:"Invalid file data."
+
+k:"Invalid option specification: %v"
+v:"Invalid option specification: %v"
+
+k:"Invalid option: -%s"
+v:"Invalid option: -%s"
+
+k:"Invalid option: --%s"
+v:"Invalid option: --%s"
+
+k:"invalid path"
+v:"invalid path"
+
+k:"Invalid value"
+v:"Invalid value"
+
+k:"Invisible"
+v:"Invisible"
+
+k:"is"
+v:"is"
+
+k:"is anything"
+v:"is anything"
+
+k:"is at least"
+v:"is at least"
+
+k:"is at most"
+v:"is at most"
+
+k:"is not"
+v:"is not"
+
+k:"Italic"
+v:"Italic"
+
+k:"Item"
+v:"Item"
+
+k:"JPEG"
+v:"JPEG"
+
+k:"Jump Running Start"
+v:"Jump Running Start"
+
+k:"Jumping"
+v:"Jumping"
+
+k:"Jumping Extra Effort Penalty"
+v:"Jumping Extra Effort Penalty"
+
+k:"Jungle"
+v:"Jungle"
+
+k:"Keyboard"
+v:"Keyboard"
+
+k:"Kick"
+v:"Kick"
+
+k:"kilometer"
+v:"kilometer"
+
+k:"kilometers"
+v:"kilometers"
+
+k:"Knowing Your Own Strength"
+v:"Knowing Your Own Strength"
+
+k:"Label"
+v:"Label"
+
+k:"Landscape"
+v:"Landscape"
+
+k:"Last Page"
+v:"Last Page"
+
+k:"LC"
+v:"LC"
+
+k:"LC0: Banned"
+v:"LC0: Banned"
+
+k:"LC0: Banned"
+k:"LC1: Military"
+k:"LC2: Restricted"
+k:"LC3: Licensed"
+k:"LC4: Open"
+v:"LC0: Banned"
+v:"LC1: Military"
+v:"LC2: Restricted"
+v:"LC3: Licensed"
+v:"LC4: Open"
+
+k:"LC1: Military"
+v:"LC1: Military"
+
+k:"LC2: Restricted"
+v:"LC2: Restricted"
+
+k:"LC3: Licensed"
+v:"LC3: Licensed"
+
+k:"LC4: Open"
+v:"LC4: Open"
+
+k:"Leave field blank to auto-populate with the character's TL when added to a character sheet."
+v:"Leave field blank to auto-populate with the character's TL when added to a character sheet."
+
+k:"Leave the GitHub Account blank for local directories not on GitHub"
+v:"Leave the GitHub Account blank for local directories not on GitHub"
+
+k:"Left"
+v:"Left"
+
+k:"Left Margin"
+v:"Left Margin"
+
+k:"Left-Command"
+v:"Left-Command"
+
+k:"Left-Control"
+v:"Left-Control"
+
+k:"Left-Option"
+v:"Left-Option"
+
+k:"Left-Shift"
+v:"Left-Shift"
+
+k:"Legal"
+v:"Legal"
+
+k:"Legality Class"
+v:"Legality Class"
+
+k:"Length Units"
+v:"Length Units"
+
+k:"Letter"
+v:"Letter"
+
+k:"Level"
+v:"Level"
+
+k:"level"
+v:"level"
+
+k:"Level Qualifier"
+v:"Level Qualifier"
+
+k:"Levels"
+v:"Levels"
+
+k:"Libraries"
+v:"Libraries"
+
+k:"Library Explorer"
+v:"Library Explorer"
+
+k:"Library Explorer Deep Search In…"
+v:"Library Explorer Deep Search In…"
+
+k:"Library Settings: %s"
+v:"Library Settings: %s"
+
+k:"License"
+v:"License"
+
+k:"License: %s"
+v:"License: %s"
+
+k:"Lifting & Moving Things"
+v:"Lifting & Moving Things"
+
+k:"Light"
+v:"Light"
+
+k:"Limit"
+v:"Limit"
+
+k:"Link"
+v:"Link"
+
+k:"link"
+v:"link"
+
+k:"Load Attributes"
+v:"Load Attributes"
+
+k:"Load Body Type"
+v:"Load Body Type"
+
+k:"Location"
+v:"Location"
+
+k:"Log Path"
+v:"Log Path"
+
+k:"Made a successful Hiking (B200) roll"
+v:"Made a successful Hiking (B200) roll"
+
+k:"Made a successful Skating (B220) roll"
+v:"Made a successful Skating (B220) roll"
+
+k:"Made a successful Skiing (B221) roll"
+v:"Made a successful Skiing (B221) roll"
+
+k:"Mailing Lists"
+v:"Mailing Lists"
+
+k:"Maintain"
+v:"Maintain"
+
+k:"Maintenance Cost"
+v:"Maintenance Cost"
+
+k:"Make a One-time Donation for %s Development"
+v:"Make a One-time Donation for %s Development"
+
+k:"Markdown"
+v:"Markdown"
+
+k:"Markdown Guide"
+v:"Markdown Guide"
+
+k:"Markdown Preview"
+v:"Markdown Preview"
+
+k:"Marker"
+v:"Marker"
+
+k:"Markov Letter"
+v:"Markov Letter"
+
+k:"Markov Run"
+v:"Markov Run"
+
+k:"Master Library"
+v:"Master Library"
+
+k:"Max Auto Column Width"
+v:"Max Auto Column Width"
+
+k:"Max Load"
+v:"Max Load"
+
+k:"Maximize"
+v:"Maximize"
+
+k:"Maximum of 4 hours per day with a full-time job"
+v:"Maximum of 4 hours per day with a full-time job"
+
+k:"Maximum of 4 hours per day with a part-time job"
+v:"Maximum of 4 hours per day with a part-time job"
+
+k:"Maximum of 8 hours per day"
+v:"Maximum of 8 hours per day"
+
+k:"Maximum of 8 hours per day with a full-time job"
+v:"Maximum of 8 hours per day with a full-time job"
+
+k:"Maximum of 8 hours per day with a part-time job"
+v:"Maximum of 8 hours per day with a part-time job"
+
+k:"Maximum of 12 hours per day with no job"
+v:"Maximum of 12 hours per day with no job"
+
+k:"Maximum of 16 hours per day"
+v:"Maximum of 16 hours per day"
+
+k:"Maximum Uses"
+v:"Maximum Uses"
+
+k:"Maximum Uses: %d"
+v:"Maximum Uses: %d"
+
+k:"md"
+v:"md"
+
+k:"Media"
+v:"Media"
+
+k:"Medium"
+v:"Medium"
+
+k:"Melee Weapon"
+v:"Melee Weapon"
+
+k:"Melee Weapon Usage"
+v:"Melee Weapon Usage"
+
+k:"Melee Weapons"
+v:"Melee Weapons"
+
+k:"Mental"
+v:"Mental"
+
+k:"Menu"
+v:"Menu"
+
+k:"Menu Keys"
+v:"Menu Keys"
+
+k:"Menu Keys…"
+v:"Menu Keys…"
+
+k:"Meta"
+v:"Meta"
+
+k:"Meta-Trait"
+v:"Meta-Trait"
+
+k:"meter"
+v:"meter"
+
+k:"mile"
+v:"mile"
+
+k:"miles"
+v:"miles"
+
+k:"Minimize"
+v:"Minimize"
+
+k:"Minimum ST"
+v:"Minimum ST"
+
+k:"Minimum Strength"
+v:"Minimum Strength"
+
+k:"Miscellaneous"
+v:"Miscellaneous"
+
+k:"Modified"
+v:"Modified"
+
+k:"Modified %s"
+v:"Modified %s"
+
+k:"Modifier"
+v:"Modifier"
+
+k:"Modifiers"
+v:"Modifiers"
+
+k:"Monitor Resolution"
+v:"Monitor Resolution"
+
+k:"Monospaced"
+v:"Monospaced"
+
+k:"Mountains"
+v:"Mountains"
+
+k:"Move"
+v:"Move"
+
+k:"Move Equipment"
+v:"Move Equipment"
+
+k:"Move to Carried Equipment"
+v:"Move to Carried Equipment"
+
+k:"Move to Other Equipment"
+v:"Move to Other Equipment"
+
+k:"Mud"
+v:"Mud"
+
+k:"Multiple"
+v:"Multiple"
+
+k:"Must be assigned to a college"
+v:"Must be assigned to a college"
+
+k:"Must specify a command name"
+v:"Must specify a command name"
+
+k:"Name"
+v:"Name"
+
+k:"Name Qualifier"
+v:"Name Qualifier"
+
+k:"Natural Attacks"
+v:"Natural Attacks"
+
+k:"New Carried Equipment"
+v:"New Carried Equipment"
+
+k:"New Carried Equipment Container"
+v:"New Carried Equipment Container"
+
+k:"New Character Sheet"
+v:"New Character Sheet"
+
+k:"New Character Sheet from Template"
+v:"New Character Sheet from Template"
+
+k:"New Character Template"
+v:"New Character Template"
+
+k:"New Equipment Library"
+v:"New Equipment Library"
+
+k:"New Equipment Modifier"
+v:"New Equipment Modifier"
+
+k:"New Equipment Modifier Container"
+v:"New Equipment Modifier Container"
+
+k:"New Equipment Modifiers Library"
+v:"New Equipment Modifiers Library"
+
+k:"New Folder"
+v:"New Folder"
+
+k:"New Markdown File"
+v:"New Markdown File"
+
+k:"New Melee Weapon"
+v:"New Melee Weapon"
+
+k:"New Name"
+v:"New Name"
+
+k:"New Note"
+v:"New Note"
+
+k:"New Note Container"
+v:"New Note Container"
+
+k:"New Notes Library"
+v:"New Notes Library"
+
+k:"New Other Equipment"
+v:"New Other Equipment"
+
+k:"New Other Equipment Container"
+v:"New Other Equipment Container"
+
+k:"New Ranged Weapon"
+v:"New Ranged Weapon"
+
+k:"New Ritual Magic Spell"
+v:"New Ritual Magic Spell"
+
+k:"New Skill"
+v:"New Skill"
+
+k:"New Skill Container"
+v:"New Skill Container"
+
+k:"New Skills Library"
+v:"New Skills Library"
+
+k:"New Spell"
+v:"New Spell"
+
+k:"New Spell Container"
+v:"New Spell Container"
+
+k:"New Spells Library"
+v:"New Spells Library"
+
+k:"New Technique"
+v:"New Technique"
+
+k:"New Trait"
+v:"New Trait"
+
+k:"New Trait Container"
+v:"New Trait Container"
+
+k:"New Trait Modifier"
+v:"New Trait Modifier"
+
+k:"New Trait Modifier Container"
+v:"New Trait Modifier Container"
+
+k:"New Trait Modifiers Library"
+v:"New Trait Modifiers Library"
+
+k:"New Traits Library"
+v:"New Traits Library"
+
+k:"Next Match"
+v:"Next Match"
+
+k:"Next Page"
+v:"Next Page"
+
+k:"No"
+v:"No"
+
+k:"No %s updates are available"
+v:"No %s updates are available"
+
+k:"No additional modifiers"
+v:"No additional modifiers"
+
+k:"No Auto-Scaling"
+v:"No Auto-Scaling"
+
+k:"No export templates available"
+v:"No export templates available"
+
+k:"No files to process."
+v:"No files to process."
+
+k:"No other character sheets are open!"
+v:"No other character sheets are open!"
+
+k:"No recent files available"
+v:"No recent files available"
+
+k:"No School Grognard Damage"
+v:"No School Grognard Damage"
+
+k:"None"
+v:"None"
+
+k:"None Required"
+v:"None Required"
+
+k:"Normal"
+v:"Normal"
+
+k:"not"
+v:"not"
+
+k:"Not Applicable"
+v:"Not Applicable"
+
+k:"Not Shown"
+v:"Not Shown"
+
+k:"Note"
+v:"Note"
+
+k:"Note: This action cannot be undone and will remove %s from disk."
+v:"Note: This action cannot be undone and will remove %s from disk."
+
+k:"Note: This action will NOT remove any files from disk."
+v:"Note: This action will NOT remove any files from disk."
+
+k:"Notes"
+v:"Notes"
+
+k:"Notes Qualifier"
+v:"Notes Qualifier"
+
+k:"Number of matches found"
+v:"Number of matches found"
+
+k:"NumLock"
+v:"NumLock"
+
+k:"NumPad-0"
+v:"NumPad-0"
+
+k:"NumPad-1"
+v:"NumPad-1"
+
+k:"NumPad-2"
+v:"NumPad-2"
+
+k:"NumPad-3"
+v:"NumPad-3"
+
+k:"NumPad-4"
+v:"NumPad-4"
+
+k:"NumPad-5"
+v:"NumPad-5"
+
+k:"NumPad-6"
+v:"NumPad-6"
+
+k:"NumPad-7"
+v:"NumPad-7"
+
+k:"NumPad-8"
+v:"NumPad-8"
+
+k:"NumPad-9"
+v:"NumPad-9"
+
+k:"NumPad-Add"
+v:"NumPad-Add"
+
+k:"NumPad-Decimal"
+v:"NumPad-Decimal"
+
+k:"NumPad-Divide"
+v:"NumPad-Divide"
+
+k:"NumPad-Enter"
+v:"NumPad-Enter"
+
+k:"NumPad-Equal"
+v:"NumPad-Equal"
+
+k:"NumPad-Minus"
+v:"NumPad-Minus"
+
+k:"NumPad-Multiply"
+v:"NumPad-Multiply"
+
+k:"object"
+v:"object"
+
+k:"Object Weight"
+v:"Object Weight"
+
+k:"Oblique"
+v:"Oblique"
+
+k:"of"
+v:"of"
+
+k:"of %d"
+v:"of %d"
+
+k:"of any kind"
+v:"of any kind"
+
+k:"OK"
+v:"OK"
+
+k:"On Background"
+v:"On Background"
+
+k:"On Banding"
+v:"On Banding"
+
+k:"On Content"
+v:"On Content"
+
+k:"On Control"
+v:"On Control"
+
+k:"On Current Tab"
+v:"On Current Tab"
+
+k:"On Editable"
+v:"On Editable"
+
+k:"On Error"
+v:"On Error"
+
+k:"On Focused Tab"
+v:"On Focused Tab"
+
+k:"On Header"
+v:"On Header"
+
+k:"On Inactive Selection"
+v:"On Inactive Selection"
+
+k:"On Indirect Selection"
+v:"On Indirect Selection"
+
+k:"On Marker"
+v:"On Marker"
+
+k:"On Overloaded"
+v:"On Overloaded"
+
+k:"On Page"
+v:"On Page"
+
+k:"On Page Standout"
+v:"On Page Standout"
+
+k:"On Pressed Control"
+v:"On Pressed Control"
+
+k:"On Search List"
+v:"On Search List"
+
+k:"On Selection"
+v:"On Selection"
+
+k:"On Tooltip"
+v:"On Tooltip"
+
+k:"On Warning"
+v:"On Warning"
+
+k:"On-the-Job Training"
+v:"On-the-Job Training"
+
+k:"Once configured, GitHub repositories will be scanned for release tags in the form \"v%d.x.y\" through \"v%d.x.y\", where x and y can be any numeric value"
+v:"Once configured, GitHub repositories will be scanned for release tags in the form \"v%d.x.y\" through \"v%d.x.y\", where x and y can be any numeric value"
+
+k:"One-Handed Lift"
+v:"One-Handed Lift"
+
+k:"One-Sided"
+v:"One-Sided"
+
+k:"Open"
+v:"Open"
+
+k:"Open Detail Editor"
+v:"Open Detail Editor"
+
+k:"Open Each Page Reference"
+v:"Open Each Page Reference"
+
+k:"Open one or more other character sheets first."
+v:"Open one or more other character sheets first."
+
+k:"Open Page Reference"
+v:"Open Page Reference"
+
+k:"Opening the link failed"
+v:"Opening the link failed"
+
+k:"Opens/closes all hierarchical rows"
+v:"Opens/closes all hierarchical rows"
+
+k:"Open…"
+v:"Open…"
+
+k:"Optimize For"
+v:"Optimize For"
+
+k:"Option %s requires an argument"
+v:"Option %s requires an argument"
+
+k:"Option --%[1]s does not allow an argument: %[2]s"
+v:"Option --%[1]s does not allow an argument: %[2]s"
+
+k:"Option must be named"
+v:"Option must be named"
+
+k:"Option must have a value"
+v:"Option must have a value"
+
+k:"Option specification -%s already exists"
+v:"Option specification -%s already exists"
+
+k:"Option specification --%s already exists"
+v:"Option specification --%s already exists"
+
+k:"Options:"
+v:"Options:"
+
+k:"or"
+v:"or"
+
+k:"Organization"
+v:"Organization"
+
+k:"Orientation"
+v:"Orientation"
+
+k:"Original"
+v:"Original"
+
+k:"Other Equipment ($%s)"
+v:"Other Equipment ($%s)"
+
+k:"Overloaded"
+v:"Overloaded"
+
+k:"Overspent"
+v:"Overspent"
+
+k:"Page"
+v:"Page"
+
+k:"Page %d of %d"
+v:"Page %d of %d"
+
+k:"Page Highlight"
+v:"Page Highlight"
+
+k:"Page Offset"
+v:"Page Offset"
+
+k:"Page Primary Fields"
+v:"Page Primary Fields"
+
+k:"Page Primary Footer"
+v:"Page Primary Footer"
+
+k:"Page Primary Labels"
+v:"Page Primary Labels"
+
+k:"Page Ranges"
+v:"Page Ranges"
+
+k:"Page Ref"
+v:"Page Ref"
+
+k:"Page Reference"
+v:"Page Reference"
+
+k:"Page Reference Mappings"
+v:"Page Reference Mappings"
+
+k:"Page Reference Mappings…"
+v:"Page Reference Mappings…"
+
+k:"Page Search"
+v:"Page Search"
+
+k:"Page Secondary Fields"
+v:"Page Secondary Fields"
+
+k:"Page Secondary Footer"
+v:"Page Secondary Footer"
+
+k:"Page Secondary Labels"
+v:"Page Secondary Labels"
+
+k:"Page Settings"
+v:"Page Settings"
+
+k:"Page Standout"
+v:"Page Standout"
+
+k:"Page Void"
+v:"Page Void"
+
+k:"PageDown"
+v:"PageDown"
+
+k:"PageUp"
+v:"PageUp"
+
+k:"Paper Size"
+v:"Paper Size"
+
+k:"Parry"
+v:"Parry"
+
+k:"Parry Modifier"
+v:"Parry Modifier"
+
+k:"Paste"
+v:"Paste"
+
+k:"Path"
+v:"Path"
+
+k:"Pause"
+v:"Pause"
+
+k:"PC"
+v:"PC"
+
+k:"PDF"
+v:"PDF"
+
+k:"PDF Link Highlight"
+v:"PDF Link Highlight"
+
+k:"PDF Marker Highlight"
+v:"PDF Marker Highlight"
+
+k:"PDFs"
+v:"PDFs"
+
+k:"penalty for extra effort"
+v:"penalty for extra effort"
+
+k:"penalty for extra effort."
+v:"penalty for extra effort."
+
+k:"per die"
+v:"per die"
+
+k:"per level"
+v:"per level"
+
+k:"Phoenix Flame D3"
+v:"Phoenix Flame D3"
+
+k:"Physical"
+v:"Physical"
+
+k:"Pick %s"
+v:"Pick %s"
+
+k:"Pick %s %s worth"
+v:"Pick %s %s worth"
+
+k:"Plains, Level"
+v:"Plains, Level"
+
+k:"Player"
+v:"Player"
+
+k:"PNG"
+v:"PNG"
+
+k:"point"
+v:"point"
+
+k:"Point Cost"
+v:"Point Cost"
+
+k:"Point Pool Current"
+v:"Point Pool Current"
+
+k:"Point Pool Maximum"
+v:"Point Pool Maximum"
+
+k:"Point Pools"
+v:"Point Pools"
+
+k:"Point Record Changes"
+v:"Point Record Changes"
+
+k:"Points"
+v:"Points"
+
+k:"points"
+v:"points"
+
+k:"Points earned but not yet spent"
+v:"Points earned but not yet spent"
+
+k:"Points Record for %s"
+v:"Points Record for %s"
+
+k:"Points spent on %s"
+v:"Points spent on %s"
+
+k:"Pool"
+v:"Pool"
+
+k:"Pool Separator"
+v:"Pool Separator"
+
+k:"Pool Threshold Drag"
+v:"Pool Threshold Drag"
+
+k:"Portrait"
+v:"Portrait"
+
+k:"Power Source"
+v:"Power Source"
+
+k:"ppi"
+v:"ppi"
+
+k:"ppi (A value of 0 will cause the ppi reported by your monitor to be used)"
+v:"ppi (A value of 0 will cause the ppi reported by your monitor to be used)"
+
+k:"Preferences…"
+v:"Preferences…"
+
+k:"Prerequisite Count"
+v:"Prerequisite Count"
+
+k:"Prerequisites"
+v:"Prerequisites"
+
+k:"Prerequisites have not been met:"
+v:"Prerequisites have not been met:"
+
+k:"Press RETURN to select the next match"
+k:"Press SHIFT-RETURN to select the previous match"
+v:"Press RETURN to select the next match"
+v:"Press SHIFT-RETURN to select the previous match"
+
+k:"Pressed Control"
+v:"Pressed Control"
+
+k:"Pressed Icon Button"
+v:"Pressed Icon Button"
+
+k:"Pressed Link"
+v:"Pressed Link"
+
+k:"Preview"
+v:"Preview"
+
+k:"Previous Match"
+v:"Previous Match"
+
+k:"Previous Page"
+v:"Previous Page"
+
+k:"Primary Attributes"
+v:"Primary Attributes"
+
+k:"Primary Separator"
+v:"Primary Separator"
+
+k:"Print"
+v:"Print"
+
+k:"Printing '%s' failed"
+v:"Printing '%s' failed"
+
+k:"PrintScreen"
+v:"PrintScreen"
+
+k:"Print…"
+v:"Print…"
+
+k:"Processed 1 file"
+v:"Processed 1 file"
+
+k:"Processed %d files"
+k:""
+v:"Processed %d files"
+v:""
+
+k:"Processing %s"
+k:""
+v:"Processing %s"
+v:""
+
+k:"Professional Teacher"
+v:"Professional Teacher"
+
+k:"Provide substitutions:"
+v:"Provide substitutions:"
+
+k:"Pts"
+v:"Pts"
+
+k:"Punch"
+v:"Punch"
+
+k:"Quantity"
+v:"Quantity"
+
+k:"Quantity Criteria"
+v:"Quantity Criteria"
+
+k:"Quirks"
+v:"Quirks"
+
+k:"Quit"
+v:"Quit"
+
+k:"Rain"
+v:"Rain"
+
+k:"Randomize the age using the current ancestry"
+v:"Randomize the age using the current ancestry"
+
+k:"Randomize the birthday using the current calendar"
+v:"Randomize the birthday using the current calendar"
+
+k:"Randomize the eyes using the current ancestry"
+v:"Randomize the eyes using the current ancestry"
+
+k:"Randomize the gender using the current ancestry"
+v:"Randomize the gender using the current ancestry"
+
+k:"Randomize the hair using the current ancestry"
+v:"Randomize the hair using the current ancestry"
+
+k:"Randomize the handedness using the current ancestry"
+v:"Randomize the handedness using the current ancestry"
+
+k:"Randomize the height using the current ancestry"
+v:"Randomize the height using the current ancestry"
+
+k:"Randomize the name using the current ancestry"
+v:"Randomize the name using the current ancestry"
+
+k:"Randomize the skin using the current ancestry"
+v:"Randomize the skin using the current ancestry"
+
+k:"Randomize the weight using the current ancestry"
+v:"Randomize the weight using the current ancestry"
+
+k:"Range"
+v:"Range"
+
+k:"Ranged Weapon"
+v:"Ranged Weapon"
+
+k:"Ranged Weapon Usage"
+v:"Ranged Weapon Usage"
+
+k:"Ranged Weapons"
+v:"Ranged Weapons"
+
+k:"Rate of Fire"
+v:"Rate of Fire"
+
+k:"Rated ST"
+v:"Rated ST"
+
+k:"Rated ST "
+v:"Rated ST "
+
+k:"Reach"
+v:"Reach"
+
+k:"Reaction"
+v:"Reaction"
+
+k:"Reaction Modifier"
+v:"Reaction Modifier"
+
+k:"Reaction Modifiers"
+v:"Reaction Modifiers"
+
+k:"Readable Files (%s)"
+v:"Readable Files (%s)"
+
+k:"Reason"
+v:"Reason"
+
+k:"Recent Files"
+v:"Recent Files"
+
+k:"Recoil"
+v:"Recoil"
+
+k:"Reconciliation"
+v:"Reconciliation"
+
+k:"Recursive loading of arguments from a file is not permitted: %s"
+v:"Recursive loading of arguments from a file is not permitted: %s"
+
+k:"Red:"
+v:"Red:"
+
+k:"Redo %s"
+v:"Redo %s"
+
+k:"Reduces the attribute cost of"
+v:"Reduces the attribute cost of"
+
+k:"Reduces the contained weight by"
+v:"Reduces the contained weight by"
+
+k:"Reduction for Talent level 1"
+v:"Reduction for Talent level 1"
+
+k:"Reduction for Talent level 2"
+v:"Reduction for Talent level 2"
+
+k:"Reduction for Talent level 3"
+v:"Reduction for Talent level 3"
+
+k:"Reduction for Talent level 4"
+v:"Reduction for Talent level 4"
+
+k:"Regular"
+v:"Regular"
+
+k:"Relative Skill Level"
+v:"Relative Skill Level"
+
+k:"Release Notes"
+v:"Release Notes"
+
+k:"Religion"
+v:"Religion"
+
+k:"Remove attribute"
+v:"Remove attribute"
+
+k:"Remove Entry"
+v:"Remove Entry"
+
+k:"Remove Hit Location"
+v:"Remove Hit Location"
+
+k:"Remove hit location"
+v:"Remove hit location"
+
+k:"Remove pool threshold"
+v:"Remove pool threshold"
+
+k:"Remove Sub-Table"
+v:"Remove Sub-Table"
+
+k:"Remove sub-table"
+v:"Remove sub-table"
+
+k:"Rename"
+v:"Rename"
+
+k:"Rendering page %d…"
+v:"Rendering page %d…"
+
+k:"Repository"
+v:"Repository"
+
+k:"Required"
+v:"Required"
+
+k:"Requires a skill named "
+v:"Requires a skill named "
+
+k:"Requires all of:"
+v:"Requires all of:"
+
+k:"requires all of:"
+v:"requires all of:"
+
+k:"Requires at least 1 point in the skill named "
+v:"Requires at least 1 point in the skill named "
+
+k:"Requires at least one of:"
+v:"Requires at least one of:"
+
+k:"requires at least one of:"
+v:"requires at least one of:"
+
+k:"Reset"
+v:"Reset"
+
+k:"Reset Attributes"
+v:"Reset Attributes"
+
+k:"Reset Body Type"
+v:"Reset Body Type"
+
+k:"Resist"
+v:"Resist"
+
+k:"Resistance"
+v:"Resistance"
+
+k:"Restore"
+v:"Restore"
+
+k:"Return"
+v:"Return"
+
+k:"Reverse Landscape"
+v:"Reverse Landscape"
+
+k:"Reverse Portrait"
+v:"Reverse Portrait"
+
+k:"Right"
+v:"Right"
+
+k:"Right Margin"
+v:"Right Margin"
+
+k:"Right-Command"
+v:"Right-Command"
+
+k:"Right-Control"
+v:"Right-Control"
+
+k:"Right-Option"
+v:"Right-Option"
+
+k:"Right-Shift"
+v:"Right-Shift"
+
+k:"Ritual: need both hands and feet free and must speak; Time: 2x"
+v:"Ritual: need both hands and feet free and must speak; Time: 2x"
+
+k:"Ritual: none"
+v:"Ritual: none"
+
+k:"Ritual: speak a word or two OR make a small gesture"
+v:"Ritual: speak a word or two OR make a small gesture"
+
+k:"Ritual: speak quietly and make a gesture"
+v:"Ritual: speak quietly and make a gesture"
+
+k:"Road, Cobblestone"
+v:"Road, Cobblestone"
+
+k:"Road, Dirt"
+v:"Road, Dirt"
+
+k:"Road, Gravel"
+v:"Road, Gravel"
+
+k:"Road, Paved"
+v:"Road, Paved"
+
+k:"Roads are cleared"
+v:"Roads are cleared"
+
+k:"RoF"
+v:"RoF"
+
+k:"Roll"
+v:"Roll"
+
+k:"Rollover Link"
+v:"Rollover Link"
+
+k:"Round Down"
+v:"Round Down"
+
+k:"RSL"
+v:"RSL"
+
+k:"Running Shove & Knock Over"
+v:"Running Shove & Knock Over"
+
+k:"Sand"
+v:"Sand"
+
+k:"Sand, Hard-packed"
+v:"Sand, Hard-packed"
+
+k:"Saturation:"
+v:"Saturation:"
+
+k:"Save"
+v:"Save"
+
+k:"Save As…"
+v:"Save As…"
+
+k:"Save changes made to"
+k:"%s?"
+v:"Save changes made to"
+v:"%s?"
+
+k:"Save…"
+v:"Save…"
+
+k:"Scale"
+v:"Scale"
+
+k:"Scale Down"
+v:"Scale Down"
+
+k:"Scale Up"
+v:"Scale Up"
+
+k:"Scaling"
+v:"Scaling"
+
+k:"Scroll"
+v:"Scroll"
+
+k:"Scroll Edge"
+v:"Scroll Edge"
+
+k:"Scroll Rollover"
+v:"Scroll Rollover"
+
+k:"Scroll Wheel Multiplier"
+v:"Scroll Wheel Multiplier"
+
+k:"ScrollLock"
+v:"ScrollLock"
+
+k:"Search"
+v:"Search"
+
+k:"Search List"
+v:"Search List"
+
+k:"Searching for printers…"
+v:"Searching for printers…"
+
+k:"Secondary Attributes"
+v:"Secondary Attributes"
+
+k:"Secondary Fields"
+v:"Secondary Fields"
+
+k:"Secondary Separator"
+v:"Secondary Separator"
+
+k:"seconds"
+v:"seconds"
+
+k:"Select All"
+v:"Select All"
+
+k:"Select Image…"
+v:"Select Image…"
+
+k:"Select Modifiers for"
+v:"Select Modifiers for"
+
+k:"Selection"
+v:"Selection"
+
+k:"Self-Control Roll"
+v:"Self-Control Roll"
+
+k:"Self-Control Roll Adjustment"
+v:"Self-Control Roll Adjustment"
+
+k:"Self-Taught"
+v:"Self-Taught"
+
+k:"Semi-Bold"
+v:"Semi-Bold"
+
+k:"Semi-Condensed"
+v:"Semi-Condensed"
+
+k:"Semi-Expanded"
+v:"Semi-Expanded"
+
+k:"Separate multiple %s with commas"
+v:"Separate multiple %s with commas"
+
+k:"Services"
+v:"Services"
+
+k:"Set"
+v:"Set"
+
+k:"Set Portrait"
+v:"Set Portrait"
+
+k:"Sets the width of each column to fit its contents"
+v:"Sets the width of each column to fit its contents"
+
+k:"Settings"
+v:"Settings"
+
+k:"Settings Path"
+v:"Settings Path"
+
+k:"Sheet Settings"
+v:"Sheet Settings"
+
+k:"Sheet Settings…"
+v:"Sheet Settings…"
+
+k:"Shift Slightly"
+v:"Shift Slightly"
+
+k:"Shift-Click or %v-Click to select more than one"
+v:"Shift-Click or %v-Click to select more than one"
+
+k:"Short Name"
+v:"Short Name"
+
+k:"Shots"
+v:"Shots"
+
+k:"Shove & Knock Over"
+v:"Shove & Knock Over"
+
+k:"Show All"
+v:"Show All"
+
+k:"Show equipment modifier cost & weight adjustments"
+v:"Show equipment modifier cost & weight adjustments"
+
+k:"Show on Disk"
+v:"Show on Disk"
+
+k:"Show spell ritual, cost & time adjustments"
+v:"Show spell ritual, cost & time adjustments"
+
+k:"Show the title instead of the name in the footer"
+v:"Show the title instead of the name in the footer"
+
+k:"Show trait modifier cost adjustments"
+v:"Show trait modifier cost adjustments"
+
+k:"Sides"
+v:"Sides"
+
+k:"Simple"
+v:"Simple"
+
+k:"Size"
+v:"Size"
+
+k:"Size Modifier"
+v:"Size Modifier"
+
+k:"Skill"
+v:"Skill"
+
+k:"Skill / Technique"
+v:"Skill / Technique"
+
+k:"Skill Level"
+v:"Skill Level"
+
+k:"Skill Level Adjustments"
+v:"Skill Level Adjustments"
+
+k:"Skill Name"
+v:"Skill Name"
+
+k:"Skill Specialization"
+v:"Skill Specialization"
+
+k:"Skills"
+v:"Skills"
+
+k:"Skin"
+v:"Skin"
+
+k:"SL"
+v:"SL"
+
+k:"Sleet"
+v:"Sleet"
+
+k:"Slots"
+v:"Slots"
+
+k:"SM Reduction"
+v:"SM Reduction"
+
+k:"Snow"
+v:"Snow"
+
+k:"Snow, Heavy"
+v:"Snow, Heavy"
+
+k:"Social"
+v:"Social"
+
+k:"Space"
+v:"Space"
+
+k:"Specialization"
+v:"Specialization"
+
+k:"Specialization Qualifier"
+v:"Specialization Qualifier"
+
+k:"Spell"
+v:"Spell"
+
+k:"Spell Qualifier"
+v:"Spell Qualifier"
+
+k:"spell(s)"
+v:"spell(s)"
+
+k:"Spells"
+v:"Spells"
+
+k:"Sponsor %s Development"
+v:"Sponsor %s Development"
+
+k:"ST"
+v:"ST"
+
+k:"Standard"
+v:"Standard"
+
+k:"starts with"
+v:"starts with"
+
+k:"State"
+v:"State"
+
+k:"Studied %v of %s hours"
+v:"Studied %v of %s hours"
+
+k:"Study"
+v:"Study"
+
+k:"Sub-Editors"
+v:"Sub-Editors"
+
+k:"Sub-Roll"
+v:"Sub-Roll"
+
+k:"Supernatural"
+v:"Supernatural"
+
+k:"sw (leveled)"
+v:"sw (leveled)"
+
+k:"Swamp"
+v:"Swamp"
+
+k:"Swap Defaults"
+v:"Swap Defaults"
+
+k:"Swing = Thrust+2"
+v:"Swing = Thrust+2"
+
+k:"System"
+v:"System"
+
+k:"System (Emphasized)"
+v:"System (Emphasized)"
+
+k:"System (Small)"
+v:"System (Small)"
+
+k:"System (Small, Emphasized)"
+v:"System (Small, Emphasized)"
+
+k:"T Bone's New Damage for ST (option 1)"
+v:"T Bone's New Damage for ST (option 1)"
+
+k:"T Bone's New Damage for ST (option 1, cleaned)"
+v:"T Bone's New Damage for ST (option 1, cleaned)"
+
+k:"T Bone's New Damage for ST (option 2)"
+v:"T Bone's New Damage for ST (option 2)"
+
+k:"T Bone's New Damage for ST (option 2, cleaned)"
+v:"T Bone's New Damage for ST (option 2, cleaned)"
+
+k:"Tab"
+v:"Tab"
+
+k:"Table Name"
+v:"Table Name"
+
+k:"Tabloid"
+v:"Tabloid"
+
+k:"Tag Filter"
+v:"Tag Filter"
+
+k:"Tag Qualifier"
+v:"Tag Qualifier"
+
+k:"Tags"
+v:"Tags"
+
+k:"tags"
+v:"tags"
+
+k:"Tech Level"
+v:"Tech Level"
+
+k:"Technique"
+v:"Technique"
+
+k:"Technique Default Adjustment"
+v:"Technique Default Adjustment"
+
+k:"Technique Default Skill Name"
+v:"Technique Default Skill Name"
+
+k:"Technique Default Skill Specialization"
+v:"Technique Default Skill Specialization"
+
+k:"Template Choice Quantifier"
+v:"Template Choice Quantifier"
+
+k:"Template Choices"
+v:"Template Choices"
+
+k:"Terrain:"
+v:"Terrain:"
+
+k:"Text"
+v:"Text"
+
+k:"The amount of DR this hit location grants due to natural toughness"
+v:"The amount of DR this hit location grants due to natural toughness"
+
+k:"the attribute"
+v:"the attribute"
+
+k:"The base value, which may be a number or a formula"
+v:"The base value, which may be a number or a formula"
+
+k:"The color to use when dark mode is enabled"
+v:"The color to use when dark mode is enabled"
+
+k:"The color to use when light mode is enabled"
+v:"The color to use when light mode is enabled"
+
+k:"The cost per point difference from the base"
+v:"The cost per point difference from the base"
+
+k:"The data was written with a newer version of %[1]s and cannot be loaded. Please update %[1]s and try again."
+v:"The data was written with a newer version of %[1]s and cannot be loaded. Please update %[1]s and try again."
+
+k:"The data was written with an older version of %s and cannot be loaded. You will need to load it with an earlier version that can read this version of the data and write the current format."
+v:"The data was written with an older version of %s and cannot be loaded. You will need to load it with an earlier version that can read this version of the data and write the current format."
+
+k:"The dice to roll on the sub-table"
+v:"The dice to roll on the sub-table"
+
+k:"The dice to roll on the table"
+v:"The dice to roll on the table"
+
+k:"The dodge for the %s encumbrance level"
+v:"The dodge for the %s encumbrance level"
+
+k:"The DR covering the %s hit location%s"
+v:"The DR covering the %s hit location%s"
+
+k:"The file to load settings from and store them into"
+v:"The file to load settings from and store them into"
+
+k:"The full name of this attribute (may be omitted, in which case the Short Name will be used instead)"
+v:"The full name of this attribute (may be omitted, in which case the Short Name will be used instead)"
+
+k:"The GitHub Access Token is only needed for private repositories and only needs the read-only \"Content\" permission for access to this repo"
+v:"The GitHub Access Token is only needed for private repositories and only needs the read-only \"Content\" permission for access to this repo"
+
+k:"The ground movement rate for the %s encumbrance level"
+v:"The ground movement rate for the %s encumbrance level"
+
+k:"The internal PDF viewer will be used if the External PDF Viewer field is empty."
+k:"Use $FILE where the full path to the PDF should be placed."
+k:"Use $PAGE where the page number should be placed."
+k:""
+k:"In most cases, you'll want to surround the $FILE variable with quotes."
+v:"The internal PDF viewer will be used if the External PDF Viewer field is empty."
+v:"Use $FILE where the full path to the PDF should be placed."
+v:"Use $PAGE where the page number should be placed."
+v:""
+v:"In most cases, you'll want to surround the $FILE variable with quotes."
+
+k:"The library cannot be updated while"
+k:"documents from the library are open."
+v:"The library cannot be updated while"
+v:"documents from the library are open."
+
+k:"The locale to use when presenting text in the user interface. This does not affect the content of data files. Leave this value blank to use the system default. Note that changes to this generally require quitting and restarting GCS to have the desired effect."
+v:"The locale to use when presenting text in the user interface. This does not affect the content of data files. Leave this value blank to use the system default. Note that changes to this generally require quitting and restarting GCS to have the desired effect."
+
+k:"The mana cost to cast the spell"
+v:"The mana cost to cast the spell"
+
+k:"The mana cost to maintain the spell"
+v:"The mana cost to maintain the spell"
+
+k:"The maximum load that can be carried and still remain within the %s encumbrance level"
+v:"The maximum load that can be carried and still remain within the %s encumbrance level"
+
+k:"The name of this attribute, often an abbreviation"
+v:"The name of this attribute, often an abbreviation"
+
+k:"The name of this body type"
+v:"The name of this body type"
+
+k:"The name of this hit location as it should appear in choice lists"
+v:"The name of this hit location as it should appear in choice lists"
+
+k:"The name of this hit location as it should appear in the hit location table"
+v:"The name of this hit location as it should appear in the hit location table"
+
+k:"The number of consecutive numbers this hit location fills in the table"
+v:"The number of consecutive numbers this hit location fills in the table"
+
+k:"The number of uses remaining"
+v:"The number of uses remaining"
+
+k:"The object is too heavy for you to throw"
+v:"The object is too heavy for you to throw"
+
+k:"The output file may not be an empty path."
+v:"The output file may not be an empty path."
+
+k:"The reduction in cost for each SM greater than 0"
+v:"The reduction in cost for each SM greater than 0"
+
+k:"The skill adjustment for this hit location"
+v:"The skill adjustment for this hit location"
+
+k:"The teacher must have the skill/spell/trait being taught at a higher level than you and have more points spent in it than you do"
+v:"The teacher must have the skill/spell/trait being taught at a higher level than you and have more points spent in it than you do"
+
+k:"The teacher must have the skill/spell/trait being taught at the same or higher level than you, or have as many or more points spent in it as you do"
+v:"The teacher must have the skill/spell/trait being taught at the same or higher level than you, or have as many or more points spent in it as you do"
+
+k:"The teacher must have the Teaching skill at 12+"
+v:"The teacher must have the Teaching skill at 12+"
+
+k:"The template contains an Ancestry (%s)."
+k:"Disable your character's existing Ancestry (%s)?"
+v:"The template contains an Ancestry (%s)."
+v:"Disable your character's existing Ancestry (%s)?"
+
+k:"The time required to cast the spell"
+v:"The time required to cast the spell"
+
+k:"The value of all of these pieces of equipment, plus the value of any contained equipment"
+v:"The value of all of these pieces of equipment, plus the value of any contained equipment"
+
+k:"The value of one of these pieces of equipment"
+v:"The value of one of these pieces of equipment"
+
+k:"The weight of all of these pieces of equipment, plus the weight of any contained equipment"
+v:"The weight of all of these pieces of equipment, plus the weight of any contained equipment"
+
+k:"The weight of an object that can be shoved and knocked over"
+v:"The weight of an object that can be shoved and knocked over"
+
+k:"The weight of an object that can be shoved and knocked over with a running start"
+v:"The weight of an object that can be shoved and knocked over with a running start"
+
+k:"The weight of one of these pieces of equipment"
+v:"The weight of one of these pieces of equipment"
+
+k:"The weight that can be carried slung across the back"
+v:"The weight that can be carried slung across the back"
+
+k:"The weight that can be lifted overhead with both hands in four seconds"
+v:"The weight that can be lifted overhead with both hands in four seconds"
+
+k:"The weight that can be lifted overhead with one hand in one second"
+v:"The weight that can be lifted overhead with one hand in one second"
+
+k:"The weight that can be lifted overhead with one hand in two seconds"
+v:"The weight that can be lifted overhead with one hand in two seconds"
+
+k:"The weight that can be shifted slightly on a floor"
+v:"The weight that can be shifted slightly on a floor"
+
+k:"There is no valid mapping for page reference key \"%s\"."
+k:"Would you like to create one by choosing a PDF to map to this key?"
+v:"There is no valid mapping for page reference key \"%s\"."
+v:"Would you like to create one by choosing a PDF to map to this key?"
+
+k:"these entries"
+v:"these entries"
+
+k:"these libraries"
+v:"these libraries"
+
+k:"Thin"
+v:"Thin"
+
+k:"This file does not contain the expected data."
+v:"This file does not contain the expected data."
+
+k:"This product includes copyrighted material from the "
+v:"This product includes copyrighted material from the "
+
+k:"thr (leveled)"
+v:"thr (leveled)"
+
+k:"Threshold"
+v:"Threshold"
+
+k:"Throwing"
+v:"Throwing"
+
+k:"Throwing Extra Effort Penalty"
+v:"Throwing Extra Effort Penalty"
+
+k:"Thrust = Swing-2"
+v:"Thrust = Swing-2"
+
+k:"Time"
+v:"Time"
+
+k:"times the current encumbrance level"
+v:"times the current encumbrance level"
+
+k:"Title"
+v:"Title"
+
+k:"TL"
+v:"TL"
+
+k:"TL0: Stone Age (Prehistory)"
+k:"TL1: Bronze Age (3500 B.C.+)"
+k:"TL2: Iron Age (1200 B.C.+)"
+k:"TL3: Medieval (600 A.D.+)"
+k:"TL4: Age of Sail (1450+)"
+k:"TL5: Industrial Revolution (1730+)"
+k:"TL6: Mechanized Age (1880+)"
+k:"TL7: Nuclear Age (1940+)"
+k:"TL8: Digital Age (1980+)"
+k:"TL9: Microtech Age (2025+?)"
+k:"TL10: Robotic Age (2070+?)"
+k:"TL11: Age of Exotic Matter"
+k:"TL12: Anything Goes"
+v:"TL0: Stone Age (Prehistory)"
+v:"TL1: Bronze Age (3500 B.C.+)"
+v:"TL2: Iron Age (1200 B.C.+)"
+v:"TL3: Medieval (600 A.D.+)"
+v:"TL4: Age of Sail (1450+)"
+v:"TL5: Industrial Revolution (1730+)"
+v:"TL6: Mechanized Age (1880+)"
+v:"TL7: Nuclear Age (1940+)"
+v:"TL8: Digital Age (1980+)"
+v:"TL9: Microtech Age (2025+?)"
+v:"TL10: Robotic Age (2070+?)"
+v:"TL11: Age of Exotic Matter"
+v:"TL12: Anything Goes"
+
+k:"to"
+v:"to"
+
+k:"to all colleges"
+v:"to all colleges"
+
+k:"to base cost"
+v:"to base cost"
+
+k:"to base cost only"
+v:"to base cost only"
+
+k:"to base weight"
+v:"to base weight"
+
+k:"to cost"
+v:"to cost"
+
+k:"to final base cost"
+v:"to final base cost"
+
+k:"to final base weight"
+v:"to final base weight"
+
+k:"to final cost"
+v:"to final cost"
+
+k:"to final weight"
+v:"to final weight"
+
+k:"to leveled cost only"
+v:"to leveled cost only"
+
+k:"to original cost"
+v:"to original cost"
+
+k:"to original weight"
+v:"to original weight"
+
+k:"to skills whose name"
+v:"to skills whose name"
+
+k:"to the"
+v:"to the"
+
+k:"to the college whose name"
+v:"to the college whose name"
+
+k:"to the power source whose name"
+v:"to the power source whose name"
+
+k:"to the spell whose name"
+v:"to the spell whose name"
+
+k:"to this armor"
+v:"to this armor"
+
+k:"to this weapon"
+v:"to this weapon"
+
+k:"to weapons whose name"
+v:"to weapons whose name"
+
+k:"to weapons whose required skill name"
+v:"to weapons whose required skill name"
+
+k:"Toggle"
+v:"Toggle"
+
+k:"Toggle Edit Mode"
+v:"Toggle Edit Mode"
+
+k:"Toggle Enablement"
+v:"Toggle Enablement"
+
+k:"Toggle Equipment Modifier"
+v:"Toggle Equipment Modifier"
+
+k:"Toggle Equipped"
+v:"Toggle Equipped"
+
+k:"Toggle State"
+v:"Toggle State"
+
+k:"Toggle the Sidebar"
+v:"Toggle the Sidebar"
+
+k:"Toggle Trait Modifier"
+v:"Toggle Trait Modifier"
+
+k:"Tooltip"
+v:"Tooltip"
+
+k:"Tooltip Delay"
+v:"Tooltip Delay"
+
+k:"Tooltip Dismissal"
+v:"Tooltip Dismissal"
+
+k:"Top Margin"
+v:"Top Margin"
+
+k:"Total"
+v:"Total"
+
+k:"Total points spent on advantages"
+v:"Total points spent on advantages"
+
+k:"Total points spent on an ancestry package"
+v:"Total points spent on an ancestry package"
+
+k:"Total points spent on attributes"
+v:"Total points spent on attributes"
+
+k:"Total points spent on disadvantages"
+v:"Total points spent on disadvantages"
+
+k:"Total points spent on quirks"
+v:"Total points spent on quirks"
+
+k:"Total points spent on skills"
+v:"Total points spent on skills"
+
+k:"Total points spent on spells"
+v:"Total points spent on spells"
+
+k:"Trait"
+v:"Trait"
+
+k:"Trait Modifier"
+v:"Trait Modifier"
+
+k:"Trait Modifiers"
+v:"Trait Modifiers"
+
+k:"Traits"
+v:"Traits"
+
+k:"Translations dir: \"%s\""
+v:"Translations dir: \"%s\""
+
+k:"Translations Path"
+v:"Translations Path"
+
+k:"Tray"
+v:"Tray"
+
+k:"Triggering Condition"
+v:"Triggering Condition"
+
+k:"triggering condition"
+v:"triggering condition"
+
+k:"Two-Handed Lift"
+v:"Two-Handed Lift"
+
+k:"Two-Sided, Long Edge"
+v:"Two-Sided, Long Edge"
+
+k:"Two-Sided, Short Edge"
+v:"Two-Sided, Short Edge"
+
+k:"Ultra-Condensed"
+v:"Ultra-Condensed"
+
+k:"Ultra-Expanded"
+v:"Ultra-Expanded"
+
+k:"Unable to access the %s update site"
+v:"Unable to access the %s update site"
+
+k:"Unable to check out '%s'"
+v:"Unable to check out '%s'"
+
+k:"Unable to clone repository"
+v:"Unable to clone repository"
+
+k:"Unable to create file dialog."
+v:"Unable to create file dialog."
+
+k:"Unable to create new folder dialog"
+v:"Unable to create new folder dialog"
+
+k:"Unable to create new markdown file"
+v:"Unable to create new markdown file"
+
+k:"Unable to create PDF!"
+v:"Unable to create PDF!"
+
+k:"Unable to create print dialog."
+v:"Unable to create print dialog."
+
+k:"Unable to create rename dialog"
+v:"Unable to create rename dialog"
+
+k:"Unable to create:"
+k:"%s"
+v:"Unable to create:"
+v:"%s"
+
+k:"Unable to export as JPEG!"
+v:"Unable to export as JPEG!"
+
+k:"Unable to export as PDF!"
+v:"Unable to export as PDF!"
+
+k:"Unable to export as PNG!"
+v:"Unable to export as PNG!"
+
+k:"Unable to export as WEBP!"
+v:"Unable to export as WEBP!"
+
+k:"Unable to fetch"
+v:"Unable to fetch"
+
+k:"Unable to initialize repository"
+v:"Unable to initialize repository"
+
+k:"Unable to load "
+v:"Unable to load "
+
+k:"Unable to load image"
+v:"Unable to load image"
+
+k:"Unable to load template"
+v:"Unable to load template"
+
+k:"Unable to open "
+v:"Unable to open "
+
+k:"Unable to open %s"
+v:"Unable to open %s"
+
+k:"Unable to open file"
+v:"Unable to open file"
+
+k:"Unable to open link"
+v:"Unable to open link"
+
+k:"Unable to open markdown"
+v:"Unable to open markdown"
+
+k:"Unable to open web page for download"
+v:"Unable to open web page for download"
+
+k:"Unable to open: %s"
+v:"Unable to open: %s"
+
+k:"Unable to pull"
+v:"Unable to pull"
+
+k:"Unable to remove directory:"
+k:"%s"
+v:"Unable to remove directory:"
+v:"%s"
+
+k:"Unable to remove file:"
+k:"%s"
+v:"Unable to remove file:"
+v:"%s"
+
+k:"Unable to rename:"
+k:"%s"
+v:"Unable to rename:"
+v:"%s"
+
+k:"Unable to resolve absolute path"
+v:"Unable to resolve absolute path"
+
+k:"Unable to resolve path"
+v:"Unable to resolve path"
+
+k:"Unable to retrieve branches"
+v:"Unable to retrieve branches"
+
+k:"Unable to retrieve checked out revision"
+v:"Unable to retrieve checked out revision"
+
+k:"Unable to retrieve local repository information"
+v:"Unable to retrieve local repository information"
+
+k:"Unable to retrieve revision date"
+v:"Unable to retrieve revision date"
+
+k:"Unable to retrieve tags"
+v:"Unable to retrieve tags"
+
+k:"Unable to save "
+v:"Unable to save "
+
+k:"Unable to save %s"
+v:"Unable to save %s"
+
+k:"Unable to save as "
+v:"Unable to save as "
+
+k:"Unable to save global settings"
+v:"Unable to save global settings"
+
+k:"Unable to set option %s to %s"
+k:"%v"
+v:"Unable to set option %s to %s"
+v:"%v"
+
+k:"Unable to show location on disk"
+v:"Unable to show location on disk"
+
+k:"Unable to update"
+v:"Unable to update"
+
+k:"Unable to update library location"
+v:"Unable to update library location"
+
+k:"Unable to use external PDF command line"
+v:"Unable to use external PDF command line"
+
+k:"Undo %s"
+v:"Undo %s"
+
+k:"Undock From Workspace"
+v:"Undock From Workspace"
+
+k:"Unexpected response from command"
+v:"Unexpected response from command"
+
+k:"Units of Measurement"
+v:"Units of Measurement"
+
+k:"Unknown"
+v:"Unknown"
+
+k:"Unknown feature type: %s"
+v:"Unknown feature type: %s"
+
+k:"Unknown prerequisite type: %s"
+v:"Unknown prerequisite type: %s"
+
+k:"unrecognized key (%s)"
+v:"unrecognized key (%s)"
+
+k:"unrecognized key (%s) for body type (%s)"
+v:"unrecognized key (%s) for body type (%s)"
+
+k:"Unsatisfied prerequisite(s)"
+v:"Unsatisfied prerequisite(s)"
+
+k:"Unspent"
+v:"Unspent"
+
+k:"untitled"
+v:"untitled"
+
+k:"untitled choice"
+v:"untitled choice"
+
+k:"untitled location"
+v:"untitled location"
+
+k:"Unweighted American Female"
+v:"Unweighted American Female"
+
+k:"Unweighted American Last"
+v:"Unweighted American Last"
+
+k:"Unweighted American Male"
+v:"Unweighted American Male"
+
+k:"Up"
+v:"Up"
+
+k:"Update"
+v:"Update"
+
+k:"Update %s to v%s?"
+v:"Update %s to v%s?"
+
+k:"Update canceled"
+v:"Update canceled"
+
+k:"Updating %s to v%s…"
+v:"Updating %s to v%s…"
+
+k:"Updating…"
+v:"Updating…"
+
+k:"Upright"
+v:"Upright"
+
+k:"Usage"
+v:"Usage"
+
+k:"Usage Qualifier"
+v:"Usage Qualifier"
+
+k:"Usage: "
+v:"Usage: "
+
+k:"Use '%s help <command>' to see command options"
+v:"Use '%s help <command>' to see command options"
+
+k:"Use Half-Stat Defaults"
+v:"Use Half-Stat Defaults"
+
+k:"Use Modifying Dice + Adds"
+v:"Use Modifying Dice + Adds"
+
+k:"Use Multiplicative Modifiers"
+v:"Use Multiplicative Modifiers"
+
+k:"Use Separate Windows For…"
+v:"Use Separate Windows For…"
+
+k:"User Description"
+v:"User Description"
+
+k:"User Guide"
+v:"User Guide"
+
+k:"User Library"
+v:"User Library"
+
+k:"Uses"
+v:"Uses"
+
+k:"Using skates"
+v:"Using skates"
+
+k:"Using skis"
+v:"Using skis"
+
+k:"Value"
+v:"Value"
+
+k:"value"
+v:"value"
+
+k:"Value must be at least %s"
+v:"Value must be at least %s"
+
+k:"Value must be no more than %s"
+v:"Value must be no more than %s"
+
+k:"Version "
+v:"Version "
+
+k:"Version %s"
+v:"Version %s"
+
+k:"View"
+v:"View"
+
+k:"VTT Notes"
+v:"VTT Notes"
+
+k:"Warning"
+v:"Warning"
+
+k:"Weather:"
+v:"Weather:"
+
+k:"Web Site"
+v:"Web Site"
+
+k:"WEBP"
+v:"WEBP"
+
+k:"Weight"
+v:"Weight"
+
+k:"Weight Adjustment"
+v:"Weight Adjustment"
+
+k:"Weight Modifier"
+v:"Weight Modifier"
+
+k:"Weight Qualifier"
+v:"Weight Qualifier"
+
+k:"Weight Units"
+v:"Weight Units"
+
+k:"When"
+v:"When"
+
+k:"When Tech Level"
+v:"When Tech Level"
+
+k:"When the Tech Level"
+v:"When the Tech Level"
+
+k:"Where to display…"
+v:"Where to display…"
+
+k:"Whether this item is enabled. Items that are not enabled do not apply any features they may normally contribute to the character."
+v:"Whether this item is enabled. Items that are not enabled do not apply any features they may normally contribute to the character."
+
+k:"Whether this piece of equipment is equipped or just carried. Items that are not equipped do not apply any features they may normally contribute to the character."
+v:"Whether this piece of equipment is equipped or just carried. Items that are not equipped do not apply any features they may normally contribute to the character."
+
+k:"which"
+v:"which"
+
+k:"whose college name"
+v:"whose college name"
+
+k:"whose name"
+v:"whose name"
+
+k:"Window"
+v:"Window"
+
+k:"with a tag which"
+v:"with a tag which"
+
+k:"Within this view, these keys have the following effects:"
+k:""
+v:"Within this view, these keys have the following effects:"
+v:""
+
+k:"World1"
+v:"World1"
+
+k:"World2"
+v:"World2"
+
+k:"Would you like to apply the initial randomization again?"
+v:"Would you like to apply the initial randomization again?"
+
+k:"x"
+v:"x"
+
+k:"X-Heavy"
+v:"X-Heavy"
+
+k:"yard"
+v:"yard"
+
+k:"Yes"
+v:"Yes"
+
+k:"Zoom"
+v:"Zoom"
+
+k:"×"
+v:"×"
