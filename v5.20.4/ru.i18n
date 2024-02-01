@@ -260,7 +260,7 @@ k:"%s Points"
 v:"%s ОП"
 
 k:"%s running start"
-v:"%s running start"
+v:"%s старт с разбега"
 
 k:"%s v%s is available!"
 v:"%s v%s доступен!"
@@ -339,11 +339,11 @@ v:", заметки "
 k:", specialization "
 v:", специализация "
 
-k:"- hsl(), e.g. \"hsl(120, 100%, 50%)\""
-v:"- hsl(), e.g. \"hsl(120, 100%, 50%)\""
+k:"- hsl(), например \"hsl(120, 100%, 50%)\""
+v:"- hsl(), например \"hsl(120, 100%, 50%)\""
 
-k:"- hsla(), e.g. \"hsla(120, 100%, 50%, 0.3)\""
-v:"- hsla(), e.g. \"hsla(120, 100%, 50%, 0.3)\""
+k:"- hsla(), например \"hsla(120, 100%, 50%, 0.3)\""
+v:"- hsla(), например \"hsla(120, 100%, 50%, 0.3)\""
 
 k:"- long hexadecimal colors, e.g. \"#FFFF00\""
 v:"- длинные шестнадцатиричные цвета, e.g. \"#FFFF00\""
@@ -351,11 +351,11 @@ v:"- длинные шестнадцатиричные цвета, e.g. \"#FFFF0
 k:"- predefined color name, e.g. \"Yellow\""
 v:"- предписанное имя цвета, e.g. \"Yellow\""
 
-k:"- rgb(), e.g. \"rgb(255, 255, 0)\""
-v:"- rgb(), e.g. \"rgb(255, 255, 0)\""
+k:"- rgb(), например \"rgb(255, 255, 0)\""
+v:"- rgb(), например \"rgb(255, 255, 0)\""
 
-k:"- rgba(), e.g. \"rgba(255, 255, 0, 0.3)\""
-v:"- rgba(), e.g. \"rgba(255, 255, 0, 0.3)\""
+k:"- rgba(), например \"rgba(255, 255, 0, 0.3)\""
+v:"- rgba(), например \"rgba(255, 255, 0, 0.3)\""
 
 k:"- short hexadecimal colors, e.g. \"#FF0\""
 v:"- короткие шестнадцатиричные цвета, e.g. \"#FF0\""
@@ -411,8 +411,8 @@ v:"список"
 k:"A page range in the form \"5\" or \"9-12\" or multiple"
 k:"separated by commas, such as \"1, 3-4 in ascending"
 k:"order with no overlapping ranges"
-v:"A page range in the form \"5\" or \"9-12\" or multiple"
-v:"separated by commas, such as \"1, 3-4 in ascending"
+v:"Диапазон значений страниц в форме \"5\" или \"9-12\" или множества"
+v:"разделённым запятой, как, к примеру: \"1, 3-4 в возвышащемся порядке"
 v:"order with no overlapping ranges"
 
 k:"A reference to the book and page the item appears on e.g. B22 would refer to \"Basic Set\", page 22"
@@ -518,13 +518,13 @@ k:"Alternative Abilities"
 v:"Изменённые способности"
 
 k:"American Female"
-v:"American Female"
+v:"Американская женщина"
 
 k:"American Last"
-v:"American Last"
+v:"Американское последнее"
 
 k:"American Male"
-v:"American Male"
+v:"Американский мужчина"
 
 k:"Amount"
 v:"Количество"
@@ -638,7 +638,7 @@ k:"Attribute Definition Drag"
 v:"Definition Drag Атрибута"
 
 k:"Attribute Qualifier"
-v:"Attribute Qualifier Атрибута"
+v:"Квалификатор Атрибута"
 
 k:"Attribute Type"
 v:"Тип Атрибута"
@@ -668,7 +668,7 @@ k:"Backspace"
 v:"Backspace"
 
 k:"Banding"
-v:"Banding"
+v:"Полосатость"
 
 k:"Base Cost"
 v:"Базовая Стоимость"
@@ -698,7 +698,7 @@ k:"Basic Thrust"
 v:"Прямой урон"
 
 k:"Bevel"
-v:"Bevel"
+v:"Фаска"
 
 k:"Birthday"
 v:"День Рождения"
@@ -770,7 +770,7 @@ k:"bulk"
 v:"разм"
 
 k:"Butt"
-v:"Butt"
+v:"Задница"
 
 k:"by %d%%"
 v:"от %d%%"
@@ -875,7 +875,7 @@ k:"Close"
 v:"Закрыть"
 
 k:"Close Combat"
-v:"Ближний Бой"
+v:"Ближний бой"
 
 k:"College"
 v:"Колледж"
@@ -887,13 +887,13 @@ k:"Color"
 v:"Цвет"
 
 k:"Color Mode"
-v:"Цветовой Режим"
+v:"Цветной режим"
 
 k:"Color-Burn"
-v:"Цветовой Ожог"
+v:"Цветной ожог"
 
 k:"Color-Dodge"
-v:"Цветовое Кклонение"
+v:"Цветное уклонение"
 
 k:"Colors"
 v:"Цвета"
@@ -935,7 +935,7 @@ k:"Content"
 v:"Содержание"
 
 k:"Content Filter"
-v:"Фильтр Содержания"
+v:"Фильтр содержания"
 
 k:"Control"
 v:"Управление"
@@ -2272,167 +2272,167 @@ v:"Максимальное количество использований: %d"
 k:"md"
 v:"md"
 
-k:"If your PDF is opening up to the wrong page when opening page references, enter an offset here to compensate."
-v:"Если ваш PDF открывается на неправильной странице при открытии ссылок на страницы, введите смещение здесь, чтобы скорректировать."
+k:"Media"
+v:"Медиа"
 
-k:"Ignore weight for skills"
-v:"Игнорировать вес для навыков"
+k:"Medium"
+v:"Средняя"
 
-k:"Image Export Resolution"
-v:"Разрешение экспорта изображения"
+k:"Melee Weapon"
+v:"Оружие ближнего боя"
 
-k:"Images"
-v:"Изображения"
+k:"Melee Weapon Usage"
+v:"Использование оружия ближнего боя"
 
-k:"Import…"
-v:"Импорт…"
+k:"Melee Weapons"
+v:"Оружия ближнего боя"
 
-k:"In Chamber"
-v:"В камере"
+k:"Mental"
+v:"Ментальный"
 
-k:"Inactive Selection"
-v:"Неактивный выбор"
+k:"Menu"
+v:"Меню"
 
-k:"Includes a Major Cost of Living Increase and Merchant Skill Penalty"
-v:"Включает значительное увеличение стоимости проживания и штраф к навыку торговли"
+k:"Menu Keys"
+v:"Клавиши меню"
 
-k:"Includes a Minor Cost of Living Increase"
-v:"Включает небольшое увеличение стоимости проживания"
+k:"Menu Keys…"
+v:"Клавиши меню…"
 
-k:"Includes a Reaction Penalty for Failure"
-v:"Включает штраф к реакции за неудачу"
+k:"Meta"
+v:"Мета"
 
-k:"Includes an Action Penalty for Failure"
-v:"Включает штраф к действиям за неудачу"
+k:"Meta-Trait"
+v:"Мета-черта"
 
-k:"Includes Fright Check Bonus"
-v:"Включает бонус к проверке страха"
+k:"meter"
+v:"метр"
 
-k:"Includes Fright Check Penalty"
-v:"Включает штраф к проверке страха"
+k:"Method Not Allowed"
+v:"Метод не разрешен"
 
-k:"Includes modifiers from"
-v:"Включает модификаторы из"
+k:"Middle"
+v:"Середина"
 
-k:"Includes modifiers from:"
-v:"Включает модификаторы из:"
+k:"mile"
+v:"миля"
 
-k:"Increase Skill Level"
-v:"Увеличить уровень навыка"
+k:"miles"
+v:"мили"
 
-k:"Increase Tech Level"
-v:"Увеличить технологический уровень"
+k:"Minimize"
+v:"Свернуть"
 
-k:"Increase Uses"
-v:"Увеличить использования"
+k:"Minimum"
+v:"Минимум"
 
-k:"Increment"
-v:"Инкремент"
+k:"Minimum Range"
+v:"Минимальная дальность"
 
-k:"Increment Level"
-v:"Уровень инкремента"
+k:"minimum range"
+v:"минимальная дальность"
 
-k:"Increment Points"
-v:"Очки инкремента"
+k:"Minimum Reach"
+v:"Минимальная досяг."
 
-k:"Increment Quantity"ы
-v:"Количество инкремента"
+k:"minimum reach"
+v:"минимальная досяг."
 
-k:"Indirect Selection"
-v:"Косвенный выбор"
+k:"Minimum ST"
+v:"Минимальная СЛ"
 
-k:"Initial click on text field selects all"
-v:"Первый клик на текстовом поле выбирает все"
+k:"minimum ST"
+v:"минимальная СЛ"
 
-k:"Initial Editor Scale"
-v:"Начальный масштаб редактора"
+k:"Minimum Strength"
+v:"Минимальная сила"
 
-k:"Initial Image Scale"
-v:"Начальный масштаб изображения"
+k:"Mirror"
+v:"Зеркало"
 
-k:"Initial List Scale"
-v:"Начальный масштаб списка"
+k:"Miscellaneous"
+v:"Разное"
 
-k:"Initial Markdown Scale"
-v:"Начальный масштаб Markdown"
+k:"Miter"
+v:"Скошенный шов"
 
-k:"Initial PDF Scale"
-v:"Начальный масштаб PDF"
+k:"Mixed"
+v:"Смешанный"
 
-k:"Initial Points"
-v:"Начальный ОП"
+k:"Mode %d"
+v:"Режим %d"
 
-k:"Initial points"
-v:"Начальный ОП"
+k:"Modified"
+v:"Изменен"
 
-k:"Initial Sheet Scale"
-v:"Начальный масштаб листа"
+k:"Modified %s"
+v:"Изменен %s"
 
-k:"Inline"
-v:"Встроенный"
+k:"Modifier"
+v:"Модификатор"
 
-k:"Inline & Tooltip"
-v:"Строчные и тултипы"
+k:"Modifiers"
+v:"Модификаторы"
 
-k:"Inner"
-v:"Внутренний"
+k:"Modulate"
+v:"Модулировать"
 
-k:"Insert"
-v:"Вставить"
+k:"Monitor Resolution"
+v:"Разрешение монитора"
 
-k:"Insert %s"
-v:"Вставить %s"
+k:"Monospaced"
+v:"Моноширинный"
 
-k:"Integer"
-v:"Целое число"
+k:"Morph"
+v:"Морф"
 
-k:"Integer (Display Only)"
-v:"Целое число (только для просмотра)"
+k:"Mountains"
+v:"Горы"
 
-k:"Intensive Training"
-v:"Интенсивное обучение"
+k:"Mounted"
+v:"Установлен"
 
-k:"Interface Locale"
-v:"Язык интерфейса"
+k:"Move"
+v:"Движение"
 
-k:"Interior Divider"
-v:"Внутренний разделитель"
+k:"Move Equipment"
+v:"Переместить снаряжение"
 
-k:"Intersect"
-v:"Пересечение"
+k:"Move to Carried Equipment"
+v:"Переместить в носимое снаряжение"
 
-k:"Invalid file data."
-v:"Недопустимые данные файла."
+k:"Move to Other Equipment"
+v:"Переместить в другое снаряжение"
 
-k:"Invalid option specification: %v"
-v:"Недопустимая спецификация опции: %v"
+k:"Mud"
+v:"Грязь"
 
-k:"Invalid option: -%s"
-v:"Недопустимая опция: -%s"
+k:"Multiple"
+v:"Множественный"
 
-k:"Invalid option: --%s"
-v:"Недопустимая опция: --%s"
+k:"Multiply"
+v:"Умножить"
 
-k:"invalid path"
-v:"недопустимый путь"
+k:"Muscle Powered"
+v:"Мышечная сила"
 
-k:"Invalid value"
-v:"Недопустимое значение"
+k:"Muscle-powered"
+v:"Мышечная сила"
 
-k:"Inverse-Even-Odd"
-v:"Инверсия четно-нечетного"
+k:"Must be assigned to a college"
+v:"Должно быть назначено для колледжа"
 
-k:"Inverse-Winding"
-v:"Инверсия завитков"
+k:"Must specify a command name"
+v:"Необходимо указать имя команды"
 
-k:"Inverted"
-v:"Инвертированный"
+k:"Name"
+v:"Имя"
 
-k:"Invisible"
-v:"Невидимый"
+k:"Name Qualifier"
+v:"Квалификатор имени"
 
-k:"is"
-v:"есть"
+k:"Natural Attacks"
+v:"Естественные атаки"
 
 k:"Nearest"
 v:"Ближайший"
@@ -2471,7 +2471,7 @@ k:"New Markdown File"
 v:"Новый файл Markdown"
 
 k:"New Melee Weapon"
-v:"Новое холодное оружие"
+v:"Новое оружие ближнего боя"
 
 k:"New Name"
 v:"Новое имя"
@@ -2771,7 +2771,7 @@ k:"Open"
 v:"Открыть"
 
 k:"Open Detail Editor"
-v:"Открыть Редактор Деталей"
+v:"Открыть редактор деталей"
 
 k:"Open Each Page Reference"
 v:"Открыть каждую ссылку на страницу"
@@ -4095,7 +4095,7 @@ k:"times the current encumbrance level"
 v:"раз уровень текущей нагрузки"
 
 k:"Title"
-v:"Заголовок"
+v:"Титул"
 
 k:"TL"
 v:"ТУ"
@@ -4212,13 +4212,13 @@ k:"Toggle Enablement"
 v:"Включить включение (Enablement)"
 
 k:"Toggle Equipment Modifier"
-v:"Включить Модификатор Оборудования"
+v:"Включить модификатор экиперовки"
 
 k:"Toggle Equipped"
-v:"Включить Экипировано"
+v:"Экиперовать"
 
 k:"Toggle State"
-v:"Переключить Состояние"
+v:"Переключить состояние"
 
 k:"Toggle the Sidebar"
 v:"Включить боковую панель"
@@ -4681,7 +4681,7 @@ k:"Whether this item is enabled. Items that are not enabled do not apply any fea
 v:"Включен ли этот предмет. Предметы, которые не включены, не применяют никаких особенностей, которые они обычно могут внести в персонажа."
 
 k:"Whether this piece of equipment is equipped or just carried. Items that are not equipped do not apply any features they may normally contribute to the character."
-v:"Оборудован ли этот предмет или просто несется. Предметы, которые не оборудованы, не применяют никаких особенностей, которые они обычно могут внести в персонажа."
+v:"Экиперован ли этот предмет или просто несется. Предметы, которые не экиперованы, не применяют никаких особенностей, которые они обычно могут внести в персонажа."
 
 k:"which"
 v:"который"
