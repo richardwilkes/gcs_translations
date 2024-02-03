@@ -1,0 +1,4749 @@
+# Generated on Sat, 13 Jan 2024 11:17:01 PST
+#
+# Key-value pairs are defined as one or more lines prefixed with "k:" for the
+# key, followed by one or more lines prefixed with "v:" for the value. These
+# prefixes are then followed by a quoted string, using escaping rules for Go
+# strings where needed. When two or more lines are present in a row, they will
+# be concatenated together with an intervening \n character.
+#
+# Do NOT modify the 'k' values. They are the values as seen in the code.
+#
+# Replace the 'v' values with the appropriate translation.
+
+k:"0 of 0"
+v:"0 из 0"
+
+k:"0-100%"
+v:"0-100%"
+
+k:"0-255 or 0-100%"
+v:"0-255 или 0-100%"
+
+k:"0-360 or 0-100%"
+v:"0-360 или 0-100%"
+
+k:"1 foot"
+v:"1 фут"
+
+k:"1 inch"
+v:"1 дюйм"
+
+k:"1 meter"
+v:"1 метр"
+
+k:"1 yard"
+v:"1 ярд"
+
+k:"25% Scale"
+v:"25% Мастштаб"
+
+k:"50% Scale"
+v:"50% Мастштаб"
+
+k:"75% Scale"
+v:"75% Мастштаб"
+
+k:"100% Scale"
+v:"100% Мастштаб"
+
+k:"200% Scale"
+v:"200% Мастштаб"
+
+k:"300% Scale"
+v:"300% Мастштаб"
+
+k:"400% Scale"
+v:"400% Мастштаб"
+
+k:"500% Scale"
+v:"500% Мастштаб"
+
+k:"600% Scale"
+v:"600% Мастштаб"
+
+k:""
+k:""
+k:"Requires these tags:"
+k:"● "
+v:""
+v:""
+v:"Требует этих тегов:"
+v:"● "
+
+k:""
+k:""
+k:"Second mode:"
+k:""
+v:""
+v:""
+v:"Второй режим:"
+v:""
+
+k:""
+k:"Encumbrance [%s]"
+v:""
+v:"Нагрузка [%s]"
+
+k:""
+k:"Holding down the %s key while using"
+k:"the mouse wheel will change the scale."
+v:""
+v:"Удержание клавиши %s во время прокрутки"
+v:"колёсиком мыши изменит масштаб."
+
+k:""
+k:"This key is normally mapped to a PDF named:"
+k:"%s"
+v:""
+v:"Эта кнопка обычно связа с PDF-файлом с именем:"
+v:"%s"
+
+k:" %[1]s [%[1]s options]"
+v:" %[1]s [%[1]s настройки]"
+
+k:" <command> [command options]"
+v:" <command> [настройки команды]"
+
+k:" a contained quantity which "
+v:" содержащий следующее количество "
+
+k:" a contained weight which "
+v:" содержащий вес "
+
+k:" a skill whose name "
+v:" навык с названием "
+
+k:" a trait whose name "
+v:" черта с названием "
+
+k:" against "
+v:" против "
+
+k:" and level "
+v:" и с уровнем "
+
+k:" and tech level matches"
+v:" и технический уровень соответствует"
+
+k:" attacks]"
+v:" атак]"
+
+k:" Block"
+v:" Блок"
+
+k:" Default: "
+v:" По Умолчанию: "
+
+k:" Dodge"
+v:" Уклонение"
+
+k:" Files"
+v:" Файлов"
+
+k:" game, which is used by permission of Steve Jackson Games."
+v:" , которые используются с разрешения SJGames."
+
+k:" is a trademark of Steve Jackson Games, used by permission. All rights reserved."
+v:" торговая марка Steve Jackson Games, используемая правомерно. Все права защищены."
+
+k:" level "
+v:" уровень "
+
+k:" or "
+v:" или "
+
+k:" Parry"
+v:" Парирование"
+
+k:" per die)"
+v:" за куб)"
+
+k:" per full day"
+v:" за полный день"
+
+k:" pts]"
+v:" ОП]"
+
+k:" pt]"
+v:" ОП]"
+
+k:" to "
+v:" к "
+
+k:" to skill level due to minimum ST requirement"
+v:" к навыку из-за минимальной требуемой СЛ"
+
+k:" which "
+v:" котороый "
+
+k:"!: This weapon can only fire on full automatic. Minimum RoF is %v."
+v:"!: Это оружие может стрелять только в автоматическом режиме. Минимальная скорострельность %v."
+
+k:"\"+5 lb\", \"-5 lb\", \"+10%\", \"-10%\""
+v:"\"+5 фт\", \"-5 фт\", \"+10%\", \"-10%\""
+
+k:"\"+5 lb\", \"-5 lb\", \"x10%\", \"x3\", \"x2/3\""
+v:"\"+5 фт\", \"-5 фт\", \"x10%\", \"x3\", \"x2/3\""
+
+k:"\"+5\", \"-5\", \"+10%\", \"-10%\", \"x3.2\""
+v:"\"+5\", \"-5\", \"+10%\", \"-10%\", \"x3.2\""
+
+k:"\"x2\", \"+2 CF\", \"-0.2 CF\""
+v:"\"x2\", \"+2 МЦ\", \"-0.2 МЦ\""
+
+k:"#"
+v:"#"
+
+k:"#: This weapon can fire in high cyclic controlled bursts, reducing Recoil to 1."
+v:"#: Это оружие может стрелять быстрыми контролируемыми очередями, уменьшите Отдачу до 1."
+
+k:"%"
+v:"%"
+
+k:"% per level"
+v:"% за уровень"
+
+k:"%d Action Penalty"
+v:"%d Штраф за действие"
+
+k:"%d editors will be opened."
+v:"%d редакторов будет открыто."
+
+k:"%d files will be opened."
+v:"%d файлов будет открыто."
+
+k:"%d Fright Check Penalty"
+v:"%d Штраф к Броску Страха"
+
+k:"%d of %d"
+v:"%d %d"
+
+k:"%d Reaction Penalty"
+v:"%d Штраф к Реакции"
+
+k:"%s (%s per die)"
+v:"%s (%s за куб)"
+
+k:"%s (%s per die, per level)"
+v:"%s (%s за куб, за уровень)"
+
+k:"%s (%s per level)"
+v:"%s (%s за уровень)"
+
+k:"%s Changes"
+v:"%s Изменения"
+
+k:"%s Container"
+v:"%s Контейнер"
+
+k:"%s Editor for %s"
+v:"%s Редактор для %s"
+
+k:"%s feet"
+v:"%s фута(ов)"
+
+k:"%s inches"
+v:"%s дюйма(ов)"
+
+k:"%s is copyrighted ©%s by %s"
+v:"%s, под авторским правом ©%s от %s"
+
+k:"%s meters"
+v:"%s метра(ов)"
+
+k:"%s options:"
+k:""
+v:"%s настройки:"
+v:""
+
+k:"%s Points"
+v:"%s ОП"
+
+k:"%s running start"
+v:"%s со стартом с разбега"
+
+k:"%s v%s is available!"
+v:"%s v%s доступно!"
+
+k:"%s yards"
+v:"%s ярда(ов)"
+
+k:"%s [options]"
+v:"%s [настройки]"
+
+k:"%s, Build %s"
+v:"%s, Телосложение %s"
+
+k:"%sHas equipment which is equipped and whose name %s"
+v:"%sИмеет экиперованное снаряжение с названием %s"
+
+k:"%v%v or %v%v"
+v:"%v%v или %v%v"
+
+k:"'%[1]s' is not a valid %[2]s command"
+v:"'%[1]s' не является правильной %[2]s командой"
+
+k:"'%[1]s' is not a valid %[2]s command"
+k:""
+v:"'%[1]s' не является правильной %[2]s командой"
+v:""
+
+k:"(base only)"
+v:"(только базовый)"
+
+k:"(levels only)"
+v:"(только уровневый)"
+
+k:") for 1 point"
+v:") за 1 очко"
+
+k:"*: Changing reach requires a Ready maneuver."
+v:"*: Изменение досягаемости требует манёвр Подготовки."
+
+k:"*: Has a retracting stock. With the stock folded, the weapon's stats change to Bulk %s, Accuracy %s, Recoil %s, and minimum ST %s. Folding or unfolding the stock takes one Ready maneuver."
+v:"*: Имеет складывающийся приклад. Сложив приклад, характеристика Размера оружия изменяется на %s, Точность на %s, Отдача на %s, и минимальная СЛ на %s. Складывание и раскладывание приклада требует один манёвр Подготовки."
+
+k:"*From a [house rule](https://gamingballistic.com/2020/12/04/df-eastmarch-boss-fight-and-house-rules/) originating with Kevin Smyth*"
+v:"*Это [хоумрул](https://gamingballistic.com/2020/12/04/df-eastmarch-boss-fight-and-house-rules/), что произошёл от Кевина Смита*"
+
+k:"*From a [house rule](https://github.com/richardwilkes/gcs/pull/393) that uses d3s instead of d6s for damage*"
+v:"*Это [хоумрул](https://github.com/richardwilkes/gcs/pull/393) который использует d3 вместо d6 для урона*"
+
+k:"*From [Adjusting Swing Damage in Dungeon Fantasy](https://noschoolgrognard.blogspot.com/2013/04/adjusting-swing-damage-in-dungeon.html)*"
+v:"*Из [Регулируем амплитудный урон в Dungeon Fantasy](https://noschoolgrognard.blogspot.com/2013/04/adjusting-swing-damage-in-dungeon.html)*"
+
+k:"*From [Alternate Damage Scheme (Thr = Sw-2)](https://github.com/richardwilkes/gcs/issues/97)*"
+v:"*Из [Альтернативная схема урона (прм = амп-2)](https://github.com/richardwilkes/gcs/issues/97)*"
+
+k:"*From [Pyramid 3-83, pages 16-19](PY83:16)*"
+v:"*Из [Пирамидки 3-83, страницы 16-19](PY83:16)*"
+
+k:"*From [T Bone's Games Diner](https://www.gamesdiner.com/rules-nugget-gurps-new-damage-for-st/)*"
+v:"*Из [T Bone's Games Diner](https://www.gamesdiner.com/rules-nugget-gurps-new-damage-for-st/)*"
+
+k:"*The standard damage progression*"
+v:"*Стандартная прогрессия урона*"
+
+k:"+"
+v:"+"
+
+k:"+%d Fright Check Bonus"
+v:"+%d Бонус к Броску Страха"
+
+k:"+%d%% Cost of Living Increase"
+v:"+%d%% Рост цены проживания"
+
+k:", notes "
+v:", заметки "
+
+k:", specialization "
+v:", специализация "
+
+k:"- hsl(), e.g. \"hsl(120, 100%, 50%)\""
+v:"- hsl(), т.е. \"hsl(120, 100%, 50%)\""
+
+k:"- hsla(), e.g. \"hsla(120, 100%, 50%, 0.3)\""
+v:"- hsla(), т.е. \"hsla(120, 100%, 50%, 0.3)\""
+
+k:"- long hexadecimal colors, e.g. \"#FFFF00\""
+v:"- длинные шестнадцатиричные цвета, e.g. \"#FFFF00\""
+
+k:"- predefined color name, e.g. \"Yellow\""
+v:"- предустановленное имя цвета, т.е. \"Yellow\""
+
+k:"- rgb(), e.g. \"rgb(255, 255, 0)\""
+v:"- rgb(), т.е. \"rgb(255, 255, 0)\""
+
+k:"- rgba(), e.g. \"rgba(255, 255, 0, 0.3)\""
+v:"- rgba(), т.е. \"rgba(255, 255, 0, 0.3)\""
+
+k:"- short hexadecimal colors, e.g. \"#FF0\""
+v:"- короткие шестнадцатиричные цвета, e.g. \"#FF0\""
+
+k:"; Cost: -1"
+v:"; Цена: -1"
+
+k:"; Cost: -%d"
+v:"; Цена: -%d"
+
+k:"; Time: x1/%d, rounded up, min 1 sec"
+v:"; Время: x1/%d, округлённое вверх, минимум 1 сек"
+
+k:"<unknown>"
+v:"<неизвестный>"
+
+k:"A0"
+v:"A0"
+
+k:"A1"
+v:"A1"
+
+k:"A2"
+v:"A2"
+
+k:"A3"
+v:"A3"
+
+k:"A4"
+v:"A4"
+
+k:"A5"
+v:"A5"
+
+k:"A6"
+v:"A6"
+
+k:"a contained quantity of"
+v:"содержащий количество"
+
+k:"a contained weight"
+v:"содержащий вес"
+
+k:"A description of any special effects for hits to this location"
+v:"Описание каких-либо особых эффектов за попадания в эту часть тела"
+
+k:"A explanation of the effects of the threshold state"
+v:"Описание эффектов по достижению порога"
+
+k:"a list"
+v:"список"
+
+k:"A page range in the form \"5\" or \"9-12\" or multiple"
+k:"separated by commas, such as \"1, 3-4 in ascending"
+k:"order with no overlapping ranges"
+v:"Диапазон страниц в виде \"5\" или \"9-12\" или множества"
+v:"разделённых запятыми, как например \"1, 3-4 в восходящем"
+v:"порядке без пересечения диапазонов"
+
+k:"A reference to the book and page the item appears on e.g. B22 would refer to \"Basic Set\", page 22"
+v:"Ссылка на книгу и страницу, на которой находится элемент, например, B22 означает \"Basic Set\", стр. 22."
+
+k:"A short description of the threshold state"
+v:"Краткое описание порогового состояния"
+
+k:"a skill"
+v:"навык"
+
+k:"A snippet of text to highlight on the page when opening the page reference; only needed if the default behavior isn't highlighting the expected area"
+v:"Вырезка текста, которая будет подсвечена на странице когда откроется ссылка на страницу; нужно только если по умолчанию подсветка в нужном месте отсутствует"
+
+k:"A title to use with the separator"
+v:"Название для использования с разделителем"
+
+k:"a trait"
+v:"черту"
+
+k:"A unique ID for the attribute"
+v:"Уникальный ID для атрибута"
+
+k:"About %s"
+v:"Про %s"
+
+k:"Acc"
+v:"Точ"
+
+k:"Accent"
+v:"Акцент"
+
+k:"Accuracy"
+v:"Точность"
+
+k:"Accuracy Bonus"
+v:"Бонус к точности"
+
+k:"Add Attribute"
+v:"Добавить атрибут"
+
+k:"Add Entry"
+v:"Добавить запись"
+
+k:"Add Hit Location"
+v:"Добавить зону попадания"
+
+k:"Add hit location"
+v:"Добавить зону попадания"
+
+k:"Add Library"
+v:"Добавить библиотеку"
+
+k:"Add Natural Attacks"
+v:"Добавить Врождённые Атаки"
+
+k:"Add natural attacks to new sheets"
+v:"Добавлять врождённые атаки для новых персонажей"
+
+k:"Add Pool Threshold"
+v:"Добавить порог пула"
+
+k:"Add pool threshold"
+v:"Добавить порог пула"
+
+k:"Add Sub-Table"
+v:"Добавить подтаблицу"
+
+k:"Add sub-table"
+v:"Добавить подтаблицу"
+
+k:"Additional notes for your own reference. These only exist in character sheets and will be removed if transferred to a data list or template"
+v:"Дополнительные заметки для вашего удобства. Существуют только в листах персонажа и будут убраны при трансформации в список данных или шаблон"
+
+k:"Advantages"
+v:"Преимущества"
+
+k:"against"
+v:"против"
+
+k:"Age"
+v:"Возраст"
+
+k:"All Files"
+v:"Все файлы"
+
+k:"All Readable Files"
+v:"Все читабельные файлы"
+
+k:"All rights reserved"
+v:"Все права защищены"
+
+k:"Alpha"
+v:"Альфа"
+
+k:"Alpha:"
+v:"Альфа:"
+
+k:"Alternate"
+v:"Изменить"
+
+k:"Alternative Abilities"
+v:"Изменённые способности"
+
+k:"American Female"
+v:"Американская женщина"
+
+k:"American Last"
+v:"Американское последнее"
+
+k:"American Male"
+v:"Американский мужчина"
+
+k:"Amount"
+v:"Количество"
+
+k:"An expression to calculate the threshold value"
+v:"Выражение для подсчёта порогового значения"
+
+k:"An ID for the hit location"
+v:"Идентификатор (ID) для зоны попадания"
+
+k:"Ancestry"
+v:"Раса"
+
+k:"and"
+v:"и"
+
+k:"and all tags"
+v:"и все теги"
+
+k:"and at least one tag"
+v:"и с хотя бы одним тегом"
+
+k:"and whose level"
+v:"и с уровенем"
+
+k:"and whose notes"
+v:"и с заметкой"
+
+k:"and whose relative skill level"
+v:"и с относительным уровенем навыка"
+
+k:"and whose specialization"
+v:"и со специализацией"
+
+k:"and whose usage"
+v:"и с использованием"
+
+k:"Any notes for VTT use; see the instructions for your VVT to determine if/how these can be used"
+v:"Любые заметки для использования в VTT; прочтите инструкцию вашего VTT чтобы понять как этим пользоваться, и есть там вообще такая функция"
+
+k:"Any Tag"
+v:"Любой тег"
+
+k:"anything"
+v:"что угодно"
+
+k:"Apply Changes"
+v:"Применить изменения"
+
+k:"Apply changes made to"
+k:"%s?"
+v:"Применить изменения, сделанные к"
+v:"%s?"
+
+k:"Apply Template"
+v:"Применить шаблон"
+
+k:"Apply Template to Character Sheet"
+v:"Применить шаблон к листу персонажа"
+
+k:"Arcane"
+v:"Магический"
+
+k:"are not"
+v:"не равняются"
+
+k:"Are you sure you want to open all of these?"
+v:"Вы уверены что хотите открыть всё это?"
+
+k:"Are you sure you want to remove"
+k:"%s (%s)?"
+v:"Вы уверены, что хотите убрать"
+v:"%s (%s)?"
+
+k:"Are you sure you want to remove %s?"
+v:"Вы уверены, что хотите убрать %s?"
+
+k:"Are you sure you want to reset %s?"
+v:"Вы уверены, что хотите сбросить %s?"
+
+k:"Are you sure you want to reset '%s'?"
+v:"Вы уверены, что хотите сбросить '%s'?"
+
+k:"Are you sure you want to reset the"
+k:"%s?"
+v:"Вы уверены, что хотите сбросить"
+v:"%s?"
+
+k:"Armor Divisor"
+v:"Делитель брони"
+
+k:"as a %"
+v:"в процентах"
+
+k:"at least"
+v:"как минимум"
+
+k:"At least one path must be specified."
+v:"Должен быть указан хотя бы один путь."
+
+k:"at most"
+v:"как максимум"
+
+k:"attacks"
+v:"атак"
+
+k:"Attribute"
+v:"Атрибут"
+
+k:"Attribute Definition Drag"
+v:"Definition Drag Атрибута"
+
+k:"Attribute Qualifier"
+v:"Квалификатор атрибута"
+
+k:"Attribute Type"
+v:"Тип атрибута"
+
+k:"Attributes"
+v:"Атрибуты"
+
+k:"Attributes…"
+v:"Атрибуты…"
+
+k:"Automatic"
+v:"Автоматический"
+
+k:"Available commands:"
+v:"Доступные команды:"
+
+k:"B: Has an attached bipod. When used from a prone position, "
+v:"B: Имеет прикреплённы сошки. Когда используется в положении лёжа, "
+
+k:"Back"
+v:"Назад"
+
+k:"Background"
+v:"Задний Фон"
+
+k:"Backspace"
+v:"Backspace"
+
+k:"Banding"
+v:"Окантовка"
+
+k:"Base Cost"
+v:"Базовая стоимость"
+
+k:"Base Markdown"
+v:"Базовый markdown"
+
+k:"Base Skill"
+v:"Базовый навык"
+
+k:"Base Value"
+v:"Базовое значение"
+
+k:"Basic Damage"
+v:"Базовый урон"
+
+k:"Basic Lift"
+v:"Базовый груз"
+
+k:"Basic Set"
+v:"Basic Set"
+
+k:"Basic Swing"
+v:"Амплитудный"
+
+k:"Basic Thrust"
+v:"Прямой"
+
+k:"Bevel"
+v:"Скос"
+
+k:"Birthday"
+v:"День рождения"
+
+k:"Bite"
+v:"Укус"
+
+k:"Black"
+v:"Чёрный"
+
+k:"Block"
+v:"Блок"
+
+k:"block"
+v:"блок"
+
+k:"Block Layout"
+v:"Расположение блока"
+
+k:"Block Modifier"
+v:"Модификатор блока"
+
+k:"Blue"
+v:"Синий"
+
+k:"Blue:"
+v:"Синий:"
+
+k:"Body Type"
+v:"Тип тела"
+
+k:"Body Type…"
+v:"Тип тела…"
+
+k:"Bold"
+v:"Жирный"
+
+k:"Bottom"
+v:"Нижний"
+
+k:"Bottom Margin"
+v:"Нижний отступ"
+
+k:"Brightness"
+v:"Яркость"
+
+k:"Brightness:"
+v:"Яркость:"
+
+k:"Bring All to Front"
+v:"Вывести все на передний план"
+
+k:"Broad Jump:"
+v:"Прыжок в длину:"
+
+k:"Broken Ground"
+v:"Сломанная земля"
+
+k:"Build "
+v:"Сборка "
+
+k:"Built-in"
+v:"Встроенный"
+
+k:"Bulk"
+v:"Разм"
+
+k:"bulk"
+v:"разм"
+
+k:"Butt"
+v:"Кнопка"
+
+k:"by %d%%"
+v:"на %d%%"
+
+k:"Calculator for %s"
+v:"Калькулятор для %s"
+
+k:"Calculators (jumping, throwing, hiking, etc.)"
+v:"Калькуляторы (прыжки, метание, ходьба, и т.п.)"
+
+k:"Calendar"
+v:"Календарь"
+
+k:"Campaigns"
+v:"Кампании"
+
+k:"Can Block"
+v:"Могут блокировать"
+
+k:"Can Parry"
+v:"Могут отпарировать"
+
+k:"Cancel"
+v:"Отмена"
+
+k:"Cannot exceed default skill level by more than"
+v:"Не может превышать навык по умолчанию на более чем"
+
+k:"Cannot Redo"
+v:"Нельзя повторить"
+
+k:"Cannot Undo"
+v:"Нельзя отменить"
+
+k:"CapsLock"
+v:"CapsLock"
+
+k:"Carried Equipment (%s; $%s)"
+v:"Носимое снаряжение (%s; $%s)"
+
+k:"Carry On Back"
+v:"Нести на спине"
+
+k:"Cast"
+v:"Сотворить"
+
+k:"Casting Cost"
+v:"Стоиость сотворения"
+
+k:"Casting Duration"
+v:"Продолжительность сотворения"
+
+k:"Casting Time"
+v:"Время сотворения"
+
+k:"CF"
+v:"МЦ"
+
+k:"chamber shots"
+v:"выстрелы в оруженой камере"
+
+k:"Character Sheets"
+v:"Листы(ов) персонажа"
+
+k:"Character Templates"
+v:"Шаблоны(ов) персонажа"
+
+k:"Check for %s updates"
+v:"Проверить обновления %s"
+
+k:"Checking for %s updates…"
+v:"Проверка обновлений %s…"
+
+k:"Choice Name"
+v:"Выбрать название"
+
+k:"Choose an ink"
+v:"Выберите чернила"
+
+k:"Choose one or more destinations:"
+v:"Выберите одно или несколько направлений:"
+
+k:"Clamp"
+v:"Зажим"
+
+k:"Class"
+v:"Класс"
+
+k:"Clear"
+v:"Очистить"
+
+k:"Clear Portrait"
+v:"Очистить портрет"
+
+k:"Click and drag this handle to rearrange"
+v:"Щелкните и перетащите эту ручку для перестановки"
+
+k:"Clockwise"
+v:"По часовой"
+
+k:"Close"
+v:"Закрыть"
+
+k:"Close Combat"
+v:"Ближний бой"
+
+k:"College"
+v:"Колледж"
+
+k:"colleges"
+v:"колледжи"
+
+k:"Color"
+v:"Цвет"
+
+k:"Color Mode"
+v:"Цветной режим"
+
+k:"Color-Burn"
+v:"Цветной ожог"
+
+k:"Color-Dodge"
+v:"Цветное уклонение"
+
+k:"Colors"
+v:"Цвета"
+
+k:"Colors…"
+v:"Цвета…"
+
+k:"combined with"
+v:"в сочетании с"
+
+k:"Compound"
+v:"Составное"
+
+k:"Condensed"
+v:"Конденсированный"
+
+k:"Condition"
+v:"Условие"
+
+k:"Conditional Modifier"
+v:"Модификатор с условием"
+
+k:"Conditional Modifiers"
+v:"Модификаторы с условием"
+
+k:"Configure"
+v:"Настроить"
+
+k:"Contained Weight Reduction"
+v:"Уменьшение веса внутри"
+
+k:"Container Type"
+v:"Тип контейнера"
+
+k:"contains"
+v:"что содержит"
+
+k:"Content"
+v:"Содержание"
+
+k:"Content Filter"
+v:"Фильтр содержания"
+
+k:"Control"
+v:"Управление"
+
+k:"Control Edge"
+v:"Управляющее острие"
+
+k:"Convert to Container"
+v:"Преобразовать в контейнер"
+
+k:"Convert to Non-Container"
+v:"Преобразовать в не-контейнер"
+
+k:"Converts all files specified on the command line to the current data format. If a directory is specified, it will be traversed recursively and all files found will be converted. This operation is intended to easily bring files up to the current version's data format. After all files have been processed, GCS will exit"
+v:"Преобразует все файлы, указанные в командной строке, в текущий формат данных. Если указан каталог, то он будет пройден рекурсивно, и все найденные файлы будут преобразованы. Эта операция предназначена для легкого приведения файлов к формату данных текущей версии. После того как все файлы будут обработаны, GCS завершит выполнение"
+
+k:"Copies"
+v:"Копий"
+
+k:"Copy"
+v:"Копировать"
+
+k:"Copy to Character Sheet"
+v:"Скопировать в лист персонажа"
+
+k:"Copy to clipboard"
+v:"Скопировать в буфер обмена"
+
+k:"Copy to Other Character Sheet"
+v:"Скопировать в другой лист персонажа"
+
+k:"Copy to Template"
+v:"Скопировать в шаблон"
+
+k:"Copyright © %[1]s by %[2]s%[3]s All rights reserved."
+v:"Авторские права © %[1]s от %[2]s%[3]s Все права защищены."
+
+k:"Cost"
+v:"Цена"
+
+k:"Cost Adjustment"
+v:"Подгонка цены"
+
+k:"Cost Modifier"
+v:"Модификатор цены"
+
+k:"Cost Per Level"
+v:"Цена за уровень"
+
+k:"Cost per Point"
+v:"Цена за увеличение на очко"
+
+k:"Count"
+v:"Счёт"
+
+k:"Counter-Clockwise"
+v:"Против часовой стрелки"
+
+k:"CR Adjustment"
+v:"Подгонка БС"
+
+k:"CR: 6 (Resist rarely)"
+v:"БС: 6 (Почти Бесконтрольно)"
+
+k:"CR: 9 (Resist fairly often)"
+v:"БС: 9 (Контролировать Сложно)"
+
+k:"CR: 12 (Resist quite often)"
+v:"БС: 12 (Контролировать Реально)"
+
+k:"CR: 15 (Resist almost all the time)"
+v:"БС: 15 (Контролировать Легко)"
+
+k:"Created"
+v:"Создано"
+
+k:"CSS:"
+v:"CSS:"
+
+k:"Current Name"
+v:"Текущее имя"
+
+k:"Current Tab"
+v:"Текущая вкладка"
+
+k:"Cut"
+v:"Вырезать"
+
+k:"Damage"
+v:"Урон"
+
+k:"damage"
+v:"урон"
+
+k:"Damage Modifier"
+v:"Модификатор урона"
+
+k:"Damage Modifier Per Die"
+v:"Модификатор урона за Куб"
+
+k:"Damage Progression"
+v:"Прогрессия урона"
+
+k:"Damage Type"
+v:"Тип урона"
+
+k:"Damage:"
+v:"Урон:"
+
+k:"Dark"
+v:"Темный"
+
+k:"Darken"
+v:"Затемнить"
+
+k:"Decal"
+v:"Декальный"
+
+k:"Decimal"
+v:"Десятичная дробь"
+
+k:"Decimal (Display Only)"
+v:"Десятичная дробь (Для отображения)"
+
+k:"Decrease Skill Level"
+v:"Понизить уровень навыка"
+
+k:"Decrease Tech Level"
+v:"Понизить технологический уровень"
+
+k:"Decrease Uses"
+v:"Уменьшить использования"
+
+k:"Decrement"
+v:"Уменьшить"
+
+k:"Decrement Level"
+v:"Понизить уровень"
+
+k:"Decrement Points"
+v:"Понизить очки"
+
+k:"Decrement Quantity"
+v:"Уменьшить количество"
+
+k:"Deep Snow"
+v:"Глубокий снег"
+
+k:"Default Adjustment"
+v:"Подгонка по умолчанию"
+
+k:"Default Attributes"
+v:"Атрибуты по умолчанию"
+
+k:"Default Attributes…"
+v:"Атрибуты по умолчанию…"
+
+k:"Default Body Type"
+v:"Тип телосложения по умолчанию"
+
+k:"Default Body Type…"
+v:"Тип телосложения по умолчанию…"
+
+k:"Default Player Name"
+v:"Имя игрока по умолчанию"
+
+k:"Default Scale"
+v:"Масштаб по умолчанию"
+
+k:"Default Sheet Settings"
+v:"Настройки листа по умолчанию"
+
+k:"Default Sheet Settings…"
+v:"Настройки листа по умолчанию…"
+
+k:"Default Tech Level"
+v:"Технологический уровень по умолчанию"
+
+k:"Default: "
+v:"По умолчанию от: "
+
+k:"Defaults"
+v:"По умолчанию"
+
+k:"Defaults To"
+v:"По умолчанию к"
+
+k:"Delete"
+v:"Удалить"
+
+k:"Delete Attribute"
+v:"Удалить атрибут"
+
+k:"Delete Pool Threshold"
+v:"Удалить порог пула"
+
+k:"Delete Selection"
+v:"Удалить выделенный фрагмент"
+
+k:"Description"
+v:"Описание"
+
+k:"Desert"
+v:"Пустыня"
+
+k:"Desert, Hard-packed"
+v:"Пустыня, твердый грунт"
+
+k:"Determines the method used to calculate thrust and swing damage"
+v:"Определяет метод расчета тычкового и амплитудного урона"
+
+k:"Development"
+v:"Разработка"
+
+k:"Development versions don't look for %s updates"
+v:"Версии для разработчиков не ищут обновления %s"
+
+k:"Diff"
+v:"Отличие"
+
+k:"Difference"
+v:"Разница"
+
+k:"Difficulty"
+v:"Сложность"
+
+k:"Disadvantages"
+v:"Недостатки"
+
+k:"Discard Changes"
+v:"Сбросить Изменения"
+
+k:"Display help information for a command and exit."
+v:"Отобразить справочную информацию для команды и выйти."
+
+k:"Display short version information and exit"
+v:"Вывести краткую информацию о версии и выйти"
+
+k:"Display the full version information and exit"
+v:"Вывести полную информацию о версии и выйти"
+
+k:"Display this help information and exit."
+v:"Вывести эту справочную информацию о помощи и выйти."
+
+k:"Distance:"
+v:"Расстояние:"
+
+k:"Divider"
+v:"Делитель"
+
+k:"do not contain"
+v:"не содержат"
+
+k:"do not end with"
+v:"не заканчиваются на"
+
+k:"do not start with"
+v:"не начинаются с"
+
+k:"Dock Into Workspace"
+v:"Закрепить в рабочей области"
+
+k:"Document Workspace"
+v:"Рабочее поле для документов"
+
+k:"Dodge"
+v:"Уклонение"
+
+k:"Does it exist?"
+v:"Существует ли это?"
+
+k:"does not contain"
+v:"что не содержит"
+
+k:"does not end with"
+v:"что не заканчивается на"
+
+k:"does not exist in the Markdown directory in any library."
+v:"не существует в каталоге Markdown ни в одной библиотеке."
+
+k:"Does Not Have"
+v:"Не имеет"
+
+k:"does not start with"
+v:"что не начинается с"
+
+k:"doesn't have"
+v:"не имеет"
+
+k:"Double-click to set a character portrait, or drag an image onto this block."
+v:"Дважды щелкните, чтобы задать портрет персонажа, или перетащите изображение на этот блок."
+
+k:"Down"
+v:"Вниз"
+
+k:"Download"
+v:"Скачать"
+
+k:"DR"
+v:"СП"
+
+k:"DR Bonus"
+v:"Бонус к СП в"
+
+k:"DR divisor"
+v:"Делитель СП"
+
+k:"Drag"
+v:"Перетащить"
+
+k:"Drop Area"
+v:"Область падения"
+
+k:"Dst"
+v:"Dst"
+
+k:"Dst-Atop"
+v:"Dst-Atop"
+
+k:"Dst-In"
+v:"Dst-In"
+
+k:"Dst-Out"
+v:"Dst-Out"
+
+k:"Dst-Over"
+v:"Dst-Over"
+
+k:"Duplicate"
+v:"Дублировать"
+
+k:"Duplicate Selection"
+v:"Дублировать выделенный фрагмент"
+
+k:"Duration"
+v:"Продолжительность"
+
+k:"Edit"
+v:"Редактирование"
+
+k:"Editable"
+v:"Редактируемый"
+
+k:"Editors"
+v:"Редакторы"
+
+k:"Enabled"
+v:"Активировано"
+
+k:"Encumbrance"
+v:"Нагрузка"
+
+k:"Encumbrance Penalty"
+v:"Штраф за Нагрузку"
+
+k:"Encumbrance, Move & Dodge"
+v:"Нагрузка, Движение и Уклонение"
+
+k:"End"
+v:"Конец"
+
+k:"ends with"
+v:"что заканчивается на"
+
+k:"Enter a weight or percentage, e.g. \"2 lb\" or \"5%\""
+v:"Введите вес или процент, например, \"2 фунта\" или \"5%\""
+
+k:"Equipment"
+v:"Снаряжение"
+
+k:"Equipment Item"
+v:"Предмет снаряжения"
+
+k:"Equipment Items"
+v:"Предметы снаряжения"
+
+k:"Equipment Modifier"
+v:"Модификатор снаряжения"
+
+k:"Equipment Modifiers"
+v:"Модификаторы снаряжения"
+
+k:"Equipment with a rated ST use this value instead of the user's ST"
+v:"снаряжение с указанной СЛ использует это значение вместо СЛ пользователя"
+
+k:"Equipped"
+v:"Надето"
+
+k:"Error"
+v:"Ошибка"
+
+k:"Error code 0x%04x"
+v:"Код ошибки 0x%04x"
+
+k:"Escape"
+v:"Выход"
+
+k:"Even-Odd"
+v:"Чет-нечет"
+
+k:"exactly"
+v:"ровно"
+
+k:"Exclude unspent points from total"
+v:"Исключить неизрасходованные очки из общего количества"
+
+k:"Exclusion"
+v:"Исключение"
+
+k:"Existing content for this library will be removed and replaced."
+k:"Content in other libraries will not be modified"
+v:"Существующий контент для этой библиотеки будет удален и заменен."
+v:"Содержание в других библиотеках не будет изменено"
+
+k:"Existing remote (%) does not match requested remote (%s)"
+v:"Существующий удаленный (%) не совпадает с запрошенным удаленным (%s)"
+
+k:"Exit"
+v:"Выход"
+
+k:"Exotic"
+v:"Экзотическое"
+
+k:"Expanded"
+v:"Расширенное"
+
+k:"Explanation"
+v:"Объяснение"
+
+k:"Export failed"
+v:"Ошибка Экспортирования"
+
+k:"Export sheets using the specified template file"
+v:"Экспорт листов по указанному файлу шаблона"
+
+k:"Export To…"
+v:"Экспортировать в…"
+
+k:"Export…"
+v:"Экспортировать…"
+
+k:"Extended"
+v:"Расширенный"
+
+k:"External PDF Viewer"
+v:"Внешняя программа просмотра PDF-файлов"
+
+k:"Extra-Black"
+v:"Очень чёрный"
+
+k:"Extra-Bold"
+v:"Очень жирный"
+
+k:"Extra-Condensed"
+v:"Очень сжатый"
+
+k:"Extra-Expanded"
+v:"Очень расширенный"
+
+k:"Extra-Light"
+v:"Очень легкий"
+
+k:"Eyes"
+v:"Глаза"
+
+k:"F: Fencing weapon. When retreating, your Parry is %v (instead of %v). You suffer a -2 cumulative penalty for multiple parries after the first on the same turn instead of the usual -4. Flails cannot be parried by this weapon."
+v:"Ф: Фехтовальное оружие. При отступлении ваше Парирование составляет %v (вместо %v). Вы получаете кумулятивный штраф -2 за множественные парирования после первого в тот же ход, вместо обычного -4. Не может парировать цепи."
+
+k:"Favorite"
+v:"Избранное"
+
+k:"Favorites"
+v:"Избранные"
+
+k:"Features"
+v:"Особенности"
+
+k:"Feet & Inches"
+v:"Футы и дюймы"
+
+k:"Fencing"
+v:"Фехтовальное"
+
+k:"Field"
+v:"Поле"
+
+k:"File"
+v:"Файл"
+
+k:"File already exists! Do you want to overwrite it?"
+v:"Файл уже существует! Вы хотите перезаписать его?"
+
+k:"Fill"
+v:"Заполнить"
+
+k:"Fill in initial description"
+v:"Заполните первоначальное описание"
+
+k:"First mode:"
+k:""
+v:"Первый режим:"
+v:""
+
+k:"First Page"
+v:"Первая страница"
+
+k:"First Recoil value is for shot, second is for slugs"
+v:"Первое значение отдачи для дроби, второе — для дробовиковых пуль"
+
+k:"Fit Page"
+v:"Подогнать страницу"
+
+k:"Fit Width"
+v:"Подогнать ширину"
+
+k:"Focused Tab"
+v:"Выделенная вкладка"
+
+k:"Folder Name"
+v:"Название Папки"
+
+k:"Follow"
+v:"Следовать"
+
+k:"Font Size"
+v:"Размер шрифта"
+
+k:"Fonts"
+v:"Шрифты"
+
+k:"Fonts…"
+v:"Шрифты…"
+
+k:"For Giants"
+v:"Для гигантов"
+
+k:"for lifting only"
+v:"только для подъема"
+
+k:"For Slugs"
+v:"Для дробовиковых пуль"
+
+k:"for striking only"
+v:"только для ударов"
+
+k:"for throwing only"
+v:"только для метания"
+
+k:"Forest"
+v:"Лес"
+
+k:"Forest, Dense"
+v:"Лес, густой"
+
+k:"Forest, Light"
+v:"Лес, тонкий"
+
+k:"Forward"
+v:"Вперед"
+
+k:"Fragmentation"
+v:"Осколки"
+
+k:"Fragmentation Armor Divisor"
+v:"Делитель брони осколков"
+
+k:"Fragmentation Base Damage"
+v:"Базовый урон осколков"
+
+k:"Fragmentation Type"
+v:"Тип осколков"
+
+k:"from different colleges"
+v:"из разных колледжей"
+
+k:"from equipment "
+v:"из снаряжения "
+
+k:"from others"
+v:"от других"
+
+k:"from others when %s is triggered"
+v:"от других, когда срабатывает %s"
+
+k:"from skill "
+v:"от навыка "
+
+k:"from trait "
+v:"от черты "
+
+k:"from/to target group"
+v:"от/для целевой группы"
+
+k:"Frozen Lake"
+v:"Замерзшее озеро"
+
+k:"Frozen River"
+v:"Замерзшая река"
+
+k:"Full Name"
+v:"Полное имя"
+
+k:"Fully Automatic (Mode 1)"
+v:"Полностью автоматический (Режим 1)"
+
+k:"Fully Automatic (Mode 2)"
+v:"Полностью автоматический (Режим 2)"
+
+k:"Fully Automatic Only"
+v:"Только полностью автоматический"
+
+k:"Gender"
+v:"Пол"
+
+k:"General Settings"
+v:"Общие настройки"
+
+k:"General Settings…"
+v:"Общие настройки…"
+
+k:"Generates a template for a localization file from source code."
+v:"Генерирует шаблон для файла локализации из исходного кода."
+
+k:"Giant Bulk"
+v:"Гигантский разм"
+
+k:"git is not installed"
+v:"git не установлен"
+
+k:"GitHub Access Token"
+v:"Токен доступа GitHub"
+
+k:"GitHub Account"
+v:"GitHub Аккаунт"
+
+k:"Gives a conditional modifier of"
+v:"Дает модификатор с условием в"
+
+k:"Gives a DR bonus of"
+v:"Дает бонус к СП в"
+
+k:"Gives a reaction modifier of"
+v:"Дает модификатор реакции в"
+
+k:"Gives a skill level modifier of"
+v:"Дает модификатор уровня навыка в"
+
+k:"Gives a skill point modifier of"
+v:"Дает модификатор очков навыка в"
+
+k:"Gives a spell level modifier of"
+v:"Дает модификатор уровня заклинания в"
+
+k:"Gives a spell point modifier of"
+v:"Дает модификатор очков заклинания в"
+
+k:"Gives a weapon accuracy modifier of"
+v:"Дает модификатор точности оружия в"
+
+k:"Gives a weapon block modifier of"
+v:"Дает модификатор блока оружия в"
+
+k:"Gives a weapon bulk modifier of"
+v:"Дает модификатор разм оружия в"
+
+k:"Gives a weapon chamber shots modifier of"
+v:"Дает модификатор патронов в патроннике оружия в"
+
+k:"Gives a weapon damage modifier of"
+v:"Дает модификатор урона оружия в"
+
+k:"Gives a weapon DR divisor modifier of"
+v:"Дает модификатор делителя СП оружия в"
+
+k:"Gives a weapon half-damage range modifier of"
+v:"Дает модификатор дальности поражения оружием на половину в"
+
+k:"Gives a weapon maximum range modifier of"
+v:"Дает модификатор максимальной дальности оружия в"
+
+k:"Gives a weapon maximum reach modifier of"
+v:"Дает модификатор максимальной досягаемости оружия в"
+
+k:"Gives a weapon minimum range modifier of"
+v:"Дает модификатор минимальной дальности оружия в"
+
+k:"Gives a weapon minimum reach modifier of"
+v:"Дает модификатор минимальной досягаемости оружия в"
+
+k:"Gives a weapon minimum ST modifier of"
+v:"Дает оружию минимальный модификатор СЛ в"
+
+k:"Gives a weapon non-chamber shots modifier of"
+v:"Дает модификатор патронов вне патронника оружия в"
+
+k:"Gives a weapon parry modifier of"
+v:"Дает модификатор парирования оружия в"
+
+k:"Gives a weapon recoil modifier of"
+v:"Дает модификатор отдачи оружия в"
+
+k:"Gives a weapon reload time modifier of"
+v:"Дает модификатор времени перезарядки оружия в"
+
+k:"Gives a weapon scope accuracy modifier of"
+v:"Дает модификатор точности прицела оружия в"
+
+k:"Gives a weapon secondary projectiles (mode 1) modifier of"
+v:"Дает оружию модификатор вторичных снарядов (режим 1), равный"
+
+k:"Gives a weapon secondary projectiles (mode 2) modifier of"
+v:"Дает оружию модификатор вторичных снарядов (режим 2), равный"
+
+k:"Gives a weapon shot duration modifier of"
+v:"Дает модификатор продолжительности выстрела оружия в"
+
+k:"Gives a weapon shots per attack (mode 1) modifier of"
+v:"Дает модификатор количества выстрелов оружия за атаку (режим 1) равный"
+
+k:"Gives a weapon shots per attack (mode 2) modifier of"
+v:"Дает модификатор количества выстрелов оружия за атаку (режим 2) равный"
+
+k:"Gives an attribute modifier of"
+v:"Дает модификатор атрибута в"
+
+k:"Go to first page"
+v:"Перейти на первую страницу"
+
+k:"Go to last page"
+v:"Перейти на последнюю страницу"
+
+k:"Go to next page"
+v:"Перейти на следующую страницу"
+
+k:"Go to previous page"
+v:"Перейти на предыдущую страницу"
+
+k:"Green"
+v:"Зеленый"
+
+k:"Green:"
+v:"Зеленый:"
+
+k:"Group"
+v:"Группа"
+
+k:"Group containers when sorting"
+v:"Группировать контейнеры при сортировке"
+
+k:"GURPS Character Sheet is an interactive character sheet editor for the GURPS Fourth Edition roleplaying game."
+v:"GURPS Character Sheet - это интерактивный редактор листа персонажа для ролевой игры GURPS четвертого издания."
+
+k:"Hair"
+v:"Волосы"
+
+k:"half-damage range"
+v:"дальность половины урона"
+
+k:"Halve Dodge"
+v:"Уменьшить уклонение вдвое"
+
+k:"Halve Dodge (round up)"
+v:"Уменьшить уклонение вдвое (округлять вверх)"
+
+k:"Halve Move"
+v:"Уменьшить передвижение вдвое"
+
+k:"Halve Move (round up)"
+v:"Уменьшить передвижение вдвое (округлять вверх)"
+
+k:"Halve Strength"
+v:"Уполовинить силу"
+
+k:"Halve Strength (round up; does not affect HP and damage)"
+v:"Уполовинить силу (округлять вверх; не влияет на ЕЖ и урон)"
+
+k:"Hand"
+v:"Рука"
+
+k:"Hard-Light"
+v:"Жесткий свет"
+
+k:"Has"
+v:"Имеет"
+
+k:"has"
+v:"имеет"
+
+k:"Has Bipod"
+v:"Имеет сошки"
+
+k:"Has bipod"
+v:"Имеет сошки"
+
+k:"has equipped equipment"
+v:"имеет экипировку"
+
+k:"Header"
+v:"Заголовок"
+
+k:"Heavy"
+v:"Тяжелая"
+
+k:"Height"
+v:"Рост"
+
+k:"Help"
+v:"Помощь"
+
+k:"Hide %s"
+v:"Скрыть %s"
+
+k:"Hide Others"
+v:"Скрыть остальное"
+
+k:"High Jump:"
+v:"Прыжок в высоту:"
+
+k:"High-cyclic Controlled Bursts"
+v:"Быстрые контролируемые очереди"
+
+k:"High-cyclic Controlled Bursts (Mode 1)"
+v:"Быстрые контролируемые очереди (Режим 1)"
+
+k:"High-cyclic Controlled Bursts (Mode 2)"
+v:"Быстрые контролируемые лчереди (Режим 2)"
+
+k:"Hiking"
+v:"Ходьба"
+
+k:"Hiking Extra Effort Penalty"
+v:"Штраф за сверхусилие при пеших походах"
+
+k:"Hills, Rolling"
+v:"Холмы, склоны"
+
+k:"Hills, Steep"
+v:"Холмы, крутые"
+
+k:"Hint"
+v:"Подсказка"
+
+k:"Hinted-Fill"
+v:"Заполнение с подсказкой"
+
+k:"Hit Location Drag"
+v:"Перетаскивание зоны попадания"
+
+k:"Hit Penalty"
+v:"Штраф за попадание"
+
+k:"Home"
+v:"Домой"
+
+k:"Hours of Study"
+v:"Часы обучения"
+
+k:"Hours Spent"
+v:"Потраченные часы"
+
+k:"Hue"
+v:"Оттенок"
+
+k:"Hue:"
+v:"Оттенок:"
+
+k:"i: Reload time is per shot"
+v:"i: Время перезарядки за каждый выстрел"
+
+k:"Icon Button"
+v:"Иконка-кнопка"
+
+k:"Icon Button Rollover"
+v:"Подсветка иконки-кнопки"
+
+k:"ID"
+v:"ID"
+
+k:"Identity"
+v:"Общая информация"
+
+k:"If your PDF is opening up to the wrong page when opening page references, enter an offset here to compensate."
+v:"Если ваш PDF-файл открывается не на той странице при открытии ссылок на страницы, введите здесь смещение, чтобы компенсировать это."
+
+k:"Ignore weight for skills"
+v:"Игнорировать вес в пользу навыков"
+
+k:"Image Export Resolution"
+v:"Разрешение экспортируемого изображения"
+
+k:"Images"
+v:"Изображения"
+
+k:"Import…"
+v:"Импортировать…"
+
+k:"In Chamber"
+v:"В оруженой камере"
+
+k:"Inactive Selection"
+v:"Выключить выделенный фрагмент"
+
+k:"Includes a Major Cost of Living Increase and Merchant Skill Penalty"
+v:"Включает значительное увеличение стоимости проживания и штрафа навыка торговли"
+
+k:"Includes a Minor Cost of Living Increase"
+v:"Включает незначительное увеличение стоимости проживания"
+
+k:"Includes a Reaction Penalty for Failure"
+v:"Включает штраф за реакцию в случае неудачи"
+
+k:"Includes an Action Penalty for Failure"
+v:"Включает штраф к действиям за неудачу"
+
+k:"Includes Fright Check Bonus"
+v:"Включает бонус к проверке на страх"
+
+k:"Includes Fright Check Penalty"
+v:"Включает штраф к проверке на страх"
+
+k:"Includes modifiers from"
+v:"Включает модификаторы из"
+
+k:"Includes modifiers from:"
+v:"Включает модификаторы из:"
+
+k:"Increase Skill Level"
+v:"Повысить уровень навыка"
+
+k:"Increase Tech Level"
+v:"Повысить технологический уровень"
+
+k:"Increase Uses"
+v:"Увеличить использования"
+
+k:"Increment"
+v:"Увеличить"
+
+k:"Increment Level"
+v:"Повысить уровень"
+
+k:"Increment Points"
+v:"Повысить очки"
+
+k:"Increment Quantity"
+v:"Увеличить количество"
+
+k:"Indirect Selection"
+v:"Косвенный выбор"
+
+k:"Initial click on text field selects all"
+v:"Первый щелчок по текстовому полю выделяет все"
+
+k:"Initial Editor Scale"
+v:"Первоначальный масштаб редактора"
+
+k:"Initial Image Scale"
+v:"Первоначальный масштаб изображения"
+
+k:"Initial List Scale"
+v:"Первоначальный масштаб списка"
+
+k:"Initial Markdown Scale"
+v:"Первоначальный масштаб Markdown"
+
+k:"Initial PDF Scale"
+v:"Первоначальный масштаб PDF"
+
+k:"Initial Points"
+v:"Стартовые очки"
+
+k:"Initial points"
+v:"Стартовые очки"
+
+k:"Initial Sheet Scale"
+v:"Первоначальный масштаб листа"
+
+k:"Inline"
+v:"Встроенная"
+
+k:"Inline & Tooltip"
+v:"Встроенная и всплывающая подсказка"
+
+k:"Inner"
+v:"Внутренний"
+
+k:"Insert"
+v:"Вставить"
+
+k:"Insert %s"
+v:"Вставить %s"
+
+k:"Integer"
+v:"Целое"
+
+k:"Integer (Display Only)"
+v:"Целое (Для отображения)"
+
+k:"Intensive Training"
+v:"Интенсивное обучение"
+
+k:"Interface Locale"
+v:"Язык интерфейса"
+
+k:"Interior Divider"
+v:"Внутренний разделитель"
+
+k:"Intersect"
+v:"Пересечение"
+
+k:"Invalid file data."
+v:"Недопустимые данные файла."
+
+k:"Invalid option specification: %v"
+v:"Недопустимая спецификация настройки: %v"
+
+k:"Invalid option: -%s"
+v:"Недопустимая опция: -%s"
+
+k:"Invalid option: --%s"
+v:"Недопустимая опция: --%s"
+
+k:"invalid path"
+v:"недопустимый путь"
+
+k:"Invalid value"
+v:"Недопустимое значение"
+
+k:"Inverse-Even-Odd"
+v:"Инвертировать четно-нечетное"
+
+k:"Inverse-Winding"
+v:"Инверсная обмотка"
+
+k:"Inverted"
+v:"Инвертированный"
+
+k:"Invisible"
+v:"Скрытый"
+
+k:"is"
+v:"что равняется"
+
+k:"is anything"
+v:"что равняется чему угодно"
+
+k:"is at least"
+v:"что равняется по крайней мере"
+
+k:"is at most"
+v:"что равняется максимум"
+
+k:"is not"
+v:"что не равняется"
+
+k:"Italic"
+v:"Курсив"
+
+k:"Item"
+v:"Предмет"
+
+k:"Jet"
+v:"Струя"
+
+k:"JPEG"
+v:"JPEG"
+
+k:"Jump Running Start"
+v:"Прыжок с разбега"
+
+k:"Jumping"
+v:"Прыжок"
+
+k:"Jumping Extra Effort Penalty"
+v:"Штраф за дополнительные усилия при прыжке"
+
+k:"Jungle"
+v:"Джунгли"
+
+k:"Keyboard"
+v:"Клавиатура"
+
+k:"Kick"
+v:"Пинок"
+
+k:"kilometer"
+v:"километр"
+
+k:"kilometers"
+v:"километры"
+
+k:"Knowing Your Own Strength"
+v:"Knowing Your Own Strength"
+
+k:"Label"
+v:"Заголовок"
+
+k:"Landscape"
+v:"Горизонтальная"
+
+k:"Large"
+v:"Большой"
+
+k:"Last Page"
+v:"Последняя страница"
+
+k:"LC"
+v:"КЛ"
+
+k:"LC0: Banned"
+v:"КЛ0: Запрещенный"
+
+k:"LC0: Banned"
+k:"LC1: Military"
+k:"LC2: Restricted"
+k:"LC3: Licensed"
+k:"LC4: Open"
+v:"КЛ0: Запрещенный"
+v:"КЛ1: Военный"
+v:"КЛ2: Ограниченный"
+v:"КЛ3: Лицензированный"
+v:"КЛ4: Свободный"
+
+k:"LC1: Military"
+v:"КЛ1: Военный"
+
+k:"LC2: Restricted"
+v:"КЛ2: Запрещенный"
+
+k:"LC3: Licensed"
+v:"КЛ3: Лицензированный"
+
+k:"LC4: Open"
+v:"КЛ4: Открытый"
+
+k:"Leave field blank to auto-populate with the character's TL when added to a character sheet."
+v:"Оставьте поле пустым для автоматического заполнения ТУ персонажа при добавлении его в лист персонажа."
+
+k:"Leave the GitHub Account blank for local directories not on GitHub"
+v:"Для локальных каталогов, не размещенных на GitHub, оставьте параметр GitHub Account пустым"
+
+k:"Left"
+v:"Левый"
+
+k:"Left Margin"
+v:"Левый отступ"
+
+k:"Left-Command"
+v:"Левый-Command"
+
+k:"Left-Control"
+v:"Левый-Control"
+
+k:"Left-Option"
+v:"Левый-Option"
+
+k:"Left-Shift"
+v:"Левый-Shift"
+
+k:"Legal"
+v:"Для документов"
+
+k:"Legality Class"
+v:"Класс Легальности"
+
+k:"Length Units"
+v:"Единицы измерения длины"
+
+k:"Letter"
+v:"Письмо"
+
+k:"Level"
+v:"Уровень"
+
+k:"Level Qualifier"
+v:"Квалификатор уровня"
+
+k:"Levels"
+v:"Уровни"
+
+k:"Libraries"
+v:"Библиотеки"
+
+k:"Library Explorer"
+v:"Проводник библиотек"
+
+k:"Library Explorer Deep Search In…"
+v:"Выполнить глубокий поиск через проводник библиотек в…"
+
+k:"Library Settings: %s"
+v:"Настройки библиотеки: %s"
+
+k:"License"
+v:"Лицензия"
+
+k:"License: %s"
+v:"Лицензия: %s"
+
+k:"Lifting & Moving Things"
+v:"Подъем и перемещение предметов"
+
+k:"Light"
+v:"Лёгкая"
+
+k:"Lighten"
+v:"Облегчить"
+
+k:"Lightness"
+v:"Лёгкость"
+
+k:"Limit"
+v:"Лимит"
+
+k:"Linear"
+v:"Линейный"
+
+k:"Lines"
+v:"Линии"
+
+k:"Link"
+v:"Ссылка"
+
+k:"link"
+v:"ссылка"
+
+k:"Load Attributes"
+v:"Загрузить атрибуты"
+
+k:"Load Body Type"
+v:"Загрузить тип тела"
+
+k:"Location"
+v:"Часть тела"
+
+k:"Log Path"
+v:"Путь к журналу"
+
+k:"Luminosity"
+v:"Свечение"
+
+k:"M: Mounted. Ignore listed ST and Bulk when firing from its mount. Takes at least 3 Ready maneuvers to unmount or remount the weapon."
+v:"Cn: Установлено. Игнорировать указанные Сл и Разм при стрельбе с установки. Требуется как минимум 3 маневра Подготовки для снятия или установки оружия."
+
+k:"Made a successful Hiking (B200) roll"
+v:"Бросок на ходьбу был успешен (B200)"
+
+k:"Made a successful Skating (B220) roll"
+v:"Бросок на коньки был успешен (B220)"
+
+k:"Made a successful Skiing (B221) roll"
+v:"Бросок на лыжный спорт был успешен (B221)"
+
+k:"Mailing Lists"
+v:"Почта"
+
+k:"Maintain"
+v:"Обслуживать"
+
+k:"Maintenance Cost"
+v:"Стоимость обслуживания"
+
+k:"Make a One-time Donation for %s Development"
+v:"Сделать одноразовое пожертвование на развитие %s"
+
+k:"Markdown"
+v:"Markdown"
+
+k:"Markdown Guide"
+v:"Руководство по Markdown"
+
+k:"Markdown Preview"
+v:"Предварительный просмотр Markdown"
+
+k:"Marker"
+v:"Маркер"
+
+k:"Markov Letter"
+v:"Марковское письмо"
+
+k:"Markov Run"
+v:"Запуск маркова"
+
+k:"Master Library"
+v:"Мастер-библиотека"
+
+k:"Max Auto Column Width"
+v:"Брать максимальную ширину столбца автоматически"
+
+k:"Max Load"
+v:"Макс. вес"
+
+k:"Maximize"
+v:"Максимизировать"
+
+k:"Maximum of 4 hours per day with a full-time job"
+v:"Максимум 4 часа в день с полной занятостью"
+
+k:"Maximum of 4 hours per day with a part-time job"
+v:"Максимум 4 часа в день с неполной занятостью"
+
+k:"Maximum of 8 hours per day"
+v:"Максимум 8 часов в день"
+
+k:"Maximum of 8 hours per day with a full-time job"
+v:"Максимум 8 часов в день с полной занятостью"
+
+k:"Maximum of 8 hours per day with a part-time job"
+v:"Максимум 8 часов в день с неполной занятостью"
+
+k:"Maximum of 12 hours per day with no job"
+v:"Максимум 12 часов в день без работы"
+
+k:"Maximum of 16 hours per day"
+v:"Максимум 16 часов в день"
+
+k:"Maximum Range"
+v:"Максимальная дальность"
+
+k:"maximum range"
+v:"максимальная дальность"
+
+k:"Maximum Reach"
+v:"Максимальная досягаемость"
+
+k:"maximum reach"
+v:"максимальная досягаемость"
+
+k:"Maximum Uses"
+v:"Максимальное количество использований"
+
+k:"Maximum Uses: %d"
+v:"Максимальное количество использований: %d"
+
+k:"md"
+v:"md"
+
+k:"Media"
+v:"Медиа"
+
+k:"Medium"
+v:"Средняя"
+
+k:"Melee Weapon"
+v:"Оружие ближнего боя"
+
+k:"Melee Weapon Usage"
+v:"Использование оружия ближнего боя"
+
+k:"Melee Weapons"
+v:"Оружия ближнего боя"
+
+k:"Mental"
+v:"Ментальный"
+
+k:"Menu"
+v:"Меню"
+
+k:"Menu Keys"
+v:"Горячие клавиши"
+
+k:"Menu Keys…"
+v:"Горячие клавиши…"
+
+k:"Meta"
+v:"Мета"
+
+k:"Meta-Trait"
+v:"Мета-черта"
+
+k:"meter"
+v:"метр"
+
+k:"Method Not Allowed"
+v:"Метод не разрешен"
+
+k:"Middle"
+v:"Середина"
+
+k:"mile"
+v:"миля"
+
+k:"miles"
+v:"миль(и)"
+
+k:"Minimize"
+v:"Свернуть"
+
+k:"Minimum"
+v:"Минимум"
+
+k:"Minimum Range"
+v:"Минимальная дальность"
+
+k:"minimum range"
+v:"минимальная дальность"
+
+k:"Minimum Reach"
+v:"Минимальная досяг."
+
+k:"minimum reach"
+v:"минимальная досяг."
+
+k:"Minimum ST"
+v:"Минимальная СЛ"
+
+k:"minimum ST"
+v:"минимальная СЛ"
+
+k:"Minimum Strength"
+v:"Минимальная сила"
+
+k:"Mirror"
+v:"Зеркало"
+
+k:"Miscellaneous"
+v:"Разное"
+
+k:"Miter"
+v:"Скошенный шов"
+
+k:"Mixed"
+v:"Смешанный"
+
+k:"Mode %d"
+v:"Режим %d"
+
+k:"Modified"
+v:"Изменено"
+
+k:"Modified %s"
+v:"Изменено %s"
+
+k:"Modifier"
+v:"Модификатор"
+
+k:"Modifiers"
+v:"Модификаторы"
+
+k:"Modulate"
+v:"Модулировать"
+
+k:"Monitor Resolution"
+v:"Разрешение монитора"
+
+k:"Monospaced"
+v:"Моноширинный"
+
+k:"Morph"
+v:"Морф"
+
+k:"Mountains"
+v:"Горы"
+
+k:"Mounted"
+v:"Установлен"
+
+k:"Move"
+v:"Движение"
+
+k:"Move Equipment"
+v:"Переместить снаряжение"
+
+k:"Move to Carried Equipment"
+v:"Переместить в носимое снаряжение"
+
+k:"Move to Other Equipment"
+v:"Переместить в прочее снаряжение"
+
+k:"Mud"
+v:"Грязь"
+
+k:"Multiple"
+v:"Множественный"
+
+k:"Multiply"
+v:"Умножить"
+
+k:"Muscle Powered"
+v:"Мускульное"
+
+k:"Muscle-powered"
+v:"Мускульное"
+
+k:"Must be assigned to a college"
+v:"Должно быть назначено для колледжа"
+
+k:"Must specify a command name"
+v:"Необходимо указать имя команды"
+
+k:"Name"
+v:"Имя"
+
+k:"Name Qualifier"
+v:"Квалификатор имени"
+
+k:"Natural Attacks"
+v:"Врождённые Атаки"
+
+k:"Nearest"
+v:"Ближайший"
+
+k:"New Carried Equipment"
+v:"Новое носимое снаряжение"
+
+k:"New Carried Equipment Container"
+v:"Новый контейнер носимого снаряжения"
+
+k:"New Character Sheet"
+v:"Новый лист персонажа"
+
+k:"New Character Sheet from Template"
+v:"Новый лист персонажа из шаблона"
+
+k:"New Character Template"
+v:"Новый шаблон персонажа"
+
+k:"New Equipment Library"
+v:"Новая библиотека снаряжения"
+
+k:"New Equipment Modifier"
+v:"Новый модификатор снаряжения"
+
+k:"New Equipment Modifier Container"
+v:"Новый контейнер модификаторов снаряжения"
+
+k:"New Equipment Modifiers Library"
+v:"Новая библиотека модификаторов снаряжения"
+
+k:"New Folder"
+v:"Новая папка"
+
+k:"New Markdown File"
+v:"Новый файл Markdown"
+
+k:"New Melee Weapon"
+v:"Новое оружие ближнего боя"
+
+k:"New Name"
+v:"Новое имя"
+
+k:"New Note"
+v:"Новая заметка"
+
+k:"New Note Container"
+v:"Новый контейнер заметок"
+
+k:"New Notes Library"
+v:"Новая библиотека заметок"
+
+k:"New Other Equipment"
+v:"Новое прочее снаряжение"
+
+k:"New Other Equipment Container"
+v:"Новый контейнер прочего снаряжения"
+
+k:"New Ranged Weapon"
+v:"Новое дистанционное оружие"
+
+k:"New Ritual Magic Spell"
+v:"Новое заклинание ритуальной магии"
+
+k:"New Skill"
+v:"Новый навык"
+
+k:"New Skill Container"
+v:"Новый контейнер навыков"
+
+k:"New Skills Library"
+v:"Новая библиотека навыков"
+
+k:"New Spell"
+v:"Новое заклинание"
+
+k:"New Spell Container"
+v:"Новый контейнер заклинаний"
+
+k:"New Spells Library"
+v:"Новая библиотека заклинаний"
+
+k:"New Technique"
+v:"Новая техника"
+
+k:"New Trait"
+v:"Новая черта"
+
+k:"New Trait Container"
+v:"Новый контейнер черт"
+
+k:"New Trait Modifier"
+v:"Новый модификатор черты"
+
+k:"New Trait Modifier Container"
+v:"Новый контейнер модификаторов черт"
+
+k:"New Trait Modifiers Library"
+v:"Новая библиотека модификаторов черт"
+
+k:"New Traits Library"
+v:"Новая библиотека черт"
+
+k:"Next Match"
+v:"Следующее совпадение"
+
+k:"Next Page"
+v:"Следующая страница"
+
+k:"No"
+v:"Нет"
+
+k:"No %s updates are available"
+v:"Нет доступных обновлений для %s"
+
+k:"No additional modifiers"
+v:"Нет дополнительных модификаторов"
+
+k:"No Auto-Scaling"
+v:"Без автоматического масштабирования"
+
+k:"No export templates available"
+v:"Нет доступных шаблонов для экспорта"
+
+k:"No files to process."
+v:"Нет файлов для обработки."
+
+k:"No other character sheets are open!"
+v:"Нет других открытых листов персонажа!"
+
+k:"No recent files available"
+v:"Нет доступных недавних файлов"
+
+k:"No School Grognard Damage"
+v:"No School Grognard Damage"
+
+k:"non-chamber shots"
+v:"non-chamber shots"
+
+k:"None"
+v:"Нет"
+
+k:"None Required"
+v:"Не требуется"
+
+k:"Normal"
+v:"Нормальный"
+
+k:"Normal Bulk"
+v:"Нормальный Разм"
+
+k:"not"
+v:"не"
+
+k:"Not Applicable"
+v:"Не применимо"
+
+k:"Not Found"
+v:"Не найдено"
+
+k:"Not Shown"
+v:"Не отображено"
+
+k:"Note"
+v:"Заметка"
+
+k:"Note: This action cannot be undone and will remove %s from disk."
+v:"Примечание: Это действие нельзя отменить и удалит %s с диска."
+
+k:"Note: This action will NOT remove any files from disk."
+v:"Примечание: Это действие НЕ удаляет файлы с диска."
+
+k:"Notes"
+v:"Заметки"
+
+k:"Notes Qualifier"
+v:"Квалификация заметок"
+
+k:"Number of matches found"
+v:"Количество найденных совпадений"
+
+k:"NumLock"
+v:"NumLock"
+
+k:"NumPad-0"
+v:"NumPad-0"
+
+k:"NumPad-1"
+v:"NumPad-1"
+
+k:"NumPad-2"
+v:"NumPad-2"
+
+k:"NumPad-3"
+v:"NumPad-3"
+
+k:"NumPad-4"
+v:"NumPad-4"
+
+k:"NumPad-5"
+v:"NumPad-5"
+
+k:"NumPad-6"
+v:"NumPad-6"
+
+k:"NumPad-7"
+v:"NumPad-7"
+
+k:"NumPad-8"
+v:"NumPad-8"
+
+k:"NumPad-9"
+v:"NumPad-9"
+
+k:"NumPad-Add"
+v:"NumPad-Add"
+
+k:"NumPad-Decimal"
+v:"NumPad-Decimal"
+
+k:"NumPad-Divide"
+v:"NumPad-Divide"
+
+k:"NumPad-Enter"
+v:"NumPad-Enter"
+
+k:"NumPad-Equal"
+v:"NumPad-Equal"
+
+k:"NumPad-Minus"
+v:"NumPad-Minus"
+
+k:"NumPad-Multiply"
+v:"NumPad-Multiply"
+
+k:"object"
+v:"объект"
+
+k:"Object Weight"
+v:"Вес объекта"
+
+k:"Oblique"
+v:"Курсив"
+
+k:"of"
+v:"из"
+
+k:"of %d"
+v:"из %d"
+
+k:"of any kind"
+v:"любого вида"
+
+k:"Off"
+v:"Выкл."
+
+k:"OK"
+v:"OK"
+
+k:"On"
+v:"Вкл."
+
+k:"On Background"
+v:"На заднем плане"
+
+k:"On Banding"
+v:"На полосировании"
+
+k:"On Content"
+v:"На содержании"
+
+k:"On Control"
+v:"При контроле"
+
+k:"On Current Tab"
+v:"На текущей вкладке"
+
+k:"On Editable"
+v:"На редактируемом"
+
+k:"On Error"
+v:"При ошибке"
+
+k:"On Focused Tab"
+v:"При активной вкладке"
+
+k:"On Header"
+v:"На заголовке"
+
+k:"On Inactive Selection"
+v:"При неактивном выборе"
+
+k:"On Indirect Selection"
+v:"При косвенном выборе"
+
+k:"On Marker"
+v:"На маркере"
+
+k:"On Overloaded"
+v:"На перегруженном"
+
+k:"On Page"
+v:"На странице"
+
+k:"On Page Standout"
+v:"На выделенной странице"
+
+k:"On Pressed Control"
+v:"При нажатой клавише Control"
+
+k:"On Search List"
+v:"На списке поиска"
+
+k:"On Selection"
+v:"При выборе"
+
+k:"On Tooltip"
+v:"На тултипе (всплывающая подсказка)"
+
+k:"On Warning"
+v:"При средупреждении"
+
+k:"On-the-Job Training"
+v:"Тренировка на месте работы"
+
+k:"Once configured, GitHub repositories will be scanned for release tags in the form \"v%d.x.y\" through \"v%d.x.y\", where x and y can be any numeric value"
+v:"После настройки, репозитории GitHub будут сканироваться на предмет тегов релизов в форме \"v%d.x.y\" через \"v%d.x.y\", где x и y могут быть любыми числовыми значениями"
+
+k:"One-Handed Lift"
+v:"Подъем одной сукой"
+
+k:"One-Sided"
+v:"Односторонний"
+
+k:"Open"
+v:"Открыть"
+
+k:"Open Detail Editor"
+v:"Открыть редактор деталей"
+
+k:"Open Each Page Reference"
+v:"Открыть ссылки на каждую из страниц"
+
+k:"Open one or more other character sheets first."
+v:"Сначала откройте один или несколько других листов персонажа."
+
+k:"Open Page Reference"
+v:"Открыть ссылку на страницу"
+
+k:"Opening the link failed"
+v:"Не удалось открыть ссылку"
+
+k:"Opens/closes all hierarchical rows"
+v:"Открывает/закрывает все иерархические строки"
+
+k:"Open…"
+v:"Открыть…"
+
+k:"Optimize For"
+v:"Оптимизировать для"
+
+k:"Option %s requires an argument"
+v:"Опция %s требует аргумента"
+
+k:"Option --%[1]s does not allow an argument: %[2]s"
+v:"Опция --%[1]s не допускает аргумента: %[2]s"
+
+k:"Option must be named"
+v:"Опция должна иметь название"
+
+k:"Option must have a value"
+v:"Опция должна иметь значение"
+
+k:"Option specification -%s already exists"
+v:"Спецификация опции -%s уже существует"
+
+k:"Option specification --%s already exists"
+v:"Спецификация опции --%s уже существует"
+
+k:"Options:"
+v:"Опции:"
+
+k:"or"
+v:"или"
+
+k:"Organization"
+v:"Организация"
+
+k:"Orientation"
+v:"Ориентация"
+
+k:"Original"
+v:"Оригинальный"
+
+k:"Other Equipment ($%s)"
+v:"Прочее снаряжение ($%s)"
+
+k:"Outer"
+v:"Внешний"
+
+k:"Overlay"
+v:"Наложение"
+
+k:"Overloaded"
+v:"Перегруженный"
+
+k:"Overspent"
+v:"Перерасходованный"
+
+k:"Page"
+v:"Страница"
+
+k:"Page %d of %d"
+v:"Страница %d из %d"
+
+k:"Page Highlight"
+v:"Выделение страницы"
+
+k:"Page Offset"
+v:"Смещение страницы"
+
+k:"Page Primary Fields"
+v:"Основные поля страницы"
+
+k:"Page Primary Footer"
+v:"Основной футер страницы"
+
+k:"Page Primary Labels"
+v:"Основные ярлыки страницы"
+
+k:"Page Ranges"
+v:"Диапазоны страниц"
+
+k:"Page Ref"
+v:"Page Ref"
+
+k:"Page Reference"
+v:"Ссылка на страницу"
+
+k:"Page Reference Mappings"
+v:"Сопоставления ссылок на страницы"
+
+k:"Page Reference Mappings…"
+v:"Сопоставления ссылок на страницы…"
+
+k:"Page Search"
+v:"Поиск по страницам"
+
+k:"Page Secondary Fields"
+v:"Вторичные поля страницы"
+
+k:"Page Secondary Footer"
+v:"Вторичный футер страницы"
+
+k:"Page Secondary Labels"
+v:"Вторичные ярлыки страницы"
+
+k:"Page Settings"
+v:"Настройки страницы"
+
+k:"Page Standout"
+v:"Выделенная страница"
+
+k:"Page Void"
+v:"Пустая страница"
+
+k:"PageDown"
+v:"PageDown"
+
+k:"PageUp"
+v:"PageUp"
+
+k:"Paper Size"
+v:"Размер бумаги"
+
+k:"Parry"
+v:"Парирование"
+
+k:"parry"
+v:"парирование"
+
+k:"Parry Modifier"
+v:"Модификатор парирования"
+
+k:"Paste"
+v:"Вставить"
+
+k:"Path"
+v:"Путь"
+
+k:"Pause"
+v:"Пауза"
+
+k:"PC"
+v:"ПК"
+
+k:"PDF"
+v:"PDF"
+
+k:"PDF Link Highlight"
+v:"Выделение ссылок в формате PDF"
+
+k:"PDF Marker Highlight"
+v:"Выделение курсором PDF"
+
+k:"PDFs"
+v:"PDF'ы"
+
+k:"penalty for extra effort"
+v:"штраф за сверхусилие"
+
+k:"penalty for extra effort."
+v:"штраф за сверхусилие."
+
+k:"per attack with"
+v:"за атаку с"
+
+k:"per die"
+v:"за куб"
+
+k:"per level"
+v:"за уровень"
+
+k:"Per Shot"
+v:"За выстрел"
+
+k:"Phoenix Flame D3"
+v:"Фениксовое пламя D3"
+
+k:"Physical"
+v:"Физический"
+
+k:"Pick %s"
+v:"Выбрать %s"
+
+k:"Pick %s %s worth"
+v:"Выбрать %s %s стоимостью"
+
+k:"Plains, Level"
+v:"Равнины, Степи"
+
+k:"Player"
+v:"Имя игрока"
+
+k:"Plus"
+v:"Плюс"
+
+k:"PNG"
+v:"PNG"
+
+k:"point"
+v:"ОП"
+
+k:"Point Cost"
+v:"Стоимость в очках"
+
+k:"Point Pool Current"
+v:"Текущий пул очков"
+
+k:"Point Pool Maximum"
+v:"Максимальный пул очков"
+
+k:"Point Pools"
+v:"Пулы очков"
+
+k:"Point Record Changes"
+v:"Запись изменения очков"
+
+k:"Points"
+v:"ОП"
+
+k:"points"
+v:"ОП"
+
+k:"Points earned but not yet spent"
+v:"Очки, заработанные, но еще не потраченные"
+
+k:"Points Record for %s"
+v:"Запись очков для %s"
+
+k:"Points spent on %s"
+v:"Очки, потраченные на %s"
+
+k:"Polygon"
+v:"Полигон"
+
+k:"Pool"
+v:"Пул"
+
+k:"Pool Separator"
+v:"Разделитель пула"
+
+k:"Pool Threshold Drag"
+v:"Перетаскивание порога пула"
+
+k:"Portrait"
+v:"Портрет"
+
+k:"Power Source"
+v:"Источник энергии"
+
+k:"ppi"
+v:"ppi"
+
+k:"ppi (A value of 0 will cause the ppi reported by your monitor to be used)"
+v:"ppi (Значение 0 приведет к использованию ppi, сообщенного вашим монитором)"
+
+k:"Preferences…"
+v:"Настройки…"
+
+k:"Prerequisite Count"
+v:"Количество пререквизитов"
+
+k:"Prerequisites"
+v:"Пререквизиты"
+
+k:"Prerequisites have not been met:"
+v:"Пререквизиты не соблюдены:"
+
+k:"Press RETURN to select the next match"
+k:"Press SHIFT-RETURN to select the previous match"
+v:"Нажмите RETURN, чтобы выбрать следующее совпадение"
+v:"Нажмите SHIFT-RETURN, чтобы выбрать предыдущее совпадение"
+
+k:"Pressed Control"
+v:"Нажатая клавиша Control"
+
+k:"Pressed Icon Button"
+v:"Нажата кнопка со значком"
+
+k:"Pressed Link"
+v:"Нажатая ссылка"
+
+k:"Preview"
+v:"Предпросмотр"
+
+k:"Previous Match"
+v:"Предыдущее совпадение"
+
+k:"Previous Page"
+v:"Предыдущая страница"
+
+k:"Primary Attributes"
+v:"Основные атрибуты"
+
+k:"Primary Separator"
+v:"Разделитель основных атрибутов"
+
+k:"Print"
+v:"Печать"
+
+k:"Printing '%s' failed"
+v:"Не удалось напечатать '%s'"
+
+k:"PrintScreen"
+v:"PrintScreen"
+
+k:"Print…"
+v:"Печать…"
+
+k:"Processed 1 file"
+v:"Обработан 1 файл"
+
+k:"Processed %d files"
+k:""
+v:"Обработано %d файлов"
+v:""
+
+k:"Processing %s"
+k:""
+v:"Обработка %s"
+v:""
+
+k:"Professional Teacher"
+v:"Профессиональный учитель"
+
+k:"projectile"
+v:"снаряд"
+
+k:"projectiles"
+v:"снаряды"
+
+k:"Provide substitutions:"
+v:"Предоставить замены:"
+
+k:"Pts"
+v:"ОП"
+
+k:"Punch"
+v:"Удар"
+
+k:"Quantity"
+v:"Количество"
+
+k:"Quantity Criteria"
+v:"Критерии количества"
+
+k:"Quirks"
+v:"Причуды"
+
+k:"Quit"
+v:"Выйти"
+
+k:"R: Uses a Musket Rest. Any aimed shot fired while stationary and standing up is automatically braced (add +1 to Accuracy)."
+v:"R: Использует опору для мушкета. Любой прицельный выстрел, сделанный в состоянии покоя и стоя, автоматически подперт (добавляется +1 к Точности)."
+
+k:"Rain"
+v:"Дождь"
+
+k:"Randomize the age using the current ancestry"
+v:"Рандомизировать возраст используя текущую расу"
+
+k:"Randomize the birthday using the current calendar"
+v:"Рандомизировать день рождения, используя текущий календарь"
+
+k:"Randomize the eyes using the current ancestry"
+v:"Рандомизировать цвет глаз используя текущую расу"
+
+k:"Randomize the gender using the current ancestry"
+v:"Рандомизировать пол используя текущую расу"
+
+k:"Randomize the hair using the current ancestry"
+v:"Рандомизировать цвет волос используя текущую расу"
+
+k:"Randomize the handedness using the current ancestry"
+v:"Рандомизировать основную руку используя текущую расу"
+
+k:"Randomize the height using the current ancestry"
+v:"Рандомизировать рост используя текущую расу"
+
+k:"Randomize the name using the current ancestry"
+v:"Рандомизировать имя используя текущую расу"
+
+k:"Randomize the skin using the current ancestry"
+v:"Рандомизировать цвет кожи используя текущую расу"
+
+k:"Randomize the weight using the current ancestry"
+v:"Рандомизировать вес используя текущую расу"
+
+k:"Range"
+v:"Дальность"
+
+k:"Range In Miles"
+v:"Дальность в милях"
+
+k:"Ranged Weapon"
+v:"Оружие дальнего боя"
+
+k:"Ranged Weapon Usage"
+v:"Использование дальнего оружия"
+
+k:"Ranged Weapons"
+v:"Оружия дальнего боя"
+
+k:"Ranges are in miles"
+v:"Дальность указана в милях"
+
+k:"Rate of Fire"
+v:"Скорострельность"
+
+k:"Rated ST"
+v:"Номинальная сила"
+
+k:"Rated ST "
+v:"Номинальная сила "
+
+k:"Reach"
+v:"Досягаемость"
+
+k:"Reach Change Requires Ready"
+v:"Изменение досягаемости треубет манёвра Подготовки"
+
+k:"Reaction"
+v:"Реакция"
+
+k:"Reaction Modifier"
+v:"Модификатор реакции"
+
+k:"Reaction Modifiers"
+v:"Модификаторы реакции"
+
+k:"Readable Files (%s)"
+v:"Читаемые файлы (%s)"
+
+k:"Reason"
+v:"Причина"
+
+k:"Recent Files"
+v:"Последние файлы"
+
+k:"Recoil"
+v:"Отдача"
+
+k:"recoil"
+v:"отдача"
+
+k:"Reconciliation"
+v:"Согласование"
+
+k:"Recursive loading of arguments from a file is not permitted: %s"
+v:"Рекурсивная загрузка аргументов из файла не разрешена: %s"
+
+k:"Red"
+v:"Красный"
+
+k:"Red:"
+v:"Красный:"
+
+k:"Redo %s"
+v:"Повторить %s"
+
+k:"Reduces the attribute cost of"
+v:"Уменьшает стоимость атрибута"
+
+k:"Reduces the contained weight by"
+v:"Уменьшает вес содержимого на"
+
+k:"reduces the ST requirement to %v and "
+v:"уменьшает требование к СЛ до %v и "
+
+k:"Reduction for Talent level 1"
+v:"Уменьшение для таланта с уровнем в 1"
+
+k:"Reduction for Talent level 2"
+v:"Уменьшение для таланта с уровнем в 2"
+
+k:"Reduction for Talent level 3"
+v:"Уменьшение для таланта с уровнем в 3"
+
+k:"Reduction for Talent level 4"
+v:"Уменьшение для таланта с уровнем в 4"
+
+k:"Regular"
+v:"Обычный"
+
+k:"Relative Skill Level"
+v:"Относительный уровень навыка"
+
+k:"Release Notes"
+v:"Примечания к выпуску"
+
+k:"Religion"
+v:"Религия"
+
+k:"Reload Time"
+v:"Время перезарядки"
+
+k:"reload time"
+v:"время перезарядки"
+
+k:"Reload Time Is Per Shot"
+v:"Время перезарядки за выстрел"
+
+k:"Remove attribute"
+v:"Удалить атрибут"
+
+k:"Remove Entry"
+v:"Удалить запись"
+
+k:"Remove Hit Location"
+v:"Удалить зону попадания"
+
+k:"Remove hit location"
+v:"Удалить зону попадания"
+
+k:"Remove pool threshold"
+v:"Удалить порог пула"
+
+k:"Remove Sub-Table"
+v:"Удалить подтаблицу"
+
+k:"Remove sub-table"
+v:"Удалить подтаблицу"
+
+k:"Rename"
+v:"Переименовать"
+
+k:"Rendering page %d…"
+v:"Отображение страницы %d…"
+
+k:"Repeat"
+v:"Повторить"
+
+k:"Repository"
+v:"Репозиторий"
+
+k:"Required"
+v:"Требуется"
+
+k:"Requires a skill named "
+v:"Требует навык, с названием "
+
+k:"Requires all of:"
+v:"Требует все из:"
+
+k:"requires all of:"
+v:"требует все из:"
+
+k:"Requires at least 1 point in the skill named "
+v:"Требует хотя бы 1 очко в навыке с названием "
+
+k:"Requires at least one of:"
+v:"Требует хотя бы одно из:"
+
+k:"requires at least one of:"
+v:"требует хотя бы одно из:"
+
+k:"Reset"
+v:"Сброс"
+
+k:"Reset Attributes"
+v:"Сбросить атрибуты"
+
+k:"Reset Body Type"
+v:"Сбросить тип телосложения"
+
+k:"Resist"
+v:"Сопротивляться"
+
+k:"Resistance"
+v:"Сопротивление"
+
+k:"Restore"
+v:"Восстановить"
+
+k:"Retracting Stock"
+v:"Складной приклад"
+
+k:"Return"
+v:"Return"
+
+k:"Reverse Landscape"
+v:"Реверсивный ландшафт"
+
+k:"Reverse Portrait"
+v:"Реверсивный портрет"
+
+k:"Reverse-Difference"
+v:"Реверсивная разница"
+
+k:"Right"
+v:"Правый"
+
+k:"Right Margin"
+v:"Правый отступ"
+
+k:"Right-Command"
+v:"Правый-Command"
+
+k:"Right-Control"
+v:"Правый-Control"
+
+k:"Right-Option"
+v:"Правый-Option"
+
+k:"Right-Shift"
+v:"Праый-Shift"
+
+k:"Ritual: need both hands and feet free and must speak; Time: 2x"
+v:"Ритуал: нужны свободные руки и ноги, и нужно говорить; Время: 2x"
+
+k:"Ritual: none"
+v:"Ритуал: нет"
+
+k:"Ritual: speak a word or two OR make a small gesture"
+v:"Ритуал: произнести слово или два ИЛИ сделать маленький жест"
+
+k:"Ritual: speak quietly and make a gesture"
+v:"Ритуал: говорить тихо и сделать жест"
+
+k:"Road, Cobblestone"
+v:"Дорога, мостовая"
+
+k:"Road, Dirt"
+v:"Дорога, грязь"
+
+k:"Road, Gravel"
+v:"Дорога, гравий"
+
+k:"Road, Paved"
+v:"Дорога, асфальт"
+
+k:"Roads are cleared"
+v:"Дороги освобождены"
+
+k:"RoF"
+v:"Сс"
+
+k:"Roll"
+v:"Бросок"
+
+k:"Rollover Link"
+v:"Переносная ссылка"
+
+k:"Rotate"
+v:"Поворот"
+
+k:"Round"
+v:"Раунд"
+
+k:"Round Down"
+v:"Округлить вниз"
+
+k:"RSL"
+v:"RSL"
+
+k:"Running Shove & Knock Over"
+v:"Толчок и опрокидывание с разбега"
+
+k:"Sand"
+v:"Песок"
+
+k:"Sand, Hard-packed"
+v:"Песок, уплотненный"
+
+k:"Saturation"
+v:"Насыщенность"
+
+k:"Saturation:"
+v:"Насыщенность:"
+
+k:"Save"
+v:"Сохранить"
+
+k:"Save As…"
+v:"Сохранить как…"
+
+k:"Save changes made to"
+k:"%s?"
+v:"Сохранить внесенные изменения в"
+v:"%s?"
+
+k:"Save…"
+v:"Сохранить…"
+
+k:"Scale"
+v:"Масштаб"
+
+k:"Scale Down"
+v:"Уменьшить масштаб"
+
+k:"Scale Up"
+v:"Увеличить масштаб"
+
+k:"Scaling"
+v:"Масштабирование"
+
+k:"Scope"
+v:"Обзор"
+
+k:"Scope Accuracy"
+v:"Точность обзора"
+
+k:"scope accuracy"
+v:"точность обзора"
+
+k:"Screen"
+v:"Экран"
+
+k:"Scroll"
+v:"Прокрутка"
+
+k:"Scroll Edge"
+v:"Край прокрутки"
+
+k:"Scroll Rollover"
+v:"Прокрутка при наведении"
+
+k:"Scroll Wheel Multiplier"
+v:"Множитель колеса прокрутки"
+
+k:"ScrollLock"
+v:"ScrollLock"
+
+k:"Search"
+v:"Поиск"
+
+k:"Search List"
+v:"Список поиска"
+
+k:"Searching for printers…"
+v:"Поиск принтеров…"
+
+k:"Secondary Attributes"
+v:"Вторичные атрибуты"
+
+k:"Secondary Fields"
+v:"Вторичные поля"
+
+k:"Secondary Projectiles"
+v:"Вторичные снаряды"
+
+k:"secondary projectiles"
+v:"вторичные снаряды"
+
+k:"Secondary Separator"
+v:"Разделитель вторичных атрибутов"
+
+k:"seconds"
+v:"секунд"
+
+k:"Select All"
+v:"Выбрать все"
+
+k:"Select Image…"
+v:"Выбрать изображение…"
+
+k:"Select Modifiers for"
+v:"Выбрать модификаторы для"
+
+k:"Selection"
+v:"Выбор"
+
+k:"Self-Control Roll"
+v:"Бросок самоконтроля"
+
+k:"Self-Control Roll Adjustment"
+v:"Подгонка броска самоконтроля"
+
+k:"Self-Taught"
+v:"Самоучка"
+
+k:"Semi-Bold"
+v:"Полужирный"
+
+k:"Semi-Condensed"
+v:"Полусжатие"
+
+k:"Semi-Expanded"
+v:"Полурасширение"
+
+k:"Separate multiple %s with commas"
+v:"Разделяйте несколько %s запятыми"
+
+k:"Services"
+v:"Сервисы"
+
+k:"Set"
+v:"Установить"
+
+k:"Set Portrait"
+v:"Установить портрет"
+
+k:"Set the weapon flag"
+v:"Установить флаг оружия"
+
+k:"Sets the width of each column to fit its contents"
+v:"Устанавливает ширину каждого столбца, чтобы он подходил под его содержимое"
+
+k:"Settings"
+v:"Настройки"
+
+k:"Settings Path"
+v:"Путь настроек"
+
+k:"Sheet Settings"
+v:"Настройки листа"
+
+k:"Sheet Settings…"
+v:"Настройки листа…"
+
+k:"Shift Slightly"
+v:"Медленно двигать"
+
+k:"Shift-Click or %v-Click to select more than one"
+v:"Удерживайте Shift и нажимайте или кликайте с удерживанием %v, чтобы выбрать более одного"
+
+k:"Short Name"
+v:"Краткое имя"
+
+k:"shot"
+v:"выстрел"
+
+k:"Shot Duration"
+v:"Длительность выстрела"
+
+k:"shot duration"
+v:"длительность выстрела"
+
+k:"Shot Recoil"
+v:"Отдача выстрела"
+
+k:"Shots"
+v:"Выстрелы"
+
+k:"shots"
+v:"выстрелы"
+
+k:"Shots Per Attack"
+v:"Выстрелы за атаку"
+
+k:"shots per attack"
+v:"выстрелов за атаку"
+
+k:"Shove & Knock Over"
+v:"Толчок и опрокидывание"
+
+k:"Show All"
+v:"Показать все"
+
+k:"Show equipment modifier cost & weight adjustments"
+v:"Показать модификаторы стоимости снаряжения и подгонку веса"
+
+k:"Show on Disk"
+v:"Показать на диске"
+
+k:"Show spell ritual, cost & time adjustments"
+v:"Показать ритуал заклинания, стоимость и подгонку по времени"
+
+k:"Show the title instead of the name in the footer"
+v:"Показать заголовок вместо имени в футере"
+
+k:"Show trait modifier cost adjustments"
+v:"Показать подгонку стоимости модификатора черты"
+
+k:"Sides"
+v:"Стороны"
+
+k:"Simple"
+v:"Простой"
+
+k:"Size"
+v:"Размер"
+
+k:"Size Modifier"
+v:"Модификатор размера"
+
+k:"Skill"
+v:"Навык"
+
+k:"Skill / Technique"
+v:"Навыки / Техники"
+
+k:"Skill Level"
+v:"Уровень навыка"
+
+k:"Skill Level Adjustments"
+v:"Подгонки уровня навыка"
+
+k:"Skill Name"
+v:"Название навыка"
+
+k:"Skill Specialization"
+v:"Специализация навыка"
+
+k:"Skills"
+v:"Навыки"
+
+k:"Skin"
+v:"Кожа"
+
+k:"SL"
+v:"SL"
+
+k:"Sleet"
+v:"Слякоть"
+
+k:"Slots"
+v:"Слоты"
+
+k:"Slug Recoil"
+v:"Отдача дробовиковыой пули"
+
+k:"SM Reduction"
+v:"Скидка от МР"
+
+k:"Small"
+v:"Маленький"
+
+k:"Snow"
+v:"Снег"
+
+k:"Snow, Heavy"
+v:"Снег, сильный"
+
+k:"Social"
+v:"Социальный"
+
+k:"Soft-Light"
+v:"Мягкий свет"
+
+k:"Solid"
+v:"Твердый"
+
+k:"Space"
+v:"Пространство"
+
+k:"Specialization"
+v:"Специализация"
+
+k:"Specialization Qualifier"
+v:"Квалификация специализации"
+
+k:"Spell"
+v:"Заклинания"
+
+k:"Spell Qualifier"
+v:"Квалификация заклинания"
+
+k:"spell(s)"
+v:"заклинание(я)"
+
+k:"Spells"
+v:"Заклинания"
+
+k:"Sponsor %s Development"
+v:"Спонсировать разработку %s"
+
+k:"Square"
+v:"Квадрат"
+
+k:"Src"
+v:"Src"
+
+k:"Src-Atop"
+v:"Src-Atop"
+
+k:"Src-In"
+v:"Src-In"
+
+k:"Src-Out"
+v:"Src-Out"
+
+k:"Src-Over"
+v:"Src-Over"
+
+k:"ST"
+v:"СЛ"
+
+k:"Standard"
+v:"Стандартный"
+
+k:"Start"
+v:"Старт"
+
+k:"Starts the web server and does not bring up the user interface. If the server has not been configured, just exits"
+v:"Запускает веб-сервер и не открывает пользовательский интерфейс. Если сервер не сконфигурирован, просто завершается"
+
+k:"starts with"
+v:"что начинается с"
+
+k:"State"
+v:"Состояние"
+
+k:"Stroke"
+v:"Ход"
+
+k:"Stroke-And-Fill"
+v:"Обводка и заливка"
+
+k:"Studied %v of %s hours"
+v:"Изучено %v из %s часов"
+
+k:"Study"
+v:"Изучение"
+
+k:"Sub-Editors"
+v:"Подредакторы"
+
+k:"Sub-Roll"
+v:"Подбросок"
+
+k:"Supernatural"
+v:"Сверхъестественный"
+
+k:"sw (leveled)"
+v:"амп (уровень)"
+
+k:"Swamp"
+v:"Болото"
+
+k:"Swap Defaults"
+v:"Заменить значения по умолчанию"
+
+k:"Swing = Thrust+2"
+v:"Амплитудный = Прямой + 2"
+
+k:"System"
+v:"Система"
+
+k:"System (Emphasized)"
+v:"Система (Выделенная)"
+
+k:"System (Small)"
+v:"Система (Маленькая)"
+
+k:"System (Small, Emphasized)"
+v:"Система (Маленькая, Выделенная)"
+
+k:"T Bone's New Damage for ST (option 1)"
+v:"Новый урон от T Bone для СЛ (вариант 1)"
+
+k:"T Bone's New Damage for ST (option 1, cleaned)"
+v:"Новый урон от T Bone для СЛ (вариант 1, очищенный)"
+
+k:"T Bone's New Damage for ST (option 2)"
+v:"Новый урон от T Bone для СЛ (вариант 2)"
+
+k:"T Bone's New Damage for ST (option 2, cleaned)"
+v:"Новый урон от T Bone для СЛ (вариант 2, очищенный)"
+
+k:"Tab"
+v:"Вкладка"
+
+k:"Table Name"
+v:"Имя таблицы"
+
+k:"Tabloid"
+v:"Таблоид"
+
+k:"Tag Filter"
+v:"Фильтр по тегу"
+
+k:"Tag Qualifier"
+v:"Квалификатор тега"
+
+k:"Tags"
+v:"Теги"
+
+k:"tags"
+v:"теги"
+
+k:"Tech Level"
+v:"Технологический уровень"
+
+k:"Technique"
+v:"Техника"
+
+k:"Technique Default Adjustment"
+v:"Подгонка умолчания техники"
+
+k:"Technique Default Skill Name"
+v:"Название навыка по умолчанию для техники"
+
+k:"Technique Default Skill Specialization"
+v:"Специализация навыка по умолчанию для техники"
+
+k:"Template Choice Quantifier"
+v:"Количественный указатель выбора шаблона"
+
+k:"Template Choices"
+v:"Выборы шаблона"
+
+k:"Terrain:"
+v:"Ландшафт:"
+
+k:"Text"
+v:"Текст"
+
+k:"The amount of DR this hit location grants due to natural toughness"
+v:"Количество СП, предоставляемое этой зоной попадания из-за естественной прочности"
+
+k:"the attribute"
+v:"атрибут"
+
+k:"The base value, which may be a number or a formula"
+v:"Базовое значение, которое может быть числом или формулой"
+
+k:"The color to use when dark mode is enabled"
+v:"Цвет для использования при включенном темном режиме"
+
+k:"The color to use when light mode is enabled"
+v:"Цвет для использования при включенном светлом режиме"
+
+k:"The cost per point difference from the base"
+v:"Стоимость за разницу в одном пункте от базовой"
+
+k:"The data was written with a newer version of %[1]s and cannot be loaded. Please update %[1]s and try again."
+v:"Данные были записаны более новой версией %[1]s и не могут быть загружены. Пожалуйста, обновите %[1]s и попробуйте снова."
+
+k:"The data was written with an older version of %s and cannot be loaded. You will need to load it with an earlier version that can read this version of the data and write the current format."
+v:"Данные были записаны более старой версией %s и не могут быть загружены. Вам нужно будет загрузить их более ранней версией, которая может прочитать эту версию данных и записать их в текущий формат."
+
+k:"The dice to roll on the sub-table"
+v:"Кубики для броска по подтаблице"
+
+k:"The dice to roll on the table"
+v:"Кубики для броска по таблице"
+
+k:"The dodge for the %s encumbrance level"
+v:"Уклонение для уровня нагрузки %s"
+
+k:"The DR covering the %s hit location%s"
+v:"СП, покрывающее зону попадания %s%s"
+
+k:"The file to load settings from and store them into"
+v:"Файл для загрузки настроек и их сохранения"
+
+k:"The full name of this attribute (may be omitted, in which case the Short Name will be used instead)"
+v:"Полное имя этого атрибута (может быть опущено, в этом случае будет использовано краткое ммя вместо этого)"
+
+k:"The GitHub Access Token is only needed for private repositories and only needs the read-only \"Content\" permission for access to this repo"
+v:"Токен доступа к GitHub нужен только для частных репозиториев и требует только разрешения на чтение \"Content\" для доступа"
+
+k:"The ground movement rate for the %s encumbrance level"
+v:"Скорость передвижения по земле для уровня нагрузки %s"
+
+k:"The internal PDF viewer will be used if the External PDF Viewer field is empty."
+k:"Use $FILE where the full path to the PDF should be placed."
+k:"Use $PAGE where the page number should be placed."
+k:""
+k:"In most cases, you'll want to surround the $FILE variable with quotes."
+v:"Внутренний просмотрщик PDF будет использоваться, если поле внешнего просмотрщика PDF пусто."
+v:"Используйте $FILE, где должен быть размещен полный путь к PDF."
+v:"Используйте $PAGE, где должен быть размещен номер страницы."
+v:""
+v:"В большинстве случаев вы захотите заключить переменную $FILE в кавычки."
+
+k:"The library cannot be updated while"
+v:"Библиотеку нельзя обновлять, пока"
+k:"documents from the library are open."
+v:"документы из библиотеки открыты."
+
+k:"The locale to use when presenting text in the user interface. This does not affect the content of data files. Leave this value blank to use the system default. Note that changes to this generally require quitting and restarting GCS to have the desired effect."
+v:"Локаль, используемая при представлении текста в пользовательском интерфейсе. Это не влияет на содержимое файлов данных. Оставьте это значение пустым, чтобы использовать системное значение по умолчанию. Обратите внимание, что изменения в этом обычно требуют выхода и перезапуска GCS для достижения желаемого эффекта."
+
+k:"The mana cost to cast the spell"
+v:"Стоимость маны для сотворения заклинания"
+
+k:"The mana cost to maintain the spell"
+v:"Стоимость маны для поддержания заклинания"
+
+k:"The maximum load that can be carried and still remain within the %s encumbrance level"
+v:"Максимальная нагрузка, которую можно нести и все еще оставаться в пределах уровня нагрузки %s"
+
+k:"The name of this attribute, often an abbreviation"
+v:"Название этого атрибута, часто сокращение"
+
+k:"The name of this body type"
+v:"Название этого типа тела"
+
+k:"The name of this hit location as it should appear in choice lists"
+v:"Название этой зоны попадания, как оно должно появляться в списках выбора"
+
+k:"The name of this hit location as it should appear in the hit location table"
+v:"Название этой зоны попадания, как оно должно появляться в таблице зон попадания
+
+k:"The number of consecutive numbers this hit location fills in the table"
+v:"Количество последовательных чисел, которые заполняет эта зоны попадания в таблице"
+
+k:"The number of uses remaining"
+v:"Количество оставшихся использований"
+
+k:"The object is too heavy for you to throw"
+v:"Объект слишком тяжелый для того, чтобы бросить его"
+
+k:"The output file may not be an empty path."
+v:"Выходной файл не может быть пустым путем."
+
+k:"The reduction in cost for each SM greater than 0"
+v:"Снижение стоимости за каждый модификатор размера больше 0"
+
+k:"The skill adjustment for this hit location"
+v:"Подгонка навыка для этой зоны попадания"
+
+k:"The teacher must have the skill/spell/trait being taught at a higher level than you and have more points spent in it than you do"
+v:"Навык/заклинание/черта, которую предподаёт учитель должна быть взята у него на более высоком уровне, чем у вас, и затрачено больше очков, чем у вас"
+
+k:"The teacher must have the skill/spell/trait being taught at the same or higher level than you, or have as many or more points spent in it as you do"
+v:"Навык/заклинание/черта, которую предподаёт учитель должна быть взята у него на том же или более высоком уровне, чем у вас, или затрачено столько же или больше очков, чем у вас"
+
+k:"The teacher must have the Teaching skill at 12+"
+v:"У учителя должен быть навык Преподавание на уровне 12+"
+
+k:"The template contains an Ancestry (%s)."
+k:"Disable your character's existing Ancestry (%s)?"
+v:"Шаблон содержит расу (%s)."
+v:"Отключить уже взятую расу вашего персонажа (%s)?"
+
+k:"The time required to cast the spell"
+v:"Время, необходимое для сотворения заклинания"
+
+k:"The value of all of these pieces of equipment, plus the value of any contained equipment"
+v:"Стоимость контейнера экипировки, плюс стоимость всей содержащейся экипировки внутри контейнера (если предмет не конейнер, то просто дублируется его значение стоимости)"
+
+k:"The value of one of these pieces of equipment"
+v:"Стоимость этого предмета экипировки или самого контейнера"
+
+k:"The weapon has a minimum ST of %v. If your ST is less than this, you will suffer a -1 to weapon skill per point of ST you lack and lose one extra FP at the end of any fight that lasts long enough to cost FP."
+v:"У оружия минимальная СЛ %v. Если ваша СЛ меньше этого значения, вы получите -1 к навыку владения оружием за каждую единицу недостающей СЛ и потеряете одну дополнительную ЕУ в конце любого боя, который длится достаточно долго, чтобы стоить ЕУ."
+
+k:"The weapon has a rated ST of %v, which is used instead of the user's ST for calculations."
+v:"У оружия номинальная СЛ %v, которая используется вместо СЛ пользователя для расчетов."
+
+k:"The weight of all of these pieces of equipment, plus the weight of any contained equipment"
+v:"Вес контейнера экипировки, плюс вес всей содержащейся экипировки внутри контейнера (если предмет не конейнер, то просто дублируется его значение веса)"
+
+k:"The weight of an object that can be shoved and knocked over"
+v:"Вес объекта, который можно толкнуть и опрокинуть"
+
+k:"The weight of an object that can be shoved and knocked over with a running start"
+v:"Вес объекта, который можно толкнуть и опрокинуть сразбегу"
+
+k:"The weight of one of these pieces of equipment"
+v:"Вес этого предмета экипировки или самого контейнера"
+
+k:"The weight that can be carried slung across the back"
+v:"Вес, который можно носить через спину"
+
+k:"The weight that can be lifted overhead with both hands in four seconds"
+v:"Вес, который можно поднять над головой обеими руками за четыре секунды"
+
+k:"The weight that can be lifted overhead with one hand in one second"
+v:"Вес, который можно поднять над головой одной рукой за одну секунду"
+
+k:"The weight that can be lifted overhead with one hand in two seconds"
+v:"Вес, который можно поднять над головой одной рукой за две секунды"
+
+k:"The weight that can be shifted slightly on a floor"
+v:"Вес, который можно слегка сдвинуть на полу"
+
+k:"There is no valid mapping for page reference key \"%s\"."
+k:"Would you like to create one by choosing a PDF to map to this key?"
+v:"Для ссылки на страницу \"%s\" нет существующей привязанной книги."
+v:"Хотели бы вы создать её, выбрав PDF для отображения этих ссылок на страницы?"
+
+k:"these entries"
+v:"эти записи"
+
+k:"these libraries"
+v:"эти библиотеки"
+
+k:"Thin"
+v:"Тонкий"
+
+k:"This file does not contain the expected data."
+v:"Этот файл не содержит ожидаемых данных."
+
+k:"This product includes copyrighted material from the "
+v:"Этот продукт включает защищенные авторским правом материалы из "
+
+k:"This weapon fires %v %s per attack and each shot releases %v smaller %s."
+v:"Это оружие стреляет %v %s за атаку, и каждый выстрел высвобождает %v меньших %s."
+
+k:"thr (leveled)"
+v:"прм (уровневый)"
+
+k:"Threshold"
+v:"Порог"
+
+k:"Throwing"
+v:"Метание"
+
+k:"Throwing Extra Effort Penalty"
+v:"Штраф за дополнительные усилия при метании"
+
+k:"Thrown"
+v:"Метательное"
+
+k:"Thrown Weapon"
+v:"Метательное оружие"
+
+k:"Thrust = Swing-2"
+v:"Прямой = Амплитудный - 2"
+
+k:"Time"
+v:"Время"
+
+k:"times the current encumbrance level"
+v:"раз уровень текущей нагрузки"
+
+k:"Title"
+v:"Титул"
+
+k:"TL"
+v:"ТУ"
+
+k:"TL0: Stone Age (Prehistory)"
+k:"TL1: Bronze Age (3500 B.C.+)"
+k:"TL2: Iron Age (1200 B.C.+)"
+k:"TL3: Medieval (600 A.D.+)"
+k:"TL4: Age of Sail (1450+)"
+k:"TL5: Industrial Revolution (1730+)"
+k:"TL6: Mechanized Age (1880+)"
+k:"TL7: Nuclear Age (1940+)"
+k:"TL8: Digital Age (1980+)"
+k:"TL9: Microtech Age (2025+?)"
+k:"TL10: Robotic Age (2070+?)"
+k:"TL11: Age of Exotic Matter"
+k:"TL12: Anything Goes"
+v:"TL0: Каменный век (Доисторический период)"
+v:"TL1: Бронзовый век (3500 B.C.+)"
+v:"TL2: Железный век (1200 B.C.+)"
+v:"TL3: Темные века (600 A.D.+)"
+v:"TL4: Эпоха парусов (1450+)"
+v:"TL5: Индустриальная революция (1730+)"
+v:"TL6: Эпоха механики (1880+)"
+v:"TL7: Атомная эпоха (1940+)"
+v:"TL8: Цифровая эпоха (1980+)"
+v:"TL9: Эпоха микротехники (2025+)"
+v:"TL10: Эпоха роботизации (2070+)"
+v:"TL11: Эпоха экзотических материалов"
+v:"TL12: Все что пожелает мастер"
+
+k:"to"
+v:"к"
+
+k:"to all colleges"
+v:"ко всем колледжам"
+
+k:"to all locations"
+v:"ко всем зонам попадания"
+
+k:"to base cost"
+v:"к базовой стоимости"
+
+k:"to base cost only"
+v:"только к базовой стоимости"
+
+k:"to base weight"
+v:"к базовому весу"
+
+k:"to cost"
+v:"к стоимости"
+
+k:"to false"
+v:"к лжи"
+
+k:"to final base cost"
+v:"к окончательной базовой стоимости"
+
+k:"to final base weight"
+v:"к окончательному базовому весу"
+
+k:"to final cost"
+v:"к окончательной стоимости"
+
+k:"to final weight"
+v:"к окончательному весу"
+
+k:"to leveled cost only"
+v:"только к уровневой стоимости"
+
+k:"to original cost"
+v:"к первоначальной стоимости"
+
+k:"to original weight"
+v:"к первоначальному весу"
+
+k:"to skills whose name"
+v:"к навыкам, с названиями"
+
+k:"to the"
+v:"к"
+
+k:"to the college whose name"
+v:"к колледжу с названием"
+
+k:"to the power source whose name"
+v:"к источнику энергии с названием"
+
+k:"to the spell whose name"
+v:"к заклинанию с названием"
+
+k:"to this armor"
+v:"к этой броне"
+
+k:"to this weapon"
+v:"к этому оружию"
+
+k:"to true"
+v:"к истине"
+
+k:"to weapons whose name"
+v:"к оружию с названием"
+
+k:"to weapons whose required skill name"
+v:"к оружию с названием"
+
+k:"Toggle"
+v:"Включить"
+
+k:"Toggle Edit Mode"
+v:"Включить режим редактирования"
+
+k:"Toggle Enablement"
+v:"Включить включение (Enablement)"
+
+k:"Toggle Equipment Modifier"
+v:"Включить модификатор экиперовки"
+
+k:"Toggle Equipped"
+v:"Экиперовать"
+
+k:"Toggle State"
+v:"Переключить состояние"
+
+k:"Toggle the Sidebar"
+v:"Включить боковую панель"
+
+k:"Toggle Trait Modifier"
+v:"Включить модификатор черты"
+
+k:"Tooltip"
+v:"Тултип (всплывающая подсказка)"
+
+k:"Tooltip Delay"
+v:"Задержка тултипа"
+
+k:"Tooltip Dismissal"
+v:"Закрытие тултипа"
+
+k:"Tooltip Marker"
+v:"Маркер тултипа"
+
+k:"Top"
+v:"Верх"
+
+k:"Top Margin"
+v:"Верхний отступ"
+
+k:"Total"
+v:"Итого"
+
+k:"Total points spent on advantages"
+v:"Общее количество потраченных очков на преимущества"
+
+k:"Total points spent on an ancestry package"
+v:"Общее количество потраченных очков на расу"
+
+k:"Total points spent on attributes"
+v:"Общее количество потраченных очков на атрибуты"
+
+k:"Total points spent on disadvantages"
+v:"Общее количество потраченных очков на недостатки"
+
+k:"Total points spent on quirks"
+v:"Общее количество потраченных очков на причуды"
+
+k:"Total points spent on skills"
+v:"Общее количество потраченных очков на навыки"
+
+k:"Total points spent on spells"
+v:"Общее количество потраченных очков на заклинания"
+
+k:"Trait"
+v:"Черты"
+
+k:"Trait Modifier"
+v:"Модификатор черты"
+
+k:"Trait Modifiers"
+v:"Модификаторы черт"
+
+k:"Traits"
+v:"Черты"
+
+k:"Translate"
+v:"Перевести"
+
+k:"Translations dir: \"%s\""
+v:"Каталог переводов: \"%s\""
+
+k:"Translations Path"
+v:"Путь к переводам"
+
+k:"Tray"
+v:"Лоток"
+
+k:"treats the attack as braced (add +1 to Accuracy)."
+v:"считает атаку как подпертую (добавить +1 к Точности)."
+
+k:"Triggering Condition"
+v:"Условие срабатывания"
+
+k:"triggering condition"
+v:"условие срабатывания"
+
+k:"Two-handed"
+v:"Двуручное"
+
+k:"Two-handed & unready"
+v:"Двуручное неготоваое"
+
+k:"Two-handed and Unready After Attack"
+v:"Двуручное и неготовое после атаки"
+
+k:"Two-Handed Lift"
+v:"Подъем двумя руками"
+
+k:"Two-Sided, Long Edge"
+v:"Двусторонний, длинный край"
+
+k:"Two-Sided, Short Edge"
+v:"Двусторонний, короткий край"
+
+k:"Type"
+v:"Тип"
+
+k:"U: Unbalanced weapon. You cannot use it to parry if you have already used it to attack this turn (or vice-versa) unless your current ST is %v or greater."
+v:"Н: Несбалансированое оружие. Им нельзя парировать, если им уже атаковали в этом ходу (и наоборот), разве что если ваш показатель СЛ %v или больше (примечание переводчика — такого правила в гурпсе нет вроде, лол, оружие всегда небалансное)."
+
+k:"Ultra-Condensed"
+v:"Ультра-сжатый"
+
+k:"Ultra-Expanded"
+v:"Ультра-расширенный"
+
+k:"Unable to access the %s update site"
+v:"Не вышло получить доступ к сайту обновлений %s"
+
+k:"Unable to check out '%s'"
+v:"Не вышло проверить '%s'"
+
+k:"Unable to clone repository"
+v:"НевозНе вышломожно клонировать репозиторий"
+
+k:"Unable to create file dialog."
+v:"Не вышло создать диалоговое окно для файла."
+
+k:"Unable to create new folder dialog"
+v:"Не вышло создать диалоговое окно для создания новой папки"
+
+k:"Unable to create new markdown file"
+v:"Не вышло создать новый файл markdown"
+
+k:"Unable to create PDF!"
+v:"Не вышло создать PDF!"
+
+k:"Unable to create print dialog."
+v:"Не вышло создать диалоговое окно для печати."
+
+k:"Unable to create rename dialog"
+v:"Не вышло создать диалоговое окно для переименования"
+
+k:"Unable to create:"
+k:"%s"
+v:"Не вышло создать:"
+v:"%s"
+
+k:"Unable to export as JPEG!"
+v:"Не вышло экспортировать как JPEG!"
+
+k:"Unable to export as PDF!"
+v:"Не вышло экспортировать как PDF!"
+
+k:"Unable to export as PNG!"
+v:"Не вышло экспортировать как PNG!"
+
+k:"Unable to export as WEBP!"
+v:"Не вышло экспортировать как WEBP!"
+
+k:"Unable to fetch"
+v:"Не вышло извлечь"
+
+k:"Unable to initialize repository"
+v:"Не вышло инициализировать репозиторий"
+
+k:"Unable to load "
+v:"Не вышло загрузить "
+
+k:"Unable to load image"
+v:"Не вышло загрузить изображение"
+
+k:"Unable to load template"
+v:"Не вышло загрузить шаблон"
+
+k:"Unable to open "
+v:"Не вышло открыть "
+
+k:"Unable to open %s"
+v:"Не вышло открыть %s"
+
+k:"Unable to open file"
+v:"Не вышло открыть файл"
+
+k:"Unable to open link"
+v:"Не вышло открыть ссылку"
+
+k:"Unable to open markdown"
+v:"Не вышло открыть markdown"
+
+k:"Unable to open web page for download"
+v:"Не вышло открыть веб-страницу для загрузки"
+
+k:"Unable to open: %s"
+v:"Не вышло открыть: %s"
+
+k:"Unable to pull"
+v:"Не вышло запуллить репо"
+
+k:"Unable to remove directory:"
+k:"%s"
+v:"Не вышло удалить каталог:"
+v:"%s"
+
+k:"Unable to remove file:"
+k:"%s"
+v:"Не вышло удалить файл:"
+v:"%s"
+
+k:"Unable to rename:"
+k:"%s"
+v:"Не вышло переименовать:"
+v:"%s"
+
+k:"Unable to resolve absolute path"
+v:"Не вышло получить абсолютный путь"
+
+k:"Unable to resolve path"
+v:"Не вышло получить путь"
+
+k:"Unable to retrieve branches"
+v:"Не вышло получить ветви"
+
+k:"Unable to retrieve checked out revision"
+v:"Не вышло получить проверенную ревизию"
+
+k:"Unable to retrieve local repository information"
+v:"Не вышло получить информацию о локальном репозитории"
+
+k:"Unable to retrieve revision date"
+v:"Не вышло получить дату ревизии"
+
+k:"Unable to retrieve tags"
+v:"Не вышло получить теги"
+
+k:"Unable to save "
+v:"Не вышло сохранить "
+
+k:"Unable to save %s"
+v:"Не вышло сохранить %s"
+
+k:"Unable to save as "
+v:"Не вышло сохранить как "
+
+k:"Unable to save global settings"
+v:"Не вышло сохранить глобальные настройки"
+
+k:"Unable to set option %s to %s"
+k:"%v"
+v:"Не вышло установить параметр %s до %s"
+v:"%v"
+
+k:"Unable to show location on disk"
+v:"Не вышло показать расположение на диске"
+
+k:"Unable to update"
+v:"Не вышло обновить"
+
+k:"Unable to update library location"
+v:"Не вышло обновить местоположение библиотеки"
+
+k:"Unable to use external PDF command line"
+v:"Не вышло использовать внешнюю командную строку PDF"
+
+k:"Unbalanced"
+v:"Несбалансированое"
+
+k:"Undo %s"
+v:"Вернуть обратно %s"
+
+k:"Undock From Workspace"
+v:"Открепить от рабочей области"
+
+k:"Union"
+v:"Объединение"
+
+k:"Units of Measurement"
+v:"Единицы измерения"
+
+k:"Unknown"
+v:"Неизвестно"
+
+k:"Unknown feature type: %s"
+v:"Неизвестный тип особенности: %s"
+
+k:"Unknown prerequisite type: %s"
+v:"Неизвестный тип пререквизита: %s"
+
+k:"Unmodified"
+v:"Немодифицированный"
+
+k:"unrecognized key (%s)"
+v:"нераспознанный ключ (%s)"
+
+k:"unrecognized key (%s) for body type (%s)"
+v:"нераспознанный ключ (%s) для типа тела (%s)"
+
+k:"Unsatisfied prerequisite(s)"
+v:"Неудовлетворенные пререквизиты"
+
+k:"Unspent"
+v:"Оставшиеся"
+
+k:"untitled"
+v:"без названия"
+
+k:"untitled choice"
+v:"выбор без названия"
+
+k:"untitled location"
+v:"область попадания без названия"
+
+k:"Unweighted American Female"
+v:"Невзвешенная американская женщина"
+
+k:"Unweighted American Last"
+v:"Невзвешенное американское последнее"
+
+k:"Unweighted American Male"
+v:"Невзвешенный американский мужчина"
+
+k:"Up"
+v:"Вверх"
+
+k:"Update"
+v:"Обновить"
+
+k:"Update %s to v%s?"
+v:"Обновить %s до v%s?"
+
+k:"Update canceled"
+v:"Обновление отменено"
+
+k:"Updating %s to v%s…"
+v:"Обновление %s до v%s…"
+
+k:"Updating…"
+v:"Обновление…"
+
+k:"Upright"
+v:"Вертикально"
+
+k:"Usage"
+v:"Использование"
+
+k:"Usage Qualifier"
+v:"Квалификатор использования"
+
+k:"Usage: "
+v:"Использование: "
+
+k:"Use '%s help <command>' to see command options"
+v:"Используйте '%s help <команда>' для просмотра параметров команды"
+
+k:"Use Half-Stat Defaults"
+v:"Использовать половинные значения по умолчанию"
+
+k:"Use Modifying Dice + Adds"
+v:"Использовать модификацию кубиков + добавления"
+
+k:"Use Multiplicative Modifiers"
+v:"Использовать множительные модификаторы"
+
+k:"Use Separate Windows For…"
+v:"Использовать отдельные окна для…"
+
+k:"User Description"
+v:"Описание пользователя"
+
+k:"User Guide"
+v:"Руководство пользователя"
+
+k:"User Library"
+v:"Пользовательская библиотека"
+
+k:"Uses"
+v:"Использования"
+
+k:"Uses a Musket Rest"
+v:"Использует опору для мушкета"
+
+k:"Uses a musket rest"
+v:"Использует опору для мушкета"
+
+k:"Using skates"
+v:"Используя коньки"
+
+k:"Using skis"
+v:"Используя лыжи"
+
+k:"Value"
+v:"Значение"
+
+k:"value"
+v:"значение"
+
+k:"Value must be at least %s"
+v:"Значение должно быть не менее %s"
+
+k:"Value must be no more than %s"
+v:"Значение не должно превышать %s"
+
+k:"Version "
+v:"Версия "
+
+k:"Version %s"
+v:"Версия %s"
+
+k:"View"
+v:"Просмотр"
+
+k:"VTT Notes"
+v:"Заметки VTT"
+
+k:"Warning"
+v:"Предупреждение"
+
+k:"Weapon Accuracy"
+v:"Точность оружия"
+
+k:"weapon accuracy"
+v:"точность оружия"
+
+k:"Weather:"
+v:"Погода:"
+
+k:"Web server is not enabled."
+v:"Веб-сервер не включен."
+
+k:"Web Site"
+v:"Веб-сайт"
+
+k:"WEBP"
+v:"WEBP"
+
+k:"Weight"
+v:"Вес"
+
+k:"Weight Adjustment"
+v:"Подгонка веса"
+
+k:"Weight Modifier"
+v:"Модификатор веса"
+
+k:"Weight Qualifier"
+v:"Квалификатор веса"
+
+k:"Weight Units"
+v:"Единицы веса"
+
+k:"When"
+v:"Когда"
+
+k:"When Tech Level"
+v:"При технологическом уровне"
+
+k:"When the Tech Level"
+v:"При технологическом уровне"
+
+k:"Where to display…"
+v:"Где отображать…"
+
+k:"Whether this item is enabled. Items that are not enabled do not apply any features they may normally contribute to the character."
+v:"Включен ли этот предмет. Предметы, которые не включены, не применяют никаких особенностей, которые они обычно могут внести в персонажа."
+
+k:"Whether this piece of equipment is equipped or just carried. Items that are not equipped do not apply any features they may normally contribute to the character."
+v:"Экиперован ли этот предмет или просто несется. Предметы, которые не экиперованы, не применяют никаких особенностей, которые они обычно могут внести в персонажа."
+
+k:"which"
+v:"который"
+
+k:"whose college name"
+v:"чей название колледжа"
+
+k:"whose name"
+v:"с именем"
+
+k:"Winding"
+v:"Намотка"
+
+k:"Window"
+v:"Окно"
+
+k:"with a tag which"
+v:"с тегом"
+
+k:"Within this view, these keys have the following effects:"
+k:""
+v:"В этом представлении эти клавиши имеют следующие эффекты:"
+v:""
+
+k:"World1"
+v:"Мир1"
+
+k:"World2"
+v:"Мир2"
+
+k:"Would you like to apply the initial randomization again?"
+v:"Хотели бы вы применить начальную рандомизацию снова?"
+
+k:"x"
+v:"x"
+
+k:"X-Heavy"
+v:"Сверх-тяжёлая"
+
+k:"Xor"
+v:"Xor"
+
+k:"yard"
+v:"ярд"
+
+k:"Yes"
+v:"Да"
+
+k:"Zoom"
+v:"Масштаб"
+
+k:"½ Damage"
+v:"½ Урона"
+
+k:"½ Damage Range"
+v:"½ Диапазон урона"
+
+k:"×"
+v:"×"
+
+k:"†: Requires two hands. If you have at least ST %v, you can use it one-handed, but it becomes unready after you attack with it. If you have at least ST %v, you can use it one-handed with no readiness penalty."
+v:"†: Требует две руки. Если у вас есть по крайней мере СЛ %v, вы можете использовать его одной рукой, но после атаки он становится неготовым. Если у вас есть по крайней мере СЛ %v, вы можете использовать его одной рукой без штрафа к готовности."
+
+k:"‡: Requires two hands and becomes unready after you attack with it. If you have at least ST %v, you can used it two-handed without it becoming unready. If you have at least ST %v, you can use it one-handed with no readiness penalty."
+v:"‡: Требует две руки и становится неготовым после атаки. Если у вас есть по крайней мере СЛ %v, вы можете использовать его двумя руками, не делая его неготовым. Если у вас есть по крайней мере СЛ %v, вы можете использовать его одной рукой без штрафа к готовности."
