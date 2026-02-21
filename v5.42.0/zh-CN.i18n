@@ -1,0 +1,4834 @@
+# Generated on Thu, 30 Oct 2025 14:52:35 PDT
+#
+# Key-value pairs are defined as one or more lines prefixed with "k:" for the
+# key, followed by one or more lines prefixed with "v:" for the value. These
+# prefixes are then followed by a quoted string, using escaping rules for Go
+# strings where needed. When two or more lines are present in a row, they will
+# be concatenated together with an intervening \n character.
+#
+# Do NOT modify the 'k' values. They are the values as seen in the code.
+#
+# Replace the 'v' values with the appropriate translation.
+
+k:"0 of 0"
+v:"0 / 0"
+
+k:"0-100%"
+v:"0-100%"
+
+k:"0-255 or 0-100%"
+v:"0-255 或 0-100%"
+
+k:"0-359"
+v:"0-359"
+
+k:"1 foot"
+v:"1 英尺"
+
+k:"1 inch"
+v:"1 英寸"
+
+k:"1 meter"
+v:"1 米"
+
+k:"1 yard"
+v:"1 码"
+
+k:"25% Scale"
+v:"25% 缩放"
+
+k:"50% Scale"
+v:"50% 缩放"
+
+k:"75% Scale"
+v:"75% 缩放"
+
+k:"100% Scale"
+v:"100% 缩放"
+
+k:"200% Scale"
+v:"200% 缩放"
+
+k:"300% Scale"
+v:"300% 缩放"
+
+k:"400% Scale"
+v:"400% 缩放"
+
+k:"500% Scale"
+v:"500% 缩放"
+
+k:"600% Scale"
+v:"600% 缩放"
+
+k:""
+k:""
+k:"Requires these tags:"
+k:"● "
+v:""
+v:""
+v:"需要这些标签："
+v:"● "
+
+k:""
+k:""
+k:"Second mode:"
+k:""
+v:""
+v:""
+v:"第二模式："
+v:""
+
+k:""
+k:"- %s [%+d against %s attacks]"
+v:""
+v:"- %s [对抗 %s 攻击时 %+d]"
+
+k:""
+k:"- %s [%s against %s attacks]"
+v:""
+v:"- %s [对抗 %s 攻击时 %s]"
+
+k:""
+k:"- **DR %d** against **%s** attacks"
+v:""
+v:"- 对 **%s** 攻击具有 **DR %d**"
+
+k:""
+k:"Encumbrance [%s]"
+v:""
+v:"负重 [%s]"
+
+k:""
+k:"Holding down the %s key while using"
+k:"the mouse wheel will change the scale."
+v:""
+v:"使用鼠标滚轮时按住 %s 键"
+v:"将改变缩放比例。"
+
+k:""
+k:"This key is normally mapped to a PDF named:"
+k:"%s"
+v:""
+v:"此按键通常映射到名为以下的 PDF："
+v:"%s"
+
+k:" (default: %s%s%s)"
+v:" (默认：%s%s%s)"
+
+k:" (Leveled)"
+v:" (分等级)"
+
+k:" a contained quantity which "
+v:" 包含的数量 "
+
+k:" a contained weight which "
+v:" 包含的重量 "
+
+k:" a skill whose name "
+v:" 技能名称 "
+
+k:" a trait whose name "
+v:" 特质名称 "
+
+k:" and level "
+v:" 且等级 "
+
+k:" and tech level matches"
+v:" 且技术等级匹配"
+
+k:" Block"
+v:" 盾挡"
+
+k:" by "
+v:" 依据 "
+
+k:" Dodge"
+v:" 闪避"
+
+k:" Files"
+v:" 文件"
+
+k:" level "
+v:" 等级 "
+
+k:" or "
+v:" 或 "
+
+k:" Parry"
+v:" 招架"
+
+k:" per die)"
+v:" 每骰)"
+
+k:" per full day"
+v:" 每天"
+
+k:" per level"
+v:" 每等级"
+
+k:" per pound"
+v:" 每磅"
+
+k:" pts]"
+v:" 点]"
+
+k:" pt]"
+v:" 点]"
+
+k:" spell "
+v:" 咒语 "
+
+k:" spells "
+v:" 咒语 "
+
+k:" to "
+v:" 至 "
+
+k:" to skill level due to minimum ST requirement"
+v:" 因最小 ST 要求对技能等级的影响"
+
+k:" which "
+v:" 满足 "
+
+k:" [options]"
+v:" [选项]"
+
+k:"!: This weapon can only fire on full automatic. Minimum RoF is %v."
+v:"!：此武器只能全自动射击。最小射速 (RoF) 为 %v。"
+
+k:"\"+5 lb\", \"-5 lb\", \"+10%\", \"-10%\""
+v:"\"+5 lb\", \"-5 lb\", \"+10%\", \"-10%\""
+
+k:"\"+5 lb\", \"-5 lb\", \"x10%\", \"x3\", \"x2/3\""
+v:"\"+5 lb\", \"-5 lb\", \"x10%\", \"x3\", \"x2/3\""
+
+k:"\"+5\", \"-5\", \"+10%\", \"-10%\", \"x3.2\""
+v:"\"+5\", \"-5\", \"+10%\", \"-10%\", \"x3.2\""
+
+k:"\"x2\", \"+2 CF\", \"-0.2 CF\""
+v:"\"x2\", \"+2 CF\", \"-0.2 CF\""
+
+k:"#"
+v:"#"
+
+k:"# Treasure Generation"
+k:""
+k:"This will generate a new Loot Sheet with items from the contents of this one."
+k:"Each top-level item in this sheet will be treated as a potential item to select from."
+k:"The quantity of that top-level item will be used to determine the likelihood of it"
+k:"being selected, with larger numbers increasing the chance it is chosen."
+v:"# 宝藏生成"
+v:""
+v:"这将根据当前列表的内容生成一个新的战利品列表。"
+v:"此列表中的每个顶级物品都将被视为可选的潜在物品。"
+v:"顶级物品的数量将用于决定其被选中的概率，"
+v:"数量越大，被选中的机会就越高。"
+
+k:"### Version "
+v:"### 版本 "
+
+k:"#: This weapon can fire in high cyclic controlled bursts, reducing Recoil to 1."
+v:"#：此武器可以进行高循环受控点射，将后坐力降至 1。"
+
+k:"%"
+v:"%"
+
+k:"%d Action Penalty"
+v:"%d 动作减值"
+
+k:"%d editors will be opened."
+v:"将打开 %d 个编辑器。"
+
+k:"%d files will be opened."
+v:"将打开 %d 个文件。"
+
+k:"%d Fright Check Penalty"
+v:"%d 恐惧检定减值"
+
+k:"%d of %d"
+v:"%d / %d"
+
+k:"%d Reaction Penalty"
+v:"%d 反应减值"
+
+k:"%s %s is available!"
+v:"%s %s 已可用！"
+
+k:"%s (%s per die)"
+v:"%s (每骰 %s)"
+
+k:"%s (%s per die, per level)"
+v:"%s (每骰每等级 %s)"
+
+k:"%s (%s per level)"
+v:"%s (每等级 %s)"
+
+k:"%s (%s; $%s)"
+v:"%s (%s; $%s)"
+
+k:"%s Changes"
+v:"%s 变更"
+
+k:"%s Editor for %s"
+v:"用于 %s 的 %s 编辑器"
+
+k:"%s feet"
+v:"%s 英尺"
+
+k:"%s inches"
+v:"%s 英寸"
+
+k:"%s is copyrighted ©%s by %s"
+v:"%s 的版权所有 ©%s 归 %s 所有"
+
+k:"%s Level"
+v:"%s 等级"
+
+k:"%s meters"
+v:"%s 米"
+
+k:"%s of %s uses left"
+v:"剩余使用次数：%s / %s"
+
+k:"%s Points"
+v:"%s 点数"
+
+k:"%s Release Notes"
+v:"%s 发行说明"
+
+k:"%s running start"
+v:"%s 助跑"
+
+k:"%s yards"
+v:"%s 码"
+
+k:"%s, Build %s"
+v:"%s，版本 %s"
+
+k:"%sHas equipment which is equipped and whose name %s %s"
+v:"%s拥有已装备且名称 %s %s 的装备"
+
+k:"%v%v or %v%v"
+v:"%v%v 或 %v%v"
+
+k:"(Alpha channel > 0 enables the tint, while 0 turns it off)"
+v:"(Alpha 通道 > 0 启用色调，0 则关闭)"
+
+k:"(base only)"
+v:"(仅基础)"
+
+k:"(levels only)"
+v:"(仅等级)"
+
+k:"(unaffected by levels)"
+v:"(不受等级影响)"
+
+k:") for 1 point"
+v:") 花费 1 点"
+
+k:"* Locations not present in current body type"
+v:"* 当前身体类型中不存在的部位"
+
+k:"*: Changing reach requires a Ready maneuver."
+v:"*：改变触及范围需要一个准备动作。"
+
+k:"*: Has a retracting stock. With the stock folded, the weapon's stats change to Bulk %s, Accuracy %s, Recoil %s, and minimum ST %s. Folding or unfolding the stock takes one Ready maneuver."
+v:"*：具有可折叠枪托。折叠枪托后，武器属性变为：笨重 %s，Acc %s，Rcl %s，最小 ST %s。折叠或展开枪托需要一个准备动作。"
+
+k:"*From a [house rule](https://gamingballistic.com/2020/12/04/df-eastmarch-boss-fight-and-house-rules/) originating with Kevin Smyth*"
+v:"*源自 Kevin Smyth 的 [房规](https://gamingballistic.com/2020/12/04/df-eastmarch-boss-fight-and-house-rules/)*"
+
+k:"*From a [house rule](https://github.com/richardwilkes/gcs/pull/393) that uses d3s instead of d6s for damage*"
+v:"*源自使用 d3 代替 d6 计算伤害的 [房规](https://github.com/richardwilkes/gcs/pull/393)*"
+
+k:"*From [Adjusting Swing Damage in Dungeon Fantasy](https://noschoolgrognard.blogspot.com/2013/04/adjusting-swing-damage-in-dungeon.html)*"
+v:"*源自 [Adjusting Swing Damage in Dungeon Fantasy](https://noschoolgrognard.blogspot.com/2013/04/adjusting-swing-damage-in-dungeon.html)*"
+
+k:"*From [Alternate Damage Scheme (Thr = Sw-2)](https://github.com/richardwilkes/gcs/issues/97)*"
+v:"*源自 [备选伤害方案 (戳击 = 挥舞-2)](https://github.com/richardwilkes/gcs/issues/97)*"
+
+k:"*From [Pyramid 3-83, pages 16-19](PY83:16)*"
+v:"*源自 [金字塔 3-83, 第 16-19 页](PY83:16)*"
+
+k:"*From [T Bone's Games Diner](https://www.gamesdiner.com/rules-nugget-gurps-new-damage-for-st/)*"
+v:"*源自 [T Bone's Games Diner](https://www.gamesdiner.com/rules-nugget-gurps-new-damage-for-st/)*"
+
+k:"*The standard damage progression*"
+v:"*标准伤害演进*"
+
+k:"+"
+v:"+"
+
+k:"+%d Fright Check Bonus"
+v:"+%d 恐惧检定加成"
+
+k:"+%d%% Cost of Living Increase"
+v:"+%d%% 生活开支增加"
+
+k:", notes "
+v:"，注释 "
+
+k:", specialization "
+v:"，技能分支 "
+
+k:"- of %d"
+v:"- / %d"
+
+k:". All rights reserved."
+v:"。保留所有权利。"
+
+k:"; non-standard"
+v:"；非标准"
+
+k:"<unknown>"
+v:"<未知>"
+
+k:"> This version is what you currently have on disk."
+v:"> 此版本为您磁盘上的当前版本。"
+
+k:"a contained quantity of"
+v:"包含的数量"
+
+k:"a contained weight"
+v:"包含的重量"
+
+k:"A description of any special effects for hits to this location"
+v:"击中此部位的特殊效果描述"
+
+k:"A explanation of the effects of the threshold state. This field will be interpreted as markdown and may have scripts embedded in it by wrapping each script in <script>your script goes here</script> tags."
+v:"阈值状态效果的说明。此字段将解析为 Markdown，并可以通过 <script>此处编写脚本</script> 标签嵌入脚本。"
+
+k:"a list"
+v:"列表"
+
+k:"A page range in the form \"5\" or \"9-12\" or multiple"
+k:"separated by commas, such as \"1, 3-4 in ascending"
+k:"order with no overlapping ranges"
+v:"页码范围，格式如 \"5\" 或 \"9-12\"，或由逗号分隔的"
+v:"多个范围，例如 \"1, 3-4\"。请按升序排列"
+v:"且不要包含重叠范围"
+
+k:"A reference to the book and page the item appears on e.g. B22 would refer to \"Basic Set\", page 22"
+v:"物品出现的书籍和页码引用，例如 B22 指《基本集》第 22 页"
+
+k:"A short description of the threshold state"
+v:"阈值状态的简短描述"
+
+k:"a skill"
+v:"技能"
+
+k:"A snippet of text to highlight on the page when opening the page reference; only needed if the default behavior isn't highlighting the expected area"
+v:"打开页面引用时要高亮显示的文本片段；仅在默认行为未高亮显示预期区域时需要"
+
+k:"A title to use with the separator"
+v:"用于分隔符的标题"
+
+k:"a trait"
+v:"特质"
+
+k:"A unique ID for the attribute"
+v:"属性的唯一 ID"
+
+k:"About %s"
+v:"关于 %s"
+
+k:"Acc"
+v:"Acc"
+
+k:"Accuracy"
+v:"精确度（Acc）"
+
+k:"Accuracy Bonus"
+v:"Acc加成"
+
+k:"Add Attribute"
+v:"添加属性"
+
+k:"Add Entry"
+v:"添加条目"
+
+k:"Add Hit Location"
+v:"添加命中部位"
+
+k:"Add hit location"
+v:"添加命中部位"
+
+k:"Add Library"
+v:"添加库"
+
+k:"Add Natural Attacks"
+v:"添加天生攻击"
+
+k:"Add natural attacks to new sheets"
+v:"向新角色卡添加天生攻击"
+
+k:"Add Pool Threshold"
+v:"添加池阈值"
+
+k:"Add pool threshold"
+v:"添加池阈值"
+
+k:"Add Sub-Table"
+v:"添加子表"
+
+k:"Add sub-table"
+v:"添加子表"
+
+k:"Additional notes for your own reference. These only exist in character sheets and will be removed if transferred to a data list or template"
+v:"供您参考的附加注释。这些仅存在于角色卡中，如果转移到数据列表或模板中将被删除"
+
+k:"Advantages"
+v:"优势"
+
+k:"against"
+v:"对抗"
+
+k:"Age"
+v:"年龄"
+
+k:"All Files"
+v:"所有文件"
+
+k:"All Readable Files"
+v:"所有可读文件"
+
+k:"All rights reserved"
+v:"保留所有权利"
+
+k:"Almost all the time"
+v:"几乎所有时间"
+
+k:"Alpha"
+v:"Alpha"
+
+k:"Also show notes in weapon usage"
+v:"在武器用法中也显示注释"
+
+k:"Alternate"
+v:"备用"
+
+k:"Alternative Abilities"
+v:"备用能力"
+
+k:"American Female"
+v:"美国女性"
+
+k:"American Last"
+v:"美国姓氏"
+
+k:"American Male"
+v:"美国男性"
+
+k:"Amount"
+v:"数量"
+
+k:"An ID for the hit location"
+v:"命中部位的 ID"
+
+k:"Ancestry"
+v:"种族"
+
+k:"and"
+v:"且"
+
+k:"and all tags"
+v:"及所有标签"
+
+k:"and at least one tag"
+v:"及至少一个标签"
+
+k:"and whose level"
+v:"且其等级"
+
+k:"and whose notes"
+v:"且其注释"
+
+k:"and whose relative skill level"
+v:"且其相对技能等级"
+
+k:"and whose specialization"
+v:"且其技能分支"
+
+k:"and whose usage"
+v:"且其用法"
+
+k:"Any notes for VTT use; see the instructions for your VTT to determine if/how these can be used"
+v:"用于 VTT（虚拟桌面）的注释；请参阅您的 VTT 说明以确定是否/如何使用这些内容"
+
+k:"Any Tag"
+v:"任意标签"
+
+k:"anything"
+v:"任何内容"
+
+k:"Apply Changes"
+v:"应用更改"
+
+k:"Apply changes made to"
+k:"%s?"
+v:"应用对 %s"
+v:"所做的更改吗？"
+
+k:"Apply Template"
+v:"应用模板"
+
+k:"Apply Template to Character Sheet"
+v:"将模板应用到角色卡"
+
+k:"are not"
+v:"不是"
+
+k:"Are you sure you want to open all of these?"
+v:"您确定要打开所有这些吗？"
+
+k:"Are you sure you want to remove"
+k:"%s (%s)?"
+v:"您确定要删除"
+v:"%s (%s) 吗？"
+
+k:"Are you sure you want to remove %s?"
+v:"您确定要删除 %s 吗？"
+
+k:"Are you sure you want to reset %s?"
+v:"您确定要重置 %s 吗？"
+
+k:"Are you sure you want to reset '%s'?"
+v:"您确定要重置 '%s' 吗？"
+
+k:"Are you sure you want to reset the"
+k:"%s?"
+v:"您确定要重置"
+v:"%s 吗？"
+
+k:"Armor Divisor"
+v:"护甲除数"
+
+k:"as a %"
+v:"作为 %"
+
+k:"at least"
+v:"至少"
+
+k:"At least one path must be specified."
+v:"必须指定至少一个路径。"
+
+k:"at most"
+v:"至多"
+
+k:"attacks"
+v:"攻击"
+
+k:"Attribute"
+v:"属性"
+
+k:"Attribute Definition Drag"
+v:"属性定义拖拽"
+
+k:"Attribute Qualifier"
+v:"属性修饰符"
+
+k:"Attribute Type"
+v:"属性类型"
+
+k:"Attributes"
+v:"属性"
+
+k:"Attributes…"
+v:"属性…"
+
+k:"Automatic"
+v:"自动"
+
+k:"B: Has an attached bipod. When used from a prone position, "
+v:"B：配有两脚架。在俯卧位使用时，"
+
+k:"Back"
+v:"返回"
+
+k:"Backspace"
+v:"退格"
+
+k:"Base Cost"
+v:"基础费用"
+
+k:"Base Markdown"
+v:"基础 Markdown"
+
+k:"Base Skill"
+v:"基础技能"
+
+k:"Base Value"
+v:"基础数值"
+
+k:"Basic Damage"
+v:"基本伤害值"
+
+k:"Basic Lift"
+v:"基本举力"
+
+k:"Basic Set"
+v:"基本集"
+
+k:"Basic Swing"
+v:"基本挥舞"
+
+k:"Basic Thrust"
+v:"基本戳击"
+
+k:"Bevel"
+v:"斜角"
+
+k:"Birthday"
+v:"生日"
+
+k:"Bite"
+v:"咬"
+
+k:"Black"
+v:"黑色"
+
+k:"Block"
+v:"盾挡"
+
+k:"block"
+v:"盾挡"
+
+k:"Block Layout"
+v:"布局块"
+
+k:"Block Modifier"
+v:"盾挡修正"
+
+k:"Blue"
+v:"蓝色"
+
+k:"Body Type"
+v:"身体类型"
+
+k:"Body Type: %s"
+v:"身体类型：%s"
+
+k:"Body Type…"
+v:"身体类型…"
+
+k:"Bold"
+v:"粗体"
+
+k:"Bottom"
+v:"底部"
+
+k:"Bottom Margin"
+v:"下边距"
+
+k:"Brightness"
+v:"亮度"
+
+k:"Bring All to Front"
+v:"全部置于顶层"
+
+k:"Broad Jump:"
+v:"立定跳远："
+
+k:"Broken Ground"
+v:"崎岖地面"
+
+k:"Built-in"
+v:"内置"
+
+k:"Bulk"
+v:"笨重"
+
+k:"bulk"
+v:"笨重"
+
+k:"Butt"
+v:"枪托撞击"
+
+k:"by %d%%"
+v:"通过 %d%%"
+
+k:"Calculator for %s"
+v:"%s 的计算器"
+
+k:"Calculators (jumping, throwing, hiking, etc.)"
+v:"计算器（跳跃、投掷、徒步等）"
+
+k:"Calendar"
+v:"日历"
+
+k:"Can Block"
+v:"可盾挡"
+
+k:"Can Parry"
+v:"可招架"
+
+k:"Cancel"
+v:"取消"
+
+k:"Cannot exceed default skill level by more than"
+v:"不能超过缺省技能等级超过"
+
+k:"Cannot Redo"
+v:"无法重做"
+
+k:"Cannot specify both --convert and --sync"
+v:"不能同时指定 --convert 和 --sync"
+
+k:"Cannot Undo"
+v:"无法撤销"
+
+k:"CapsLock"
+v:"大写锁定"
+
+k:"Carried Equipment"
+v:"携带装备"
+
+k:"Carry On Back"
+v:"背负"
+
+k:"Cast"
+v:"施法"
+
+k:"Casting Cost"
+v:"施法消耗"
+
+k:"Casting Time"
+v:"施法时间"
+
+k:"Caution"
+v:"警告"
+
+k:"CF"
+v:"价格系数 (CF)"
+
+k:"chamber shots"
+v:"膛内子弹"
+
+k:"Changing fonts usually requires restarting the app to see content laid out correctly."
+v:"更改字体通常需要重启应用才能正确显示布局。"
+
+k:"Character Sheets"
+v:"角色卡"
+
+k:"Character Templates"
+v:"角色模板"
+
+k:"Check for %s updates"
+v:"检查 %s 更新"
+
+k:"Checking for %s updates…"
+v:"正在检查 %s 更新…"
+
+k:"Choice Name"
+v:"选项名称"
+
+k:"Choose an ink"
+v:"选择墨水"
+
+k:"Choose one or more destinations:"
+v:"选择一个或多个目的地："
+
+k:"Clamp"
+v:"夹紧"
+
+k:"Class"
+v:"类别"
+
+k:"Clear"
+v:"清除"
+
+k:"Clear Portrait"
+v:"清除肖像"
+
+k:"Clear Source"
+v:"清除来源"
+
+k:"Click and drag this handle to rearrange"
+v:"点击并拖动此手柄以重新排列"
+
+k:"Click to toggle whether this piece of equipment is equipped or just carried. Items that are not equipped do not apply any features they may normally contribute to the character. Note that if a parent container is not equipped, none of its contents are considered to be equipped either and any checkmark here will be dimmed to reflect this."
+v:"点击以切换此装备是已装备还是仅携带。未装备的物品不会对角色产生任何效果。请注意，如果父容器未装备，其内部的所有物品也将被视为未装备，此处的复选框将变暗以反映这一点。"
+
+k:"Clockwise"
+v:"顺时针"
+
+k:"Clone Character Sheet & Re-Randomize Fields"
+v:"克隆角色卡并重新随机化字段"
+
+k:"Close"
+v:"关闭"
+
+k:"Close All Tabs"
+v:"关闭所有标签页"
+
+k:"Close Combat"
+v:"贴身战斗"
+
+k:"College"
+v:"系别"
+
+k:"colleges"
+v:"系别"
+
+k:"Color"
+v:"颜色"
+
+k:"Color Mode"
+v:"颜色模式"
+
+k:"Color-Burn"
+v:"颜色加深"
+
+k:"Color-Dodge"
+v:"颜色减淡"
+
+k:"Colors"
+v:"颜色"
+
+k:"Colors…"
+v:"颜色…"
+
+k:"combined with"
+v:"结合"
+
+k:"Compound"
+v:"复合"
+
+k:"Condensed"
+v:"紧凑"
+
+k:"Condition"
+v:"状态"
+
+k:"Conditional Modifier"
+v:"条件修正"
+
+k:"Conditional Modifiers"
+v:"条件修正"
+
+k:"Configure"
+v:"配置"
+
+k:"Constantly"
+v:"持续"
+
+k:"Contained Weight Reduction"
+v:"容器减重"
+
+k:"Container Type"
+v:"容器类型"
+
+k:"contains"
+v:"包含"
+
+k:"Content Filter"
+v:"内容过滤"
+
+k:"Convert all files specified on the command line to the current data format. If a directory is specified, it will be traversed recursively and all files found will be converted. After all files have been processed, GCS will exit"
+v:"将命令行中指定的所有文件转换为当前数据格式。如果指定了目录，将递归遍历并转换找到的所有文件。处理完所有文件后，GCS 将退出"
+
+k:"Convert to Container"
+v:"转换为容器"
+
+k:"Convert to Non-Container"
+v:"转换为非容器"
+
+k:"Copies"
+v:"份数"
+
+k:"Copy"
+v:"复制"
+
+k:"Copy the log output to the console"
+v:"将日志输出复制到控制台"
+
+k:"Copy to Character Sheet"
+v:"复制到角色卡"
+
+k:"Copy to clipboard"
+v:"复制到剪贴板"
+
+k:"Copy to Other Character Sheet"
+v:"复制到其他角色卡"
+
+k:"Copy to Template"
+v:"复制到模板"
+
+k:"Copyright ©"
+v:"版权所有 ©"
+
+k:"Cost"
+v:"花费"
+
+k:"Cost Adjustment"
+v:"费用调整"
+
+k:"Cost Modifier"
+v:"费用修正"
+
+k:"Cost Per Level"
+v:"每等级费用"
+
+k:"Cost per Point"
+v:"每点数费用"
+
+k:"Count"
+v:"计数"
+
+k:"Counter-Clockwise"
+v:"逆时针"
+
+k:"CR%d"
+v:"自控值(CR)%d"
+
+k:"Created"
+v:"已创建"
+
+k:"CSS"
+v:"CSS"
+
+k:"Current Name"
+v:"当前名称"
+
+k:"Custom data which did not come from a library source"
+v:"非来自库源的自定义数据"
+
+k:"Cut"
+v:"剪切"
+
+k:"Damage"
+v:"伤害"
+
+k:"damage"
+v:"伤害"
+
+k:"Damage Modifier Per Die"
+v:"每骰伤害修正"
+
+k:"Damage Progression"
+v:"伤害演进"
+
+k:"Damage Resistance for the hit location"
+v:"该部位的DR"
+
+k:"Damage Type"
+v:"伤害类型"
+
+k:"Damage:"
+v:"伤害："
+
+k:"Dark"
+v:"深色"
+
+k:"Dark Mode Color"
+v:"深色模式颜色"
+
+k:"Darken"
+v:"变暗"
+
+k:"Data does NOT match library source data"
+v:"数据与库源数据不匹配"
+
+k:"Data matches library source data"
+v:"数据与库源数据匹配"
+
+k:"Decal"
+v:"贴花"
+
+k:"Decimal"
+v:"小数"
+
+k:"Decimal (Display Only)"
+v:"小数（仅显示）"
+
+k:"Decrease Equipment Level"
+v:"降低装备等级"
+
+k:"Decrease Skill Level"
+v:"降低技能等级"
+
+k:"Decrease Tech Level"
+v:"降低技术等级"
+
+k:"Decrease Uses"
+v:"减少使用次数"
+
+k:"Decrement"
+v:"递减"
+
+k:"Decrement Level"
+v:"降低等级"
+
+k:"Decrement Points"
+v:"减少点数"
+
+k:"Decrement Quantity"
+v:"减少数量"
+
+k:"Deep Snow"
+v:"深雪"
+
+k:"Default Adjustment"
+v:"默认调整"
+
+k:"Default Attributes"
+v:"默认属性"
+
+k:"Default Attributes…"
+v:"默认属性…"
+
+k:"Default Body Type"
+v:"默认身体类型"
+
+k:"Default Body Type…"
+v:"默认身体类型…"
+
+k:"Default Player Name"
+v:"默认玩家名称"
+
+k:"Default Scale"
+v:"默认缩放"
+
+k:"Default Sheet Settings"
+v:"默认卡片设置"
+
+k:"Default Sheet Settings…"
+v:"默认卡片设置…"
+
+k:"Default Tech Level"
+v:"默认技术等级"
+
+k:"Default: "
+v:"缺省："
+
+k:"Defaults"
+v:"缺省值"
+
+k:"Defaults To"
+v:"缺省基于"
+
+k:"Delete"
+v:"删除"
+
+k:"Delete Attribute"
+v:"删除属性"
+
+k:"Delete Pool Threshold"
+v:"删除池阈值"
+
+k:"Delete Selection"
+v:"删除所选"
+
+k:"Description"
+v:"描述"
+
+k:"Desert"
+v:"沙漠"
+
+k:"Desert, Hard-packed"
+v:"硬沙沙漠"
+
+k:"Determines the method used to calculate thrust and swing damage"
+v:"决定计算戳击和挥舞伤害的方法"
+
+k:"Development versions don't look for %s updates"
+v:"开发版本不会寻找 %s 更新"
+
+k:"Diff"
+v:"难度"
+
+k:"Difference"
+v:"差值"
+
+k:"Difficulty"
+v:"难度"
+
+k:"Disadvantages"
+v:"劣势"
+
+k:"Discard Changes"
+v:"放弃更改"
+
+k:"Distance:"
+v:"距离："
+
+k:"do not contain"
+v:"不包含"
+
+k:"do not end with"
+v:"不以...结尾"
+
+k:"do not start with"
+v:"不以...开头"
+
+k:"Dock Into Workspace"
+v:"停靠到工作区"
+
+k:"Document Workspace"
+v:"文档工作区"
+
+k:"Dodge"
+v:"闪避"
+
+k:"Does it exist?"
+v:"是否存在？"
+
+k:"does not contain"
+v:"不包含"
+
+k:"does not end with"
+v:"不以...结尾"
+
+k:"does not exist in the Markdown directory in any library."
+v:"在任何库的 Markdown 目录中都不存在。"
+
+k:"Does not have"
+v:"不具有"
+
+k:"does not start with"
+v:"不以...开头"
+
+k:"doesn't have"
+v:"不具有"
+
+k:"Down"
+v:"向下"
+
+k:"Download"
+v:"下载"
+
+k:"DR"
+v:"DR"
+
+k:"DR Bonus"
+v:"DR 加成"
+
+k:"DR divisor"
+v:"护甲除数"
+
+k:"Drag"
+v:"拖拽"
+
+k:"Drop an image here or double-click to change the portrait"
+v:"将图片拖放到此处或双击以更改肖像"
+
+k:"Dst"
+v:"目标"
+
+k:"Dst-Atop"
+v:"目标在上"
+
+k:"Dst-In"
+v:"目标内"
+
+k:"Dst-Out"
+v:"目标外"
+
+k:"Dst-Over"
+v:"目标覆盖"
+
+k:"Duplicate"
+v:"复制"
+
+k:"Duplicate Selection"
+v:"复制所选"
+
+k:"Duration"
+v:"持续时间"
+
+k:"Edit"
+v:"编辑"
+
+k:"Editors"
+v:"编辑器"
+
+k:"effective ST"
+v:"有效 ST"
+
+k:"Enabled"
+v:"已启用"
+
+k:"Encumbrance"
+v:"负重"
+
+k:"Encumbrance Penalty"
+v:"负重减值"
+
+k:"Encumbrance, Move & Dodge"
+v:"负重、移动与闪避"
+
+k:"End"
+v:"结束"
+
+k:"ends with"
+v:"以...结尾"
+
+k:"Enter a cost adjustment, such as +5, -5, +50%, -25%, x2, x2/3, x10%."
+v:"输入费用调整，例如 +5, -5, +50%, -25%, x2, x2/3, x10%。"
+
+k:"Enter a standard paper size (e.g., one of %s) or a custom size (e.g., \"8.5in x 11in\", \"210mm x 297mm\")"
+v:"输入标准纸张尺寸（例如 %s 之一）或自定义尺寸（例如 \"8.5in x 11in\", \"210mm x 297mm\"）"
+
+k:"Enter a weight or percentage, e.g. \"2 lb\" or \"5%\""
+v:"输入重量或百分比，例如 \"2 lb\" 或 \"5%\""
+
+k:"Equipment"
+v:"装备"
+
+k:"Equipment Container"
+v:"装备容器"
+
+k:"Equipment Item"
+v:"装备物品"
+
+k:"Equipment Items"
+v:"装备物品"
+
+k:"Equipment Modifier"
+v:"装备修正"
+
+k:"Equipment Modifier Container"
+v:"装备修正容器"
+
+k:"Equipment Modifiers"
+v:"装备修正"
+
+k:"Equipment with a rated ST use this value instead of the user's ST"
+v:"具有额定 ST 的装备使用此数值而非使用者的 ST"
+
+k:"Equipped"
+v:"已装备"
+
+k:"Error code 0x%04x"
+v:"错误代码 0x%04x"
+
+k:"Escape"
+v:"Esc"
+
+k:"Even-Odd"
+v:"奇偶"
+
+k:"exactly"
+v:"精确"
+
+k:"Exclude unspent points from total"
+v:"总计中排除未花费点数"
+
+k:"Exclusion"
+v:"排除"
+
+k:"Existing content for this library will be removed and replaced."
+k:"Content in other libraries will not be modified"
+v:"此库的现有内容将被删除并替换。"
+v:"其他库中的内容不会被修改"
+
+k:"Exit"
+v:"退出"
+
+k:"Exotic"
+v:"异种"
+
+k:"Expanded"
+v:"已展开"
+
+k:"Explanation"
+v:"说明"
+
+k:"Export failed"
+v:"导出失败"
+
+k:"Export Portrait"
+v:"导出肖像"
+
+k:"Export sheets using the specified text template `file`"
+v:"使用指定的文本模板 `file` 导出角色卡"
+
+k:"Export To…"
+v:"导出至…"
+
+k:"Export…"
+v:"导出…"
+
+k:"Extended Value"
+v:"总价值"
+
+k:"Extended Weight"
+v:"总重量"
+
+k:"External PDF Viewer"
+v:"外部 PDF 查看器"
+
+k:"Extra-Black"
+v:"特黑"
+
+k:"Extra-Bold"
+v:"特粗"
+
+k:"Extra-Condensed"
+v:"特紧凑"
+
+k:"Extra-Expanded"
+v:"特展开"
+
+k:"Extra-Light"
+v:"特细"
+
+k:"Eyes"
+v:"眼睛"
+
+k:"F: Fencing weapon. When retreating, your Parry is %v (instead of %v). You suffer a -2 cumulative penalty for multiple parries after the first on the same turn instead of the usual -4. Flails cannot be parried by this weapon."
+v:"F：击剑武器。后退时，您的招架为 %v（而非 %v）。在同一回合内，第一次之后的多次招架承受 -2 的累积减值，而非通常的 -4。此武器无法招架连枷。"
+
+k:"Fairly often"
+v:"相当频繁"
+
+k:"Favorites"
+v:"收藏夹"
+
+k:"Features"
+v:"特性"
+
+k:"Feet & Inches"
+v:"英尺与英寸"
+
+k:"Fencing"
+v:"击剑"
+
+k:"Field"
+v:"字段"
+
+k:"File"
+v:"文件"
+
+k:"File already exists! Do you want to overwrite it?"
+v:"文件已存在！是否覆盖？"
+
+k:"Fill"
+v:"填充"
+
+k:"Fill in initial description"
+v:"填写初始描述"
+
+k:"First mode:"
+k:""
+v:"第一模式："
+v:""
+
+k:"First Page"
+v:"第一页"
+
+k:"First Recoil value is for shot, second is for slugs"
+v:"第一个后坐力值用于散弹，第二个用于独头弹"
+
+k:"Fit Page"
+v:"适应页面"
+
+k:"Fit Width"
+v:"适应宽度"
+
+k:"Folder Name"
+v:"文件夹名称"
+
+k:"Follow"
+v:"跟随"
+
+k:"Fonts"
+v:"字体"
+
+k:"Fonts…"
+v:"字体…"
+
+k:"For Giants"
+v:"巨人专用"
+
+k:"for lifting only"
+v:"仅限举重"
+
+k:"For Slugs"
+v:"独头弹专用"
+
+k:"for striking only"
+v:"仅限打击"
+
+k:"for throwing only"
+v:"仅限投掷"
+
+k:"Forest"
+v:"森林"
+
+k:"Forest, Dense"
+v:"茂密森林"
+
+k:"Forest, Light"
+v:"稀疏森林"
+
+k:"Forward"
+v:"前进"
+
+k:"FR%d"
+v:"出现频率 (FR)%d"
+
+k:"Fragmentation"
+v:"破片"
+
+k:"Fragmentation Armor Divisor"
+v:"破片护甲除数"
+
+k:"Fragmentation Base Damage"
+v:"破片基础伤害"
+
+k:"Fragmentation Type"
+v:"破片类型"
+
+k:"Frequency of Appearance"
+v:"出现频率"
+
+k:"Frequency Roll (FR): %s"
+v:"出现频率判定 (FR)：%s"
+
+k:"from different colleges"
+v:"来自不同系别"
+
+k:"from equipment "
+v:"来自装备 "
+
+k:"from others"
+v:"来自其他"
+
+k:"from others when %s is triggered"
+v:"当 %s 触发时来自其他"
+
+k:"from skill "
+v:"来自技能 "
+
+k:"from trait "
+v:"来自特质 "
+
+k:"from/to target group"
+v:"来自/去往目标组"
+
+k:"Frozen Lake"
+v:"冰湖"
+
+k:"Frozen River"
+v:"冰河"
+
+k:"Full Name"
+v:"全名"
+
+k:"Fully Automatic (Mode 1)"
+v:"全自动（模式 1）"
+
+k:"Fully Automatic (Mode 2)"
+v:"全自动（模式 2）"
+
+k:"Fully Automatic Only"
+v:"仅全自动"
+
+k:"Gender"
+v:"性别"
+
+k:"General Settings"
+v:"常规设置"
+
+k:"General Settings…"
+v:"常规设置…"
+
+k:"Generate a treasure horde from this loot sheet"
+v:"从此战利品表生成宝库"
+
+k:"Generates a template for a localization file from source code."
+v:"从源代码生成本地化文件模板。"
+
+k:"Giant Bulk"
+v:"巨型笨重"
+
+k:"GitHub Access Token"
+v:"GitHub 访问令牌"
+
+k:"GitHub Account"
+v:"GitHub 账号"
+
+k:"Gives a conditional modifier of"
+v:"给予一个条件修正："
+
+k:"Gives a DR bonus of"
+v:"给予 DR 加成："
+
+k:"Gives a reaction modifier of"
+v:"给予反应修正："
+
+k:"Gives a skill level modifier of"
+v:"给予技能等级修正："
+
+k:"Gives a skill point modifier of"
+v:"给予技能点数修正："
+
+k:"Gives a spell level modifier of"
+v:"给予法术等级修正："
+
+k:"Gives a spell point modifier of"
+v:"给予法术点数修正："
+
+k:"Gives a trait level modifier of"
+v:"给予特质等级修正："
+
+k:"Gives a weapon accuracy modifier of"
+v:"给予武器准确度修正："
+
+k:"Gives a weapon block modifier of"
+v:"给予武器盾挡修正："
+
+k:"Gives a weapon bulk modifier of"
+v:"给予武器笨重修正："
+
+k:"Gives a weapon chamber shots modifier of"
+v:"给予武器膛内装弹数修正："
+
+k:"Gives a weapon damage modifier of"
+v:"给予武器伤害修正："
+
+k:"Gives a weapon DR divisor modifier of"
+v:"给予武器 护甲除数修正："
+
+k:"Gives a weapon effective ST modifier of"
+v:"给予武器有效ST修正："
+
+k:"Gives a weapon half-damage range modifier of"
+v:"给予武器半伤害射程修正："
+
+k:"Gives a weapon maximum range modifier of"
+v:"给予武器最大射程修正："
+
+k:"Gives a weapon maximum reach modifier of"
+v:"给予武器最大触及修正："
+
+k:"Gives a weapon minimum range modifier of"
+v:"给予武器最小射程修正："
+
+k:"Gives a weapon minimum reach modifier of"
+v:"给予武器最小触及修正："
+
+k:"Gives a weapon minimum ST modifier of"
+v:"给予武器最小ST修正："
+
+k:"Gives a weapon non-chamber shots modifier of"
+v:"给予武器非膛内装弹数修正："
+
+k:"Gives a weapon parry modifier of"
+v:"给予武器招架修正："
+
+k:"Gives a weapon recoil modifier of"
+v:"给予武器后坐力修正："
+
+k:"Gives a weapon reload time modifier of"
+v:"给予武器装弹时间修正："
+
+k:"Gives a weapon scope accuracy modifier of"
+v:"给予武器瞄准镜准确度修正："
+
+k:"Gives a weapon secondary projectiles (mode 1) modifier of"
+v:"给予武器次要弹头（模式 1）修正："
+
+k:"Gives a weapon secondary projectiles (mode 2) modifier of"
+v:"给予武器次要弹头（模式 2）修正："
+
+k:"Gives a weapon shot duration modifier of"
+v:"给予武器射击持续时间修正："
+
+k:"Gives a weapon shots per attack (mode 1) modifier of"
+v:"给予武器单次攻击射击数（模式 1）修正："
+
+k:"Gives a weapon shots per attack (mode 2) modifier of"
+v:"给予武器单次攻击射击数（模式 2）修正："
+
+k:"Gives an attribute modifier of"
+v:"给予属性修正："
+
+k:"Go to first page"
+v:"转到第一页"
+
+k:"Go to last page"
+v:"转到最后一页"
+
+k:"Go to next page"
+v:"转到下一页"
+
+k:"Go to previous page"
+v:"转到上一页"
+
+k:"Green"
+v:"绿色"
+
+k:"Group"
+v:"分组"
+
+k:"Group containers when sorting"
+v:"排序时将容器分组"
+
+k:"GURPS Character Sheet is an interactive character sheet editor for the GURPS Fourth Edition roleplaying game."
+v:"GURPS Character Sheet 是一个用于 GURPS 第四版角色扮演游戏的交互式角色卡编辑器。"
+
+k:"Hair"
+v:"发色"
+
+k:"half-damage range"
+v:"半伤害射程"
+
+k:"Halve Dodge"
+v:"闪避减半"
+
+k:"Halve Dodge (round up)"
+v:"闪避减半（向上取整）"
+
+k:"Halve Move"
+v:"移动力减半"
+
+k:"Halve Move (round up)"
+v:"移动力减半（向上取整）"
+
+k:"Halve Strength"
+v:"ST减半"
+
+k:"Halve Strength (round up; does not affect HP and damage)"
+v:"ST减半（向上取整；不影响 HP 和伤害）"
+
+k:"Hand"
+v:"手"
+
+k:"Hard-Light"
+v:"硬光"
+
+k:"Has"
+v:"拥有"
+
+k:"has"
+v:"拥有"
+
+k:"Has Bipod"
+v:"有两脚架"
+
+k:"Has bipod"
+v:"有两脚架"
+
+k:"has equipped equipment"
+v:"拥有已穿戴装备"
+
+k:"has script"
+v:"拥有脚本"
+
+k:"Heavy"
+v:"重载"
+
+k:"Height"
+v:"身高"
+
+k:"Help"
+v:"帮助"
+
+k:"Hidden"
+v:"隐藏"
+
+k:"Hide"
+v:"隐藏"
+
+k:"Hide %s"
+v:"隐藏 %s"
+
+k:"Hide Others"
+v:"隐藏其他"
+
+k:"High Jump:"
+v:"跳高："
+
+k:"High-cyclic Controlled Bursts"
+v:"高循环受控点射"
+
+k:"High-cyclic Controlled Bursts (Mode 1)"
+v:"高循环受控点射（模式 1）"
+
+k:"High-cyclic Controlled Bursts (Mode 2)"
+v:"高循环受控点射（模式 2）"
+
+k:"Hiking"
+v:"远足"
+
+k:"Hiking Extra Effort Penalty"
+v:"远足额外努力惩罚"
+
+k:"Hills, Rolling"
+v:"起伏丘陵"
+
+k:"Hills, Steep"
+v:"陡峭丘陵"
+
+k:"Hinted-Fill"
+v:"提示填充"
+
+k:"Hit Location Drag"
+v:"命中部位拖拽"
+
+k:"Hit Penalty"
+v:"命中惩罚"
+
+k:"Home"
+v:"主页"
+
+k:"Hours of Study"
+v:"学习小时数"
+
+k:"Hours Spent"
+v:"花费小时数"
+
+k:"Hue"
+v:"色调"
+
+k:"i: Reload time is per shot"
+v:"i：装弹时间是按单发计算的"
+
+k:"ID"
+v:"ID"
+
+k:"ID: "
+v:"ID: "
+
+k:"Identity"
+v:"身份"
+
+k:"If your PDF is opening up to the wrong page when opening page references, enter an offset here to compensate."
+v:"如果打开页面引用时 PDF 打开的页码不正确，请在此输入偏移量进行补偿。"
+
+k:"Ignore weight for skills"
+v:"计算技能时忽略重量"
+
+k:"Image Export Resolution"
+v:"图像导出分辨率"
+
+k:"Images"
+v:"图像"
+
+k:"Import"
+v:"导入"
+
+k:"Important"
+v:"重要"
+
+k:"Import…"
+v:"导入…"
+
+k:"In Chamber"
+v:"膛内"
+
+k:"Includes a Major Cost of Living Increase and Merchant Skill Penalty"
+v:"包括大幅生活费增加和商人技能惩罚"
+
+k:"Includes a Minor Cost of Living Increase"
+v:"包括小幅生活费增加"
+
+k:"Includes a Reaction Penalty"
+v:"包括反应惩罚"
+
+k:"Includes an Action Penalty even on Success"
+v:"即使成功也包括动作惩罚"
+
+k:"Includes Fright Check Bonus"
+v:"包括惊吓检定加成"
+
+k:"Includes Fright Check Penalty"
+v:"包括惊吓检定惩罚"
+
+k:"Includes modifiers from"
+v:"包括修正来源自"
+
+k:"Includes modifiers from:"
+v:"包括修正来源自："
+
+k:"Increase Equipment Level"
+v:"增加装备等级"
+
+k:"Increase Skill Level"
+v:"增加技能等级"
+
+k:"Increase Tech Level"
+v:"增加技术等级"
+
+k:"Increase Uses"
+v:"增加使用次数"
+
+k:"Increment"
+v:"增量"
+
+k:"Increment Level"
+v:"增加等级"
+
+k:"Increment Points"
+v:"增加点数"
+
+k:"Increment Quantity"
+v:"增加数量"
+
+k:"Indicates whether the data matches the source library it came from"
+v:"指示数据是否与其来源库匹配"
+
+k:"Initial click on text field selects all"
+v:"初次点击文本框时全选"
+
+k:"Initial Editor Scale"
+v:"初始编辑器缩放"
+
+k:"Initial Image Scale"
+v:"初始图像缩放"
+
+k:"Initial List Scale"
+v:"初始列表缩放"
+
+k:"Initial Markdown Scale"
+v:"初始 Markdown 缩放"
+
+k:"Initial PDF Scale"
+v:"初始 PDF 缩放"
+
+k:"Initial Points"
+v:"初始点数"
+
+k:"Initial points"
+v:"初始点数"
+
+k:"Initial Sheet Scale"
+v:"初始卡面缩放"
+
+k:"Inline"
+v:"行内"
+
+k:"Inline & Tooltip"
+v:"行内与工具提示"
+
+k:"Inner"
+v:"内部"
+
+k:"Insert"
+v:"插入"
+
+k:"Insert %s"
+v:"插入 %s"
+
+k:"Integer"
+v:"整数"
+
+k:"Integer (Display Only)"
+v:"整数（仅显示）"
+
+k:"Intensive Training"
+v:"强化训练"
+
+k:"Interface Locale"
+v:"界面语言"
+
+k:"Intersect"
+v:"相交"
+
+k:"Invalid file data."
+v:"无效的文件数据。"
+
+k:"invalid path"
+v:"无效路径"
+
+k:"Invalid value"
+v:"无效值"
+
+k:"Inverse-Even-Odd"
+v:"反转奇偶"
+
+k:"Inverse-Winding"
+v:"反转绕数"
+
+k:"Inverted"
+v:"反转"
+
+k:"Invisible"
+v:"不可见"
+
+k:"iq sw"
+v:"基于IQ的挥舞"
+
+k:"iq thr"
+v:"基于IQ的戳击"
+
+k:"IQ-based Swing"
+v:"基于IQ的挥舞"
+
+k:"IQ-based Thrust"
+v:"基于IQ的戳击"
+
+k:"is"
+v:"是"
+
+k:"is anything"
+v:"是任何值"
+
+k:"is at least"
+v:"至少为"
+
+k:"is at most"
+v:"至多为"
+
+k:"is not"
+v:"不是"
+
+k:"Italic"
+v:"斜体"
+
+k:"Item"
+v:"物品"
+
+k:"Jet"
+v:"喷射"
+
+k:"JPEG"
+v:"JPEG"
+
+k:"Jump Running Start"
+v:"助跑跳跃"
+
+k:"Jump to Search/Filter Field"
+v:"跳转到搜索/过滤栏"
+
+k:"Jumping"
+v:"跳跃"
+
+k:"Jumping Extra Effort Penalty"
+v:"跳跃额外努力惩罚"
+
+k:"Jungle"
+v:"丛林"
+
+k:"Keyboard"
+v:"键盘"
+
+k:"Kick"
+v:"踢"
+
+k:"kilometer"
+v:"千米"
+
+k:"kilometers"
+v:"千米"
+
+k:"Knowing Your Own Strength"
+v:"了解自身力量 (KYOS)"
+
+k:"Label"
+v:"标签"
+
+k:"Landscape"
+v:"横向"
+
+k:"Large"
+v:"大型"
+
+k:"Last Page"
+v:"最后一页"
+
+k:"Latest commit from repository. No release notes available. No data version compatibility guarantees."
+v:"来自仓库的最新提交。无可用发行说明。不保证数据版本兼容性。"
+
+k:"LC"
+v:"LC"
+
+k:"LC0: Banned"
+v:"LC0：禁止"
+
+k:"LC0: Banned"
+k:"LC1: Military"
+k:"LC2: Restricted"
+k:"LC3: Licensed"
+k:"LC4: Open"
+v:"LC0：禁止"
+v:"LC1：军用"
+v:"LC2：限制"
+v:"LC3：得到许可方能使用"
+v:"LC4：开放"
+
+k:"LC1: Military"
+v:"LC1：军用"
+
+k:"LC2: Restricted"
+v:"LC2：限制"
+
+k:"LC3: Licensed"
+v:"LC3：得到许可方能使用"
+
+k:"LC4: Open"
+v:"LC4：开放"
+
+k:"Leave field blank to auto-populate with the character's TL when added to a character sheet."
+v:"留空则在添加到角色卡时自动填充为角色的TL。"
+
+k:"Leave the GitHub Account blank for local directories not on GitHub"
+v:"对于不在 GitHub 上的本地目录，请将 GitHub 账号留空"
+
+k:"Left"
+v:"左"
+
+k:"Left Margin"
+v:"左页边距"
+
+k:"Left-Command"
+v:"Left-Command"
+
+k:"Left-Control"
+v:"Left-Control"
+
+k:"Left-Option"
+v:"Left-Option"
+
+k:"Left-Shift"
+v:"Left-Shift"
+
+k:"Legality Class"
+v:"合法等级"
+
+k:"Length Units"
+v:"长度单位"
+
+k:"Level"
+v:"等级"
+
+k:"Level can be used with features and modifiers that have per-level effects"
+v:"等级可用于具有每等级效果的特性和修正"
+
+k:"Level Qualifier"
+v:"等级限定符"
+
+k:"Leveled"
+v:"等级化"
+
+k:"Leveled Damage Modifier"
+v:"等级化伤害修正"
+
+k:"Levels"
+v:"等级"
+
+k:"Libraries"
+v:"库"
+
+k:"Library Explorer"
+v:"库浏览器"
+
+k:"Library Explorer Deep Search"
+v:"库浏览器深度搜索"
+
+k:"Library Settings: %s"
+v:"库设置：%s"
+
+k:"Library: "
+v:"库："
+
+k:"License"
+v:"许可证"
+
+k:"License: %s"
+v:"许可证：%s"
+
+k:"Lifting & Moving Things"
+v:"举重与搬运"
+
+k:"lifting sw"
+v:"举重挥舞"
+
+k:"Lifting Swing"
+v:"举重挥舞"
+
+k:"lifting thr"
+v:"举重戳击"
+
+k:"Lifting Thrust"
+v:"举重戳击"
+
+k:"Light"
+v:"轻载"
+
+k:"Light Mode Color"
+v:"亮色模式颜色"
+
+k:"Lighten"
+v:"变亮"
+
+k:"Lightness"
+v:"亮度"
+
+k:"Limit"
+v:"限制"
+
+k:"Linear"
+v:"线性"
+
+k:"Lines"
+v:"行"
+
+k:"link"
+v:"链接"
+
+k:"Load Attributes"
+v:"加载属性"
+
+k:"Load Body Type"
+v:"加载体型"
+
+k:"Location"
+v:"部位/位置"
+
+k:"Log Path"
+v:"日志路径"
+
+k:"Loot"
+v:"战利品"
+
+k:"Loot Sheets"
+v:"战利品表"
+
+k:"Luminosity"
+v:"发光度"
+
+k:"M: Mounted. Ignore listed ST and Bulk when firing from its mount. Takes at least 3 Ready maneuvers to unmount or remount the weapon."
+v:"M：架设武器。从架座上射击时忽略所列的ST要求和笨重。拆卸或重新架设武器至少需要 3 次准备动作。"
+
+k:"Made a successful Hiking (B200) roll"
+v:"远足 (B200) 检定成功"
+
+k:"Made a successful Skating (B220) roll"
+v:"溜冰 (B220) 检定成功"
+
+k:"Made a successful Skiing (B221) roll"
+v:"滑雪 (B221) 检定成功"
+
+k:"Mailing Lists"
+v:"邮件列表"
+
+k:"Maintain"
+v:"维持"
+
+k:"Maintenance Cost"
+v:"维护费用"
+
+k:"Make a One-time Donation for %s Development"
+v:"为 %s 的开发进行一次性捐赠"
+
+k:"Markdown"
+v:"Markdown"
+
+k:"Markdown Guide"
+v:"Markdown 指南"
+
+k:"Markdown Preview"
+v:"Markdown 预览"
+
+k:"Markov Letter"
+v:"马尔可夫字母"
+
+k:"Markov Run"
+v:"马尔可夫运行"
+
+k:"Master Library"
+v:"主库"
+
+k:"Max Auto Column Width"
+v:"最大自动列宽"
+
+k:"Max Execution Time"
+v:"最大执行时间"
+
+k:"Max Load"
+v:"最大负重"
+
+k:"Maximize"
+v:"最大化"
+
+k:"Maximum of 4 hours per day with a full-time job"
+v:"全职工作下每天最多 4 小时"
+
+k:"Maximum of 4 hours per day with a part-time job"
+v:"兼职工作下每天最多 4 小时"
+
+k:"Maximum of 8 hours per day"
+v:"每天最多 8 小时"
+
+k:"Maximum of 8 hours per day with a full-time job"
+v:"全职工作下每天最多 8 小时"
+
+k:"Maximum of 8 hours per day with a part-time job"
+v:"兼职工作下每天最多 8 小时"
+
+k:"Maximum of 12 hours per day with no job"
+v:"无工作下每天最多 12 小时"
+
+k:"Maximum of 16 hours per day"
+v:"每天最多 16 小时"
+
+k:"Maximum Range"
+v:"最大射程"
+
+k:"maximum range"
+v:"最大射程"
+
+k:"Maximum Reach"
+v:"最大触及"
+
+k:"maximum reach"
+v:"最大触及"
+
+k:"Maximum Uses"
+v:"最大使用次数"
+
+k:"Maximum Value"
+v:"最大值"
+
+k:"md"
+v:"md"
+
+k:"Media"
+v:"媒体"
+
+k:"Medium"
+v:"中载"
+
+k:"Melee Weapon"
+v:"近战武器"
+
+k:"Melee Weapon Usage"
+v:"近战武器用法"
+
+k:"Melee Weapons"
+v:"近战武器"
+
+k:"Mental"
+v:"心理"
+
+k:"Menu"
+v:"菜单"
+
+k:"Menu Keys"
+v:"菜单键"
+
+k:"Menu Keys…"
+v:"菜单键…"
+
+k:"Merge the checked attribute definitions into the existing ones"
+v:"将勾选的属性定义合并到现有定义中"
+
+k:"Meta"
+v:"Meta"
+
+k:"Meta-Trait"
+v:"超特质"
+
+k:"meter"
+v:"米"
+
+k:"Middle"
+v:"中间"
+
+k:"mile"
+v:"英里"
+
+k:"miles"
+v:"英里"
+
+k:"Minimize"
+v:"最小化"
+
+k:"Minimum"
+v:"最小"
+
+k:"Minimum Range"
+v:"最小射程"
+
+k:"minimum range"
+v:"最小射程"
+
+k:"Minimum Reach"
+v:"最小触及"
+
+k:"minimum reach"
+v:"最小触及"
+
+k:"Minimum ST"
+v:"最小ST"
+
+k:"minimum ST"
+v:"最小ST"
+
+k:"Minimum Strength"
+v:"最小ST"
+
+k:"Mirror"
+v:"镜像"
+
+k:"Miscellaneous"
+v:"杂项"
+
+k:"Miter"
+v:"斜接"
+
+k:"Mixed"
+v:"混合"
+
+k:"Mode %d"
+v:"模式 %d"
+
+k:"Modified"
+v:"已修改"
+
+k:"Modified %s"
+v:"已修改 %s"
+
+k:"Modifier"
+v:"修正"
+
+k:"Modifiers"
+v:"修正"
+
+k:"Modulate"
+v:"调制"
+
+k:"Monitor Resolution"
+v:"显示器分辨率"
+
+k:"Monospaced"
+v:"等宽字体"
+
+k:"Morph"
+v:"变形"
+
+k:"Mountains"
+v:"山脉"
+
+k:"Mounted"
+v:"架设"
+
+k:"Move"
+v:"移动"
+
+k:"Move Equipment"
+v:"移动装备"
+
+k:"Move to Carried Equipment"
+v:"移动到携带装备"
+
+k:"Move to Other Equipment"
+v:"移动到其他装备"
+
+k:"Mud"
+v:"泥泞"
+
+k:"Multiple"
+v:"倍数"
+
+k:"Multiply"
+v:"相乘"
+
+k:"Multiply ST used for sw or thr damage calculation by"
+v:"将用于挥舞或戳击伤害计算的ST乘以"
+
+k:"Muscle Powered"
+v:"肌肉驱动"
+
+k:"Muscle-powered"
+v:"肌肉驱动"
+
+k:"Must be assigned to a college"
+v:"必须分配到一个法术系"
+
+k:"Name"
+v:"名称"
+
+k:"Name Qualifier"
+v:"名称限定符"
+
+k:"Names Only"
+v:"仅名称"
+
+k:"Natural Attacks"
+v:"天生攻击"
+
+k:"Nearest"
+v:"最近"
+
+k:"need both hands and feet free and must speak"
+v:"需要手脚自由且必须能够说话"
+
+k:"Never resist"
+v:"从不抵抗"
+
+k:"New Carried Equipment"
+v:"新建携带装备"
+
+k:"New Carried Equipment Container"
+v:"新建携带装备容器"
+
+k:"New Character Sheet"
+v:"新建角色卡"
+
+k:"New Character Sheet from Template"
+v:"从模板新建角色卡"
+
+k:"New Character Template"
+v:"新建角色模板"
+
+k:"New Equipment Library"
+v:"新建装备库"
+
+k:"New Equipment Modifier"
+v:"新建装备修正"
+
+k:"New Equipment Modifier Container"
+v:"新建装备修正容器"
+
+k:"New Equipment Modifiers Library"
+v:"新建装备修正库"
+
+k:"New Folder"
+v:"新建文件夹"
+
+k:"New Loot Sheet"
+v:"新建战利品表"
+
+k:"New Markdown File"
+v:"新建 Markdown 文件"
+
+k:"New Melee Weapon"
+v:"新建近战武器"
+
+k:"New Name"
+v:"新名称"
+
+k:"New Note"
+v:"新建笔记"
+
+k:"New Note Container"
+v:"新建笔记容器"
+
+k:"New Notes Library"
+v:"新建笔记库"
+
+k:"New Other Equipment"
+v:"新建其他装备"
+
+k:"New Other Equipment Container"
+v:"新建其他装备容器"
+
+k:"New Ranged Weapon"
+v:"新建远程武器"
+
+k:"New Ritual Magic Spell"
+v:"新建仪式魔法法术"
+
+k:"New Skill"
+v:"新建技能"
+
+k:"New Skill Container"
+v:"新建技能容器"
+
+k:"New Skills Library"
+v:"新建技能库"
+
+k:"New Spell"
+v:"新建法术"
+
+k:"New Spell Container"
+v:"新建法术容器"
+
+k:"New Spells Library"
+v:"新建法术库"
+
+k:"New Technique"
+v:"新建技法"
+
+k:"New Trait"
+v:"新建特质"
+
+k:"New Trait Container"
+v:"新建特质容器"
+
+k:"New Trait Modifier"
+v:"新建特质修正"
+
+k:"New Trait Modifier Container"
+v:"新建特质修正容器"
+
+k:"New Trait Modifiers Library"
+v:"新建特质修正库"
+
+k:"New Traits Library"
+v:"新建特质库"
+
+k:"Next Match"
+v:"下一个匹配项"
+
+k:"Next Page"
+v:"下一页"
+
+k:"No"
+v:"否"
+
+k:"No %s updates are available"
+v:"没有可用的 %s 更新"
+
+k:"No additional modifiers"
+v:"无额外修正"
+
+k:"No Auto-Scaling"
+v:"不自动缩放"
+
+k:"No CR"
+v:"无自控检定"
+
+k:"No export templates available"
+v:"无可用导出模板"
+
+k:"No files to process."
+v:"没有要处理的文件。"
+
+k:"No FR"
+v:"无频率检定"
+
+k:"No other character sheets are open!"
+v:"没有其他已打开的角色卡！"
+
+k:"No recent files available"
+v:"没有最近的文件"
+
+k:"No School Grognard Damage"
+v:"No School Grognard伤害"
+
+k:"non-chamber shots"
+v:"非膛内装弹数"
+
+k:"Non-Leveled Damage Modifier"
+v:"非等级化伤害修正"
+
+k:"None"
+v:"无"
+
+k:"none"
+v:"无"
+
+k:"None required"
+v:"无需"
+
+k:"Normal"
+v:"正常"
+
+k:"Normal Bulk"
+v:"正常笨重"
+
+k:"not"
+v:"不"
+
+k:"Not Applicable"
+v:"不适用"
+
+k:"not carried"
+v:"未携带"
+
+k:"not equipped"
+v:"未穿戴"
+
+k:"Not Found"
+v:"未找到"
+
+k:"Not Shown"
+v:"未显示"
+
+k:"Note"
+v:"笔记"
+
+k:"Note Container"
+v:"笔记容器"
+
+k:"Note: This action cannot be undone and will remove %s from disk."
+v:"注意：此操作无法撤销，并将从磁盘中删除 %s。"
+
+k:"Note: This action will NOT remove any files from disk."
+v:"注意：此操作不会从磁盘中删除任何文件。"
+
+k:"Notes"
+v:"笔记"
+
+k:"Notes for the **%s** hit location"
+v:"关于 **%s** 命中部位的笔记"
+
+k:"Notes for the hit location"
+v:"关于命中部位的笔记"
+
+k:"Notes Qualifier"
+v:"笔记限定符"
+
+k:"Number of matches found"
+v:"找到的匹配项数量"
+
+k:"NumLock"
+v:"NumLock"
+
+k:"NumPad-0"
+v:"数字键盘-0"
+
+k:"NumPad-1"
+v:"数字键盘-1"
+
+k:"NumPad-2"
+v:"数字键盘-2"
+
+k:"NumPad-3"
+v:"数字键盘-3"
+
+k:"NumPad-4"
+v:"数字键盘-4"
+
+k:"NumPad-5"
+v:"数字键盘-5"
+
+k:"NumPad-6"
+v:"数字键盘-6"
+
+k:"NumPad-7"
+v:"数字键盘-7"
+
+k:"NumPad-8"
+v:"数字键盘-8"
+
+k:"NumPad-9"
+v:"数字键盘-9"
+
+k:"NumPad-Add"
+v:"数字键盘-加"
+
+k:"NumPad-Decimal"
+v:"数字键盘-点"
+
+k:"NumPad-Divide"
+v:"数字键盘-除"
+
+k:"NumPad-Enter"
+v:"数字键盘-回车"
+
+k:"NumPad-Equal"
+v:"数字键盘-等号"
+
+k:"NumPad-Minus"
+v:"数字键盘-减"
+
+k:"NumPad-Multiply"
+v:"数字键盘-乘"
+
+k:"object"
+v:"对象"
+
+k:"Object Weight"
+v:"物品重量"
+
+k:"Oblique"
+v:"斜体"
+
+k:"of"
+v:"/"
+
+k:"of %d"
+v:"/ %d"
+
+k:"of any kind"
+v:"任何种类"
+
+k:"Off"
+v:"关"
+
+k:"OK"
+v:"确定"
+
+k:"On"
+v:"开"
+
+k:"On-the-Job Training"
+v:"在职培训"
+
+k:"Once configured, GitHub repositories will be scanned for release tags in the form \"v%d.x.y\" through \"v%d.x.y\", where x and y can be any numeric value"
+v:"配置完成后，将扫描 GitHub 仓库中形式为 \"v%d.x.y\" 到 \"v%d.x.y\" 的发布标签，其中 x 和 y 可以是任何数值"
+
+k:"One-Handed Lift"
+v:"单手举起"
+
+k:"One-Sided"
+v:"单面"
+
+k:"Open"
+v:"打开"
+
+k:"Open Detail Editor"
+v:"打开详情编辑器"
+
+k:"Open Each Page Reference"
+v:"打开每个页面引用"
+
+k:"Open one or more other character sheets first."
+v:"请先打开一个或多个其他角色卡。"
+
+k:"Open Page Reference"
+v:"打开页面引用"
+
+k:"Opening the link failed"
+v:"打开链接失败"
+
+k:"Opens/closes all embedded notes"
+v:"打开/关闭所有嵌入笔记"
+
+k:"Opens/closes all hierarchical rows"
+v:"打开/关闭所有分级行"
+
+k:"Open…"
+v:"打开…"
+
+k:"Optimize For"
+v:"优化目标"
+
+k:"Options:"
+v:"选项："
+
+k:"or"
+v:"或"
+
+k:"Organization"
+v:"组织"
+
+k:"Orientation"
+v:"方向"
+
+k:"Original"
+v:"原始"
+
+k:"Other Equipment"
+v:"其他装备"
+
+k:"Outer"
+v:"外部"
+
+k:"Overlay"
+v:"叠加"
+
+k:"Override"
+v:"覆盖"
+
+k:"Overspent"
+v:"超支"
+
+k:"P#"
+v:"页码#"
+
+k:"Page"
+v:"页"
+
+k:"Page %d of %d"
+v:"第 %d 页，共 %d 页"
+
+k:"Page Highlight"
+v:"页面高亮"
+
+k:"Page Offset"
+v:"页面偏移"
+
+k:"Page Primary Fields"
+v:"页面主要字段"
+
+k:"Page Primary Footer"
+v:"页面主要页脚"
+
+k:"Page Primary Labels"
+v:"页面主要标签"
+
+k:"Page Ranges"
+v:"页码范围"
+
+k:"Page Ref"
+v:"页面引用"
+
+k:"Page Reference"
+v:"页面引用"
+
+k:"Page Reference Mappings"
+v:"页面引用映射"
+
+k:"Page Reference Mappings…"
+v:"页面引用映射…"
+
+k:"Page Search"
+v:"页面搜索"
+
+k:"Page Secondary Fields"
+v:"页面次要字段"
+
+k:"Page Secondary Footer"
+v:"页面次要页脚"
+
+k:"Page Secondary Labels"
+v:"页面次要标签"
+
+k:"Page Settings"
+v:"页面设置"
+
+k:"PageDown"
+v:"PageDown"
+
+k:"PageUp"
+v:"PageUp"
+
+k:"Paper Size"
+v:"纸张大小"
+
+k:"Parry"
+v:"招架"
+
+k:"parry"
+v:"招架"
+
+k:"Parry Modifier"
+v:"招架修正"
+
+k:"Paste"
+v:"粘贴"
+
+k:"Path"
+v:"路径"
+
+k:"Path: "
+v:"路径："
+
+k:"Pause"
+v:"暂停"
+
+k:"PDF"
+v:"PDF"
+
+k:"PDFs"
+v:"PDF"
+
+k:"penalty for extra effort"
+v:"额外努力的减值"
+
+k:"penalty for extra effort."
+v:"额外努力的减值。"
+
+k:"per attack with"
+v:"每次攻击使用"
+
+k:"per die"
+v:"每骰"
+
+k:"Per Level"
+v:"每等级"
+
+k:"per level"
+v:"每等级"
+
+k:"Per Pound"
+v:"每磅"
+
+k:"Per Shot"
+v:"每发"
+
+k:"Phoenix Flame D3"
+v:"Phoenix Flame D3"
+
+k:"Physical"
+v:"生理"
+
+k:"Pick %s"
+v:"选择 %s"
+
+k:"Pick %s %s worth"
+v:"选择价值 %s %s 的内容"
+
+k:"Placement"
+v:"位置"
+
+k:"Plains, Level"
+v:"平原，平坦"
+
+k:"Player"
+v:"玩家"
+
+k:"Plus"
+v:"加"
+
+k:"PNG"
+v:"PNG"
+
+k:"point"
+v:"点"
+
+k:"Point Cost"
+v:"点数花费"
+
+k:"Point Pool Current"
+v:"点数池当前值"
+
+k:"Point Pool Maximum"
+v:"点数池最大值"
+
+k:"Point Pools"
+v:"点数池"
+
+k:"Point Record Changes"
+v:"点数记录变更"
+
+k:"Points"
+v:"点数"
+
+k:"points"
+v:"点数"
+
+k:"Points earned but not yet spent"
+v:"已获得但尚未花费的点数"
+
+k:"Points Record for %s"
+v:"%s 的点数记录"
+
+k:"Points spent on %s"
+v:"花费在 %s 上的点数"
+
+k:"Polygon"
+v:"多边形"
+
+k:"Pool"
+v:"池"
+
+k:"Pool (Display Only for Maximum)"
+v:"池（仅显示最大值）"
+
+k:"Pool Separator"
+v:"池分隔符"
+
+k:"Pool Threshold Drag"
+v:"池阈值拖动"
+
+k:"Portrait"
+v:"纵向"
+
+k:"Power Source"
+v:"力量来源"
+
+k:"ppi"
+v:"ppi"
+
+k:"ppi (A value of 0 will cause the ppi reported by your monitor to be used)"
+v:"ppi（值为 0 将使用监视器报告的 ppi）"
+
+k:"Preferences…"
+v:"首选项…"
+
+k:"Prereq Script"
+v:"前提脚本"
+
+k:"Prerequisite Count"
+v:"前提数量"
+
+k:"Prerequisites"
+v:"前提条件"
+
+k:"Prerequisites have not been met:"
+v:"未满足前提条件："
+
+k:"Press RETURN to select the next match"
+k:"Press SHIFT-RETURN to select the previous match"
+v:"按回车键选择下一个匹配项"
+v:"按 SHIFT-回车键选择上一个匹配项"
+
+k:"Preview"
+v:"预览"
+
+k:"Previous Match"
+v:"上一个匹配项"
+
+k:"Previous Page"
+v:"上一页"
+
+k:"Primary"
+v:"主要"
+
+k:"Primary Attributes"
+v:"主要属性"
+
+k:"Primary Separator"
+v:"主要分隔符"
+
+k:"Print"
+v:"打印"
+
+k:"Printing '%s' failed"
+v:"打印“%s”失败"
+
+k:"PrintScreen"
+v:"PrintScreen"
+
+k:"Print…"
+v:"打印…"
+
+k:"Processed 1 file"
+v:"已处理 1 个文件"
+
+k:"Processed %d files"
+k:""
+v:"已处理 %d 个文件"
+v:""
+
+k:"Processing %s"
+k:""
+v:"正在处理 %s"
+v:""
+
+k:"Professional Teacher"
+v:"专业教师"
+
+k:"projectile"
+v:"投射物"
+
+k:"projectiles"
+v:"投射物"
+
+k:"Provide substitutions:"
+v:"提供替代方案："
+
+k:"Pts"
+v:"点"
+
+k:"Punch"
+v:"打击"
+
+k:"Quantity"
+v:"数量"
+
+k:"Quantity Criteria"
+v:"数量标准"
+
+k:"Quirks"
+v:"Quirks"
+
+k:"Quit"
+v:"退出"
+
+k:"Quite often"
+v:"经常"
+
+k:"Quite rarely"
+v:"极少"
+
+k:"R: Uses a Musket Rest. Any aimed shot fired while stationary and standing up is automatically braced (add +1 to Accuracy)."
+v:"R：使用滑膛枪支架。任何固定且处于站立姿态的经过瞄准的射击都将自动视为支撑的（Acc +1）。"
+
+k:"Rain"
+v:"雨"
+
+k:"Randomize the age using the current ancestry"
+v:"根据当前种族随机生成年龄"
+
+k:"Randomize the birthday using the current calendar"
+v:"根据当前日历随机生成生日"
+
+k:"Randomize the eyes using the current ancestry"
+v:"根据当前种族随机生成瞳色"
+
+k:"Randomize the gender using the current ancestry"
+v:"根据当前种族随机生成性别"
+
+k:"Randomize the hair using the current ancestry"
+v:"根据当前种族随机生成发色"
+
+k:"Randomize the handedness using the current ancestry"
+v:"根据当前种族随机生成利手"
+
+k:"Randomize the height using the current ancestry"
+v:"根据当前种族随机生成身高"
+
+k:"Randomize the name using the current ancestry"
+v:"根据当前种族随机生成名称"
+
+k:"Randomize the skin using the current ancestry"
+v:"根据当前种族随机生成肤色"
+
+k:"Randomize the weight using the current ancestry"
+v:"根据当前种族随机生成体重"
+
+k:"Range"
+v:"射程"
+
+k:"Range In Miles"
+v:"射程（英里）"
+
+k:"Ranged Weapon"
+v:"远程武器"
+
+k:"Ranged Weapon Usage"
+v:"远程武器用途"
+
+k:"Ranged Weapons"
+v:"远程武器"
+
+k:"Ranges are in miles"
+v:"射程单位为英里"
+
+k:"Rate of Fire"
+v:"射速"
+
+k:"Rated ST"
+v:"额定ST"
+
+k:"Rated ST %s"
+v:"额定ST %s"
+
+k:"Reach"
+v:"触及"
+
+k:"Reach Change Requires Ready"
+v:"改变触及范围需要准备"
+
+k:"Reaction"
+v:"反应"
+
+k:"Reaction Modifier"
+v:"反应修正"
+
+k:"Reaction Modifiers"
+v:"反应修正"
+
+k:"Readable Files (%s)"
+v:"可读文件 (%s)"
+
+k:"Reason"
+v:"原因"
+
+k:"Recent Files"
+v:"最近使用的文件"
+
+k:"Recoil"
+v:"后坐力（Rcl）"
+
+k:"recoil"
+v:"后坐力（Rcl）"
+
+k:"Reconciliation"
+v:"对账"
+
+k:"Red"
+v:"红色"
+
+k:"Redo %s"
+v:"重做 %s"
+
+k:"Reduces the attribute cost of"
+v:"减少该属性的点数消耗："
+
+k:"Reduces the contained weight by"
+v:"减少所含物品重量："
+
+k:"reduces the ST requirement to %v and "
+v:"将ST需求降低至 %v 并且 "
+
+k:"Reduction for Talent level 1"
+v:"天赋等级 1 的减免"
+
+k:"Reduction for Talent level 2"
+v:"天赋等级 2 的减免"
+
+k:"Reduction for Talent level 3"
+v:"天赋等级 3 的减免"
+
+k:"Reduction for Talent level 4"
+v:"天赋等级 4 的减免"
+
+k:"Regular"
+v:"常规"
+
+k:"Relative Skill Level"
+v:"相对技能等级"
+
+k:"Release Notes"
+v:"发布说明"
+
+k:"Religion"
+v:"宗教"
+
+k:"Reload Time"
+v:"装填时间"
+
+k:"reload time"
+v:"装填时间"
+
+k:"Reload Time Is Per Shot"
+v:"装填时间为每发时长"
+
+k:"Remove attribute"
+v:"移除属性"
+
+k:"Remove Entry"
+v:"移除条目"
+
+k:"Remove existing attribute definitions, replacing them with all of these"
+v:"移除现有的属性定义，并用这些全部替换"
+
+k:"Remove Hit Location"
+v:"移除命中部位"
+
+k:"Remove hit location"
+v:"移除命中部位"
+
+k:"Remove pool threshold"
+v:"移除池阈值"
+
+k:"Remove Sub-Table"
+v:"移除子表"
+
+k:"Remove sub-table"
+v:"移除子表"
+
+k:"Rename"
+v:"重命名"
+
+k:"Rendering page %d…"
+v:"正在渲染第 %d 页…"
+
+k:"Repeat"
+v:"重复"
+
+k:"Repository"
+v:"仓库"
+
+k:"Required"
+v:"需求"
+
+k:"Requires a skill named "
+v:"需要技能："
+
+k:"Requires all of:"
+v:"需要满足全部："
+
+k:"requires all of:"
+v:"需要满足全部："
+
+k:"Requires at least 1 point in the skill named "
+v:"需要在该技能中投入至少 1 点："
+
+k:"Requires at least one of:"
+v:"需要满足至少一项："
+
+k:"requires at least one of:"
+v:"需要满足至少一项："
+
+k:"Reset"
+v:"重置"
+
+k:"Reset Attributes"
+v:"重置属性"
+
+k:"Reset Body Type"
+v:"重置体型"
+
+k:"Resist"
+v:"抵抗"
+
+k:"Resist almost all the time"
+v:"几乎总是抵抗得住"
+
+k:"Resist fairly often"
+v:"经常能抵抗得住"
+
+k:"Resist quite often"
+v:"相对能抵抗得住"
+
+k:"Resist rarely"
+v:"几乎无法抵抗得住"
+
+k:"Resistance"
+v:"抗性"
+
+k:"Restore"
+v:"还原"
+
+k:"Restore workspace arrangement on start"
+v:"启动时还原工作区布局"
+
+k:"Retracting Stock"
+v:"伸缩枪托"
+
+k:"Return"
+v:"回车"
+
+k:"Reverse Landscape"
+v:"反向横向"
+
+k:"Reverse Portrait"
+v:"反向纵向"
+
+k:"Reverse-Difference"
+v:"反向差异"
+
+k:"Right"
+v:"右"
+
+k:"Right Margin"
+v:"右边距"
+
+k:"Right-Command"
+v:"Right-Command"
+
+k:"Right-Control"
+v:"Right-Control"
+
+k:"Right-Option"
+v:"Right-Option"
+
+k:"Right-Shift"
+v:"Right-Shift"
+
+k:"Ritual"
+v:"仪式"
+
+k:"Ritual Magic Spell"
+v:"仪式魔法法术"
+
+k:"Road, Cobblestone"
+v:"道路，鹅卵石"
+
+k:"Road, Dirt"
+v:"道路，土路"
+
+k:"Road, Gravel"
+v:"道路，碎石"
+
+k:"Road, Paved"
+v:"道路，铺面"
+
+k:"Roads are cleared"
+v:"道路已清理"
+
+k:"RoF"
+v:"RoF"
+
+k:"Roll"
+v:"掷骰"
+
+k:"Rotate"
+v:"旋转"
+
+k:"Round"
+v:"舍入"
+
+k:"Round Down"
+v:"向下取整"
+
+k:"RSL"
+v:"相对等级"
+
+k:"Running Shove & Knock Over"
+v:"助跑推撞"
+
+k:"Sand"
+v:"沙地"
+
+k:"Sand, Hard-packed"
+v:"沙地，硬实"
+
+k:"Saturation"
+v:"饱和度"
+
+k:"Save"
+v:"保存"
+
+k:"Save As…"
+v:"另存为…"
+
+k:"Save changes made to"
+k:"%s?"
+v:"是否保存对以下内容的更改："
+v:"%s？"
+
+k:"Save…"
+v:"保存…"
+
+k:"Scale"
+v:"比例"
+
+k:"Scale Down"
+v:"缩小"
+
+k:"Scale Up"
+v:"放大"
+
+k:"Scaling"
+v:"缩放"
+
+k:"Scope"
+v:"瞄准镜"
+
+k:"Scope Accuracy"
+v:"瞄准镜精确度"
+
+k:"scope accuracy"
+v:"瞄准镜精确度"
+
+k:"Screen"
+v:"屏幕"
+
+k:"Scripting Guide"
+v:"脚本指南"
+
+k:"Scroll Wheel Multiplier"
+v:"滚轮倍率"
+
+k:"ScrollLock"
+v:"ScrollLock"
+
+k:"Search"
+v:"搜索"
+
+k:"Searching for printers…"
+v:"正在搜索打印机…"
+
+k:"Secondary"
+v:"次要"
+
+k:"Secondary Attributes"
+v:"次要属性"
+
+k:"Secondary Fields"
+v:"次要字段"
+
+k:"Secondary Projectiles"
+v:"次要投射物"
+
+k:"secondary projectiles"
+v:"次要投射物"
+
+k:"Secondary Separator"
+v:"次要分隔符"
+
+k:"seconds"
+v:"秒"
+
+k:"seconds per script"
+v:"每脚本秒数"
+
+k:"Select All"
+v:"全选"
+
+k:"Select Image…"
+v:"选择图片…"
+
+k:"Select Modifiers for:"
+v:"选择修正项："
+
+k:"Self-Control"
+v:"自控"
+
+k:"Self-Control Adjustment"
+v:"自控调整"
+
+k:"Self-Control Roll (CR): "
+v:"自控检定 (CR)："
+
+k:"Self-Taught"
+v:"自学"
+
+k:"Semi-Bold"
+v:"半粗体"
+
+k:"Semi-Condensed"
+v:"半浓缩体"
+
+k:"Semi-Expanded"
+v:"半扩展体"
+
+k:"Separate multiple %s with commas"
+v:"使用逗号分隔多个 %s"
+
+k:"Services"
+v:"服务"
+
+k:"Session"
+v:"章节"
+
+k:"Set"
+v:"设置"
+
+k:"Set Body Type to"
+v:"设置体型为"
+
+k:"Set Portrait"
+v:"设置肖像"
+
+k:"Set Substitutions"
+v:"设置替代"
+
+k:"Set the weapon flag"
+v:"设置武器标志"
+
+k:"Sets the width of each column to fit its contents"
+v:"设置每列宽度以适应内容"
+
+k:"Settings"
+v:"设置"
+
+k:"Settings Path"
+v:"设置路径"
+
+k:"Sheet Block Tints"
+v:"人物卡区块色调"
+
+k:"Sheet Settings"
+v:"人物卡设置"
+
+k:"Sheet Settings…"
+v:"人物卡设置…"
+
+k:"Shift Slightly"
+v:"轻微位移"
+
+k:"Shift-Click or %v-Click to select more than one"
+v:"Shift-点击或 %v-点击以选择多个"
+
+k:"Short Name"
+v:"简称"
+
+k:"shot"
+v:"发"
+
+k:"Shot Duration"
+v:"射击持续时间"
+
+k:"shot duration"
+v:"射击持续时间"
+
+k:"Shot Recoil"
+v:"射击后坐力"
+
+k:"Shots"
+v:"载弹量"
+
+k:"shots"
+v:"载弹量"
+
+k:"Shots Per Attack"
+v:"每次攻击弹数"
+
+k:"shots per attack"
+v:"每次攻击弹数"
+
+k:"Shove & Knock Over"
+v:"推撞"
+
+k:"Show All"
+v:"显示全部"
+
+k:"Show all weapons"
+v:"显示所有武器"
+
+k:"Show equipment modifier cost & weight adjustments"
+v:"显示装备修正的花费和重量调整"
+
+k:"Show IQ-based damage"
+v:"显示基于IQ的伤害"
+
+k:"Show legality class (LC) column"
+v:"显示合法等级 (LC) 列"
+
+k:"Show library source column"
+v:"显示库来源列"
+
+k:"Show Lifting ST-based damage"
+v:"显示基于举重ST的伤害"
+
+k:"Show on Disk"
+v:"在磁盘中显示"
+
+k:"Show page reference column"
+v:"显示页面引用列"
+
+k:"Show spell ritual, cost & time adjustments"
+v:"显示法术仪式、消耗和时间调整"
+
+k:"Show tech level (TL) column"
+v:"显示技术等级 (TL) 列"
+
+k:"Show the full version and exit"
+v:"显示完整版本并退出"
+
+k:"Show the short version and exit"
+v:"显示简短版本并退出"
+
+k:"Show the title instead of the name in the footer"
+v:"在页脚显示标题而非名称"
+
+k:"Show trait modifier cost adjustments"
+v:"显示特质修正的花费调整"
+
+k:"Sides"
+v:"面数"
+
+k:"Simple"
+v:"简单"
+
+k:"Size"
+v:"体型/尺寸"
+
+k:"Size Modifier"
+v:"体型修正 (SM)"
+
+k:"Skill"
+v:"技能"
+
+k:"Skill / Technique"
+v:"技能 / 技法"
+
+k:"Skill Container"
+v:"技能容器"
+
+k:"Skill Level"
+v:"技能等级"
+
+k:"Skill Level Adjustments"
+v:"技能等级调整"
+
+k:"Skill Name"
+v:"技能名称"
+
+k:"Skill Specialization"
+v:"技能专精"
+
+k:"Skills"
+v:"技能"
+
+k:"Skin"
+v:"皮肤"
+
+k:"SL"
+v:"等级"
+
+k:"Sleet"
+v:"雨夹雪"
+
+k:"Slots"
+v:"槽位"
+
+k:"Slug Recoil"
+v:"独头弹后坐力"
+
+k:"SM Reduction"
+v:"SM 减免"
+
+k:"Small"
+v:"小"
+
+k:"Snow"
+v:"雪"
+
+k:"Snow, Heavy"
+v:"大雪"
+
+k:"Social"
+v:"社会"
+
+k:"Soft-Light"
+v:"柔光"
+
+k:"Solid"
+v:"实线"
+
+k:"Source ID"
+v:"来源 ID"
+
+k:"Source Library"
+v:"来源库"
+
+k:"Source Path"
+v:"来源路径"
+
+k:"Space"
+v:"空格"
+
+k:"speak a word or two OR make a small gesture"
+v:"说一两个词或者做一个小手势"
+
+k:"speak quietly and make a gesture"
+v:"低声说话并做一个手势"
+
+k:"Specialization"
+v:"专精"
+
+k:"Specialization Qualifier"
+v:"专精限定"
+
+k:"Spell"
+v:"法术"
+
+k:"Spell Container"
+v:"法术容器"
+
+k:"Spell Qualifier"
+v:"法术限定"
+
+k:"spell(s)"
+v:"法术"
+
+k:"Spells"
+v:"法术"
+
+k:"Sponsor %s Development"
+v:"赞助 %s 的开发"
+
+k:"Square"
+v:"正方形"
+
+k:"Src"
+v:"源"
+
+k:"Src-Atop"
+v:"源于其上"
+
+k:"Src-In"
+v:"源内"
+
+k:"Src-Out"
+v:"源外"
+
+k:"Src-Over"
+v:"源覆盖"
+
+k:"ST"
+v:"ST"
+
+k:"Standard"
+v:"标准"
+
+k:"Start"
+v:"开始"
+
+k:"starts with"
+v:"以此开始"
+
+k:"State"
+v:"状态"
+
+k:"Stroke"
+v:"描边"
+
+k:"Stroke-And-Fill"
+v:"描边并填充"
+
+k:"Studied %s of %s hours"
+v:"已学习 %s / %s 小时"
+
+k:"Study"
+v:"学习"
+
+k:"Sub-Editors"
+v:"子编辑器"
+
+k:"Sub-Roll"
+v:"子掷骰"
+
+k:"Supernatural"
+v:"超自然"
+
+k:"Suppress the log output to the console"
+v:"禁止将日志输出到控制台"
+
+k:"sw (leveled)"
+v:"挥舞 (随等级)"
+
+k:"Swamp"
+v:"沼泽"
+
+k:"Swap Defaults"
+v:"交换缺省值"
+
+k:"Swing = Thrust+2"
+v:"挥舞 = 戳击+2"
+
+k:"Sync with all sources in this sheet"
+v:"与此表中的所有来源同步"
+
+k:"Sync with Source"
+v:"与来源同步"
+
+k:"Syncs all character sheet (%s) and template (%s) files specified on the command line with their library sources. If a directory is specified, it will be traversed recursively and all files found will be converted. After all files have been processed, GCS will exit"
+v:"将命令行中指定的所有角色卡 (%s) 和模板 (%s) 文件与其库来源同步。如果指定了目录，将递归遍历并转换找到的所有文件。处理完所有文件后，GCS 将退出。"
+
+k:"System"
+v:"系统"
+
+k:"System (Emphasized)"
+v:"系统（强调）"
+
+k:"T Bone's New Damage for ST (option 1)"
+v:"T Bone 的新ST伤害表（选项 1）"
+
+k:"T Bone's New Damage for ST (option 1, cleaned)"
+v:"T Bone 的新ST伤害表（选项 1，精简）"
+
+k:"T Bone's New Damage for ST (option 2)"
+v:"T Bone 的新ST伤害表（选项 2）"
+
+k:"T Bone's New Damage for ST (option 2, cleaned)"
+v:"T Bone 的新ST伤害表（选项 2，精简）"
+
+k:"Tab"
+v:"Tab"
+
+k:"Table Name"
+v:"表格名称"
+
+k:"Tag Filter"
+v:"标签过滤器"
+
+k:"Tag Qualifier"
+v:"标签限定"
+
+k:"Tags"
+v:"标签"
+
+k:"tags"
+v:"标签"
+
+k:"Target (Minimum) Value"
+v:"目标（最小）值"
+
+k:"Tech Level"
+v:"技术等级"
+
+k:"Technique"
+v:"技法"
+
+k:"Technique Default Adjustment"
+v:"技法缺省调整"
+
+k:"Technique Default Skill Name"
+v:"技法缺省技能名称"
+
+k:"Technique Default Skill Specialization"
+v:"技法缺省技能专精"
+
+k:"telekinetic sw"
+v:"念动力挥舞"
+
+k:"Telekinetic Swing"
+v:"念动力挥舞"
+
+k:"telekinetic thr"
+v:"念动力戳击"
+
+k:"Telekinetic Thrust"
+v:"念动力戳击"
+
+k:"Template Choice Quantifier"
+v:"模板选择量化"
+
+k:"Template Choices"
+v:"模板选择"
+
+k:"Terrain:"
+v:"地形："
+
+k:"Text"
+v:"文本"
+
+k:"The amount of DR this hit location grants due to natural toughness"
+v:"该命中部位因天生韧性而提供的护甲值 (DR)"
+
+k:"the attribute"
+v:"属性"
+
+k:"The base value, which may be a number or a script expression"
+v:"基础值，可以是数字或脚本表达式"
+
+k:"The cost per point difference from the base"
+v:"偏离基础值的每点花费"
+
+k:"The data was written with a newer version of %[1]s and cannot be loaded. Please update %[1]s and try again."
+v:"数据是用较新版本的 %[1]s 编写的，无法加载。请更新 %[1]s 后重试。"
+
+k:"The data was written with an older version of %s and cannot be loaded. You will need to load it with an earlier version that can read this version of the data and write the current format."
+v:"数据是用旧版本的 %s 编写的，无法加载。你需要使用可以读取该版本数据的旧版本加载它，并保存为当前格式。"
+
+k:"The dice to roll on the sub-table"
+v:"在子表中掷骰的骰数"
+
+k:"The dice to roll on the table"
+v:"在表中掷骰的骰数"
+
+k:"The dodge for the %s encumbrance level"
+v:"%s 负重等级下的躲避"
+
+k:"The DR covering the **%s** hit location"
+v:"覆盖 **%s** 命中部位的护甲值 (DR)"
+
+k:"The full name of this attribute (may be omitted, in which case the Short Name will be used instead)"
+v:"该属性的全称（可以省略，此时将使用简称代替）"
+
+k:"The GitHub Access Token is only needed for private repositories and only needs the read-only \"Content\" permission for access to this repo"
+v:"GitHub 访问令牌仅用于私有仓库，且只需要该仓库的只读“Content”权限"
+
+k:"The ground movement rate for the %s encumbrance level"
+v:"%s 负重等级下的地面移动力"
+
+k:"The internal PDF viewer will be used if the External PDF Viewer field is empty."
+k:"Use $FILE where the full path to the PDF should be placed."
+k:"Use $PAGE where the page number should be placed."
+k:""
+k:"In most cases, you'll want to surround the $FILE variable with quotes."
+v:"如果“外部 PDF 查看器”字段为空，则将使用内置 PDF 查看器。"
+v:"在需要放置 PDF 全路径的地方使用 $FILE。"
+v:"在需要放置页码的地方使用 $PAGE。"
+v:""
+v:"在大多数情况下，你需要给 $FILE 变量加上引号。"
+
+k:"The level of logging to use. Valid values are: "
+v:"使用的日志级别。有效值为："
+
+k:"The library cannot be updated while"
+k:"documents from the library are open."
+v:"当库中的文档处于打开状态时，"
+v:"无法更新库。"
+
+k:"The locale to use when presenting text in the user interface. This does not affect the content of data files. Leave this value blank to use the system default. Note that changes to this generally require quitting and restarting GCS to have the desired effect."
+v:"用户界面显示文本时使用的语言区域。这不会影响数据文件的内容。留空则使用系统默认。请注意，更改此项通常需要重启 GCS 才能生效。"
+
+k:"The mana cost to cast the spell"
+v:"施放法术所需的法力消耗"
+
+k:"The mana cost to maintain the spell"
+v:"维持法术所需的法力消耗"
+
+k:"The maximum load that can be carried and still remain within the %s encumbrance level"
+v:"在 %s 负重等级内可携带的最大负荷"
+
+k:"The maximum number of `bytes` to write to a log file before rotating it"
+v:"日志文件轮转前写入的最大字节数 (`bytes`)"
+
+k:"The maximum `number` of old logs files to retain"
+v:"保留旧日志文件的最大数量 (`number`)"
+
+k:"The minimum value of $%s could not be reached while staying at"
+k:"or under the maximum value of $%s with the available items."
+v:"在使用可用物品的情况下，无法在不超过 $%s 的最大值的前提下"
+v:"达到 $%s 的最小值。"
+
+k:"The name of this attribute, often an abbreviation"
+v:"属性名称，通常是缩写"
+
+k:"The name of this body type"
+v:"该体型的名称"
+
+k:"The name of this hit location as it should appear in choice lists"
+v:"该命中部位在选择列表中显示的名称"
+
+k:"The name of this hit location as it should appear in the hit location table"
+v:"该命中部位在命中部位表中显示的名称"
+
+k:"The number of consecutive numbers this hit location fills in the table"
+v:"该命中部位在表中占据的连续数字数量"
+
+k:"The object is too heavy for you to throw"
+v:"该物品太重，你无法投掷"
+
+k:"The output file may not be an empty path."
+v:"输出文件路径不能为空。"
+
+k:"The reduction in cost for each SM greater than 0"
+v:"SM每大于 0 一级所减少的花费"
+
+k:"The script should return text describing the missing prerequisite or an empty string if the prerequisite has been met"
+v:"脚本应返回描述缺失前提条件的文本，如果满足前提条件则返回空字符串"
+
+k:"The skill adjustment for this hit location"
+v:"该命中部位的技能调整值"
+
+k:"The teacher must have the skill/spell/trait being taught at a higher level than you and have more points spent in it than you do"
+v:"教师教授的技能/法术/特质等级必须高于你，且投入的点数也必须多于你"
+
+k:"The teacher must have the skill/spell/trait being taught at the same or higher level than you, or have as many or more points spent in it as you do"
+v:"教师教授的技能/法术/特质等级必须不低于你，或投入的点数不少于你"
+
+k:"The teacher must have the Teaching skill at 12+"
+v:"教师的教学技能等级必须达到 12+"
+
+k:"The template contains an Ancestry (%s)."
+k:"Disable your character's existing Ancestry (%s)?"
+v:"此模板包含一个种族 (%s)。"
+v:"是否禁用角色现有的种族 (%s)？"
+
+k:"The time required to cast the spell"
+v:"施放法术所需的时间"
+
+k:"The value of all of these pieces of equipment, plus the value of any contained equipment"
+v:"所有这些装备的价值，加上其中所含任何装备的价值"
+
+k:"The value of one of these pieces of equipment"
+v:"其中一件装备的价值"
+
+k:"The value where the threshold takes effect, which may be a number or a script expression"
+v:"阈值生效的值，可以是数字或脚本表达式"
+
+k:"The value, which may be a number or a script expression"
+v:"该值，可以是数字或脚本表达式"
+
+k:"The weapon has a minimum ST of %v. If your ST is less than this, you will suffer a -1 to weapon skill per point of ST you lack and lose one extra FP at the end of any fight that lasts long enough to cost FP."
+v:"该武器的最小ST需求为 %v。如果你的ST低于此值，每缺少 1 点ST，武器技能就会受到 -1 减值，且在任何持续时间足以消耗 FP 的战斗结束时多损失 1 点 FP。"
+
+k:"The weapon has a rated ST of %v, which is used instead of the user's ST for all calculations except minimum ST."
+v:"该武器的额定ST为 %v，除了最小ST需求外，所有计算都将使用此值代替使用者的ST。"
+
+k:"The weight of all of these pieces of equipment, plus the weight of any contained equipment"
+v:"所有这些装备的重量，加上其中所含任何装备的重量"
+
+k:"The weight of an object that can be shoved and knocked over"
+v:"可以推撞物品的重量"
+
+k:"The weight of an object that can be shoved and knocked over with a running start"
+v:"助跑后可以推撞物品的重量"
+
+k:"The weight of one of these pieces of equipment"
+v:"其中一件装备的重量"
+
+k:"The weight that can be carried slung across the back"
+v:"可以背负的重量"
+
+k:"The weight that can be lifted overhead with both hands in four seconds"
+v:"四秒内用双手举过头顶的重量"
+
+k:"The weight that can be lifted overhead with one hand in one second"
+v:"一秒内用单手举过头顶的重量"
+
+k:"The weight that can be lifted overhead with one hand in two seconds"
+v:"两秒内用单手举过头顶的重量"
+
+k:"The weight that can be shifted slightly on a floor"
+v:"在地面上可以轻微移动的物品重量"
+
+k:"The weight, which may be a number with optional units or a script expression"
+v:"重量，可以是带有可选单位的数字或脚本表达式"
+
+k:"The `file` to load settings from and store them into"
+v:"用于加载和存储设置的文件 (`file`)"
+
+k:"The `file` to write logs to"
+v:"用于写入日志的文件 (`file`)"
+
+k:"Theme Colors"
+v:"主题颜色"
+
+k:"There is no valid mapping for page reference key \"%s\"."
+k:"Would you like to create one by choosing a PDF to map to this key?"
+v:"页面引用键“%s”没有有效的映射。"
+v:"是否通过选择一个 PDF 文件来创建该键的映射？"
+
+k:"these entries"
+v:"这些条目"
+
+k:"these libraries"
+v:"这些库"
+
+k:"These notes may have scripts embedded in them by wrapping each script in <script>your script goes here</script> tags."
+v:"这些笔记可以嵌入脚本，方法是将脚本包装在 <script>你的脚本</script> 标签中。"
+
+k:"These notes will be interpreted as markdown and may also have scripts embedded in them by wrapping each script in <script>your script goes here</script> tags."
+v:"这些笔记将解释为 Markdown，也可以通过将脚本包装在 <script>你的脚本</script> 标签中来嵌入脚本。"
+
+k:"Thin"
+v:"细体"
+
+k:"This weapon fires %v %s per attack and each shot releases %v smaller %s."
+v:"该武器每次攻击发射 %v 个 %s，且每发释放 %v 个较小的 %s。"
+
+k:"thr (leveled)"
+v:"戳击 (随等级)"
+
+k:"Threshold"
+v:"阈值"
+
+k:"Throwing"
+v:"投掷"
+
+k:"Throwing Extra Effort Penalty"
+v:"投掷额外努力减值"
+
+k:"Thrown"
+v:"被投掷"
+
+k:"Thrown Weapon"
+v:"投掷武器"
+
+k:"Thrust = Swing-2"
+v:"戳击 = 挥舞-2"
+
+k:"Time"
+v:"时间"
+
+k:"times the current encumbrance level"
+v:"倍于当前负重等级"
+
+k:"Tip"
+v:"提示"
+
+k:"Title"
+v:"头衔"
+
+k:"TL"
+v:"TL"
+
+k:"TL0: Stone Age (Prehistory)"
+k:"TL1: Bronze Age (3500 B.C.+)"
+k:"TL2: Iron Age (1200 B.C.+)"
+k:"TL3: Medieval (600 A.D.+)"
+k:"TL4: Age of Sail (1450+)"
+k:"TL5: Industrial Revolution (1730+)"
+k:"TL6: Mechanized Age (1880+)"
+k:"TL7: Nuclear Age (1940+)"
+k:"TL8: Digital Age (1980+)"
+k:"TL9: Microtech Age (2025+?)"
+k:"TL10: Robotic Age (2070+?)"
+k:"TL11: Age of Exotic Matter"
+k:"TL12: Anything Goes"
+v:"TL0：石器时代（史前）"
+v:"TL1：青铜时代（公元前 3500+）"
+v:"TL2：铁器时代（公元前 1200+）"
+v:"TL3：中古时代（公元 600+）"
+v:"TL4：航海时代（1450+）"
+v:"TL5：工业时代（1730+）"
+v:"TL6：机械时代（1880+）"
+v:"TL7：核能时代（1940+）"
+v:"TL8：信息时代（1980+）"
+v:"TL9：微技术时代（2025+?）"
+v:"TL10：机器人时代（2070+?）"
+v:"TL11：超物质时代"
+v:"TL12：奇迹时代"
+
+k:"to"
+v:"至"
+
+k:"to all colleges"
+v:"至所有学派"
+
+k:"to all locations"
+v:"至所有部位"
+
+k:"to base cost"
+v:"至基础花费"
+
+k:"to base cost only"
+v:"仅至基础花费"
+
+k:"to base weight"
+v:"至基础重量"
+
+k:"to cost"
+v:"至花费"
+
+k:"to false"
+v:"为 假 (false)"
+
+k:"to final base cost"
+v:"至最终基础花费"
+
+k:"to final base weight"
+v:"至最终基础重量"
+
+k:"to final cost"
+v:"至最终花费"
+
+k:"to final weight"
+v:"至最终重量"
+
+k:"to leveled cost only"
+v:"仅至等级花费"
+
+k:"to original cost"
+v:"至原始花费"
+
+k:"to original weight"
+v:"至原始重量"
+
+k:"to skills whose name"
+v:"至名称符合以下的技能："
+
+k:"to the college whose name"
+v:"至名称符合以下的学派："
+
+k:"to the power source whose name"
+v:"至名称符合以下的力量来源："
+
+k:"to the spell whose name"
+v:"至名称符合以下的法术："
+
+k:"to these locations:"
+v:"至这些部位："
+
+k:"to this armor"
+v:"至该护甲"
+
+k:"to this weapon"
+v:"至该武器"
+
+k:"to traits whose name"
+v:"至名称符合以下的特质："
+
+k:"to true"
+v:"为 真 (true)"
+
+k:"to weapons whose name"
+v:"至名称符合以下的武器："
+
+k:"to weapons whose required skill name"
+v:"至所需技能名称符合以下的武器："
+
+k:"Toggle"
+v:"切换"
+
+k:"Toggle Edit Mode"
+v:"切换编辑模式"
+
+k:"Toggle Enablement"
+v:"切换启用状态"
+
+k:"Toggle Equipment Modifier"
+v:"切换装备修正"
+
+k:"Toggle Equipped"
+v:"切换装备状态"
+
+k:"Toggle Favorite"
+v:"切换收藏"
+
+k:"Toggle Hidden"
+v:"切换隐藏"
+
+k:"Toggle State"
+v:"切换状态"
+
+k:"Toggle the Sidebar"
+v:"切换侧边栏"
+
+k:"Toggle Trait Modifier"
+v:"切换特质修正"
+
+k:"Tooltip"
+v:"工具提示"
+
+k:"Tooltip Delay"
+v:"工具提示延迟"
+
+k:"Tooltip Dismissal"
+v:"工具提示消失"
+
+k:"Top"
+v:"顶"
+
+k:"Top Margin"
+v:"上边距"
+
+k:"Total"
+v:"总计"
+
+k:"Total points spent on advantages"
+v:"花费在优势上的总点数"
+
+k:"Total points spent on an ancestry package"
+v:"花费在种族包上的总点数"
+
+k:"Total points spent on attributes"
+v:"花费在属性上的总点数"
+
+k:"Total points spent on disadvantages"
+v:"花费在劣势上的总点数"
+
+k:"Total points spent on quirks"
+v:"花费在quirks上的总点数"
+
+k:"Total points spent on skills"
+v:"花费在技能上的总点数"
+
+k:"Total points spent on spells"
+v:"花费在法术上的总点数"
+
+k:"Trait"
+v:"特质"
+
+k:"Trait Container"
+v:"特质容器"
+
+k:"Trait level adjustments:"
+k:""
+v:"特质等级调整："
+v:""
+
+k:"Trait Modifier"
+v:"特质修正"
+
+k:"Trait Modifier Container"
+v:"特质修正容器"
+
+k:"Trait Modifiers"
+v:"特质修正"
+
+k:"Traits"
+v:"特质"
+
+k:"Translate"
+v:"移动"
+
+k:"Translations dir: "
+v:"翻译目录："
+
+k:"Translations Path"
+v:"翻译路径"
+
+k:"Tray"
+v:"托盘"
+
+k:"treats the attack as braced (add +1 to Accuracy)."
+v:"将攻击视为获得支撑（Acc +1）。"
+
+k:"Triggering Condition"
+v:"触发条件"
+
+k:"triggering condition"
+v:"触发条件"
+
+k:"Two-handed"
+v:"双手"
+
+k:"Two-handed & unready"
+v:"双手且未准备"
+
+k:"Two-handed and Unready After Attack"
+v:"双手并在攻击后未准备"
+
+k:"Two-Handed Lift"
+v:"双手举起"
+
+k:"Two-Sided, Long Edge"
+v:"双面，长边翻转"
+
+k:"Two-Sided, Short Edge"
+v:"双面，短边翻转"
+
+k:"Type"
+v:"类型"
+
+k:"U: Unbalanced weapon. You cannot use it to parry if you have already used it to attack this turn (or vice-versa)."
+v:"U：不平衡武器。如果你在本回合已经用它进行过攻击，则不能用它招架（反之亦然）。"
+
+k:"Ultra-Condensed"
+v:"超浓缩体"
+
+k:"Ultra-Expanded"
+v:"超扩展体"
+
+k:"Unable to access the %s update site"
+v:"无法访问 %s 更新站点"
+
+k:"Unable to clone character sheet"
+v:"无法克隆角色卡"
+
+k:"Unable to create file dialog."
+v:"无法创建文件对话框。"
+
+k:"Unable to create new folder dialog"
+v:"无法创建新文件夹对话框"
+
+k:"Unable to create new markdown file"
+v:"无法创建新的 Markdown 文件"
+
+k:"Unable to create print data!"
+v:"无法创建打印数据！"
+
+k:"Unable to create print dialog."
+v:"无法创建打印对话框。"
+
+k:"Unable to create rename dialog"
+v:"无法创建重命名对话框"
+
+k:"Unable to create:"
+k:"%s"
+v:"无法创建："
+v:"%s"
+
+k:"Unable to export as %s!"
+v:"无法导出为 %s！"
+
+k:"Unable to export portrait"
+v:"无法导出肖像"
+
+k:"Unable to generate treasure!"
+v:"无法生成宝藏！"
+
+k:"Unable to load "
+v:"无法加载 "
+
+k:"Unable to load character sheet"
+v:"无法加载角色卡"
+
+k:"Unable to load image"
+v:"无法加载图片"
+
+k:"Unable to load template"
+v:"无法加载模板"
+
+k:"Unable to locate the library source data to compare against"
+v:"无法定位用于对比的库源数据"
+
+k:"Unable to open "
+v:"无法打开 "
+
+k:"Unable to open %s"
+v:"无法打开 %s"
+
+k:"Unable to open file:"
+k:""
+v:"无法打开文件："
+v:""
+
+k:"Unable to open link"
+v:"无法打开链接"
+
+k:"Unable to open markdown"
+v:"无法打开 Markdown"
+
+k:"Unable to open web page for download"
+v:"无法打开下载网页"
+
+k:"Unable to remove directory:"
+k:"%s"
+v:"无法移除目录："
+v:"%s"
+
+k:"Unable to remove file:"
+k:"%s"
+v:"无法移除文件："
+v:"%s"
+
+k:"Unable to rename:"
+k:"%s"
+v:"无法重命名："
+v:"%s"
+
+k:"Unable to resolve absolute path"
+v:"无法解析绝对路径"
+
+k:"Unable to save "
+v:"无法保存 "
+
+k:"Unable to save %s"
+v:"无法保存 %s"
+
+k:"Unable to save as "
+v:"无法另存为 "
+
+k:"Unable to save global settings"
+v:"无法保存全局设置"
+
+k:"Unable to show location on disk"
+v:"无法在磁盘上显示位置"
+
+k:"Unable to update"
+v:"无法更新"
+
+k:"Unable to update library location"
+v:"无法更新库位置"
+
+k:"Unable to use external PDF command line"
+v:"无法使用外部 PDF 命令行"
+
+k:"Unbalanced"
+v:"不平衡"
+
+k:"Undo %s"
+v:"撤销 %s"
+
+k:"Undock From Workspace"
+v:"从工作区分离"
+
+k:"Union"
+v:"并集"
+
+k:"Units of Measurement"
+v:"测量单位"
+
+k:"Unknown"
+v:"未知"
+
+k:"Unknown feature type: %s"
+v:"未知特性类型：%s"
+
+k:"Unknown prerequisite type: %s"
+v:"未知前提类型：%s"
+
+k:"Unmodified"
+v:"未修正"
+
+k:"Unnamed Character"
+v:"未命名角色"
+
+k:"Unnamed Loot"
+v:"未命名战利品"
+
+k:"unrecognized key (%s)"
+v:"无法识别的键 (%s)"
+
+k:"Unsatisfied prerequisite(s)"
+v:"不满足前提条件"
+
+k:"Unspent"
+v:"未花费"
+
+k:"untitled"
+v:"未命名"
+
+k:"untitled choice"
+v:"未命名选项"
+
+k:"untitled location"
+v:"未命名部位"
+
+k:"Unweighted American Female"
+v:"非加权美国女性名"
+
+k:"Unweighted American Last"
+v:"非加权美国姓氏"
+
+k:"Unweighted American Male"
+v:"非加权美国男性名"
+
+k:"Up"
+v:"向上"
+
+k:"Update"
+v:"更新"
+
+k:"Update %s to %s?"
+v:"是否将 %s 更新至 %s？"
+
+k:"Update canceled"
+v:"更新已取消"
+
+k:"Update to"
+v:"更新至"
+
+k:"Updating %s to %s…"
+v:"正在将 %s 更新至 %s…"
+
+k:"Updating…"
+v:"更新中…"
+
+k:"Upright"
+v:"垂直"
+
+k:"Usage"
+v:"用途"
+
+k:"Usage Qualifier"
+v:"用途限定"
+
+k:"Usage: "
+v:"用途："
+
+k:"Use Half-Stat Defaults"
+v:"使用属性减半缺省值"
+
+k:"Use level from owner"
+v:"使用拥有者的等级"
+
+k:"Use Modifying Dice + Adds"
+v:"使用修正骰子 + 加值"
+
+k:"Use Multiplicative Modifiers"
+v:"使用乘法修正项"
+
+k:"Use Separate Windows"
+v:"使用独立窗口"
+
+k:"Use the most recent commit (possibly unreleased) of this repository"
+v:"使用该仓库的最近提交（可能尚未发布）"
+
+k:"User Description"
+v:"用户描述"
+
+k:"User Guide"
+v:"用户指南"
+
+k:"User Library"
+v:"用户库"
+
+k:"Uses a Musket Rest"
+v:"使用滑膛枪支架"
+
+k:"Uses a musket rest"
+v:"使用滑膛枪支架"
+
+k:"Uses Left"
+v:"剩余用途"
+
+k:"Using skates"
+v:"使用溜冰鞋"
+
+k:"Using skis"
+v:"使用滑雪板"
+
+k:"Value"
+v:"价值/值"
+
+k:"Value must be at least %s"
+v:"值必须至少为 %s"
+
+k:"Value must be no more than %s"
+v:"值不能超过 %s"
+
+k:"Version %s"
+v:"版本 %s"
+
+k:"View"
+v:"查看"
+
+k:"VTT Notes"
+v:"VTT 笔记"
+
+k:"Warning"
+v:"警告"
+
+k:"Weapon Accuracy"
+v:"武器精确度 (Acc)"
+
+k:"weapon accuracy"
+v:"武器精确度 (Acc)"
+
+k:"Weather:"
+v:"天气："
+
+k:"Web Site"
+v:"网站"
+
+k:"WEBP"
+v:"WEBP"
+
+k:"Weight"
+v:"重量"
+
+k:"Weight Adjustment"
+v:"重量调整"
+
+k:"Weight Modifier"
+v:"重量修正"
+
+k:"Weight Qualifier"
+v:"重量限定"
+
+k:"Weight Units"
+v:"重量单位"
+
+k:"When"
+v:"当时机为"
+
+k:"When Tech Level"
+v:"当技术等级"
+
+k:"When the Tech Level"
+v:"当技术等级"
+
+k:"when the Tech Level"
+v:"当技术等级"
+
+k:"Where to display…"
+v:"在哪里显示…"
+
+k:"Whether this modifier is enabled. Modifiers that are not enabled do not apply any features they may normally contribute."
+v:"该修正项是否启用。未启用的修正项不会应用其通常贡献的任何特性。"
+
+k:"Whether this piece of equipment is equipped or just carried. Items that are not equipped do not apply any features they may normally contribute to the character."
+v:"这件装备是已装备还是仅仅携带。未装备的物品不会对角色应用其通常贡献的任何特性。"
+
+k:"which"
+v:"其中"
+
+k:"whose college "
+v:"学派名称符合："
+
+k:"whose college name"
+v:"学派名称符合："
+
+k:"whose name"
+v:"名称符合："
+
+k:"whose name "
+v:"名称符合："
+
+k:"whose tag "
+v:"标签符合："
+
+k:"Winding"
+v:"绕组"
+
+k:"Window"
+v:"窗口"
+
+k:"with a tag which"
+v:"且标签符合："
+
+k:"Within this view, these keys have the following effects:"
+k:""
+v:"在此视图中，这些键具有以下作用："
+v:""
+
+k:"World1"
+v:"世界 1"
+
+k:"World2"
+v:"世界 2"
+
+k:"Would you like to apply the initial randomization again?"
+v:"你想再次应用初始随机化吗？"
+
+k:"x"
+v:"x"
+
+k:"x1/%d, rounded up (min 1 second)"
+v:"x1/%d，向上取整（最小 1 秒）"
+
+k:"X-Heavy"
+v:"超重载"
+
+k:"Xor"
+v:"异或"
+
+k:"yard"
+v:"码"
+
+k:"Yes"
+v:"是"
+
+k:"Zoom"
+v:"缩放"
+
+k:"[file]..."
+v:"[文件]..."
+
+k:"±"
+v:"±"
+
+k:"½ Damage"
+v:"半伤害"
+
+k:"½ Damage Range"
+v:"半伤害射程"
+
+k:"†: Requires two hands. If you have at least ST %v, you can use it one-handed, but it becomes unready after you attack with it. If you have at least ST %v, you can use it one-handed with no readiness penalty."
+v:"†：需要双手使用。如果你至少拥有 %v 点ST，你可以单手使用它，但在攻击后它会变为未准备状态。如果你至少拥有 %v 点ST，你可以单手使用它且没有准备上的惩罚。"
+
+k:"‡: Requires two hands and becomes unready after you attack with it. If you have at least ST %v, you can used it two-handed without it becoming unready. If you have at least ST %v, you can use it one-handed with no readiness penalty."
+v:"‡：需要双手使用且攻击后变为未准备。如果你至少拥有 %v 点ST，你可以双手使用它且攻击后不会未准备。如果你至少拥有 %v 点ST，你可以单手使用它且没有准备上的惩罚。"
